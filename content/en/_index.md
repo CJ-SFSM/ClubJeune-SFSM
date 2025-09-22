@@ -14,36 +14,36 @@ Le **CJSM** est un collectif de jeunes chercheur·es qui promeut les échanges, 
 {{< /brick_intro >}}
 {{< brick_image2 >}}
 
-## What’s included in Hugobricks?
+## Nos objectifs
 
-![](/uploads/illustrations/cuate/responsive.svg)
+![](/uploads/illustrations/goal.svg)
 
-Hugobricks is a comprehensive starter theme that includes everything you need to get started with your Hugo project. As all the Wordpress theme builders say: This is the last theme you will ever need. Included are:
+Notre mission est simple mais ambitieuse : créer du lien, soutenir les jeunes professionnel·les de la discipline, et encourager des démarches collectives et ouvertes.
 
-- 10+ Pre-build pages
-- 99+ Google Pagespeed Score
-- Built with Hugo and CSS variables for easy styling
-- Fully responsive on all devices
-- SEO-optimized for better search engine rankings
+- Création d’un réseau de jeunes scientifiques
+- Organisation de webinaires et événements
+- Mise en place de mentorat intergénérationnel
+- Partage d’opportunités de carrière
+- Promotion d’une science collaborative
 
 {{< /brick_image2 >}}
 {{< brick_image >}}
 
-## What bricks are available?
+## Ce que nous construisons ensemble
 
-![](/uploads/illustrations/cuate/version-control.svg)
+![](/uploads/illustrations/team.svg)
 
-We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related. 
+Le CJSM est un lieu d’initiatives porté par la jeune communauté en spectrométrie de masse. Nous évoluons avec l'énergie et la créativité de nos membres : rejoignez-nous !
 
-We are constantly adding bricks and shortcodes to this theme. Are you missing a brick or a shortcode? [Let us know](/contact/)! We will build it for you!
+[Contactez-nous](/contact/)
 
 {{< /brick_image >}}
 {{< brick_reviews >}}{{< /brick_reviews >}}
 {{< brick_features >}}
 
-## The Ultimate Hugo theme
+## Pourquoi rejoindre le CJSM ?
 
-Hugobricks covers all components you would like to have at hand. It is a power engine for your web oriented projects. It has excellent performance in all categories.
+Un club pour les jeunes scientifiques, pensé par eux, avec eux.
 
 ---
 
