@@ -47,42 +47,32 @@ Un club pour les jeunes scientifiques, pensé par eux, avec eux.
 
 ---
 
-![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
-### Covers all components
+![](/img/icons/material-symbols/200/rounded/teamwork.svg)
+### Une communauté dynamique
 
-We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related.
-
----
-
-![](/img/icons/material-symbols/200/rounded/performance_max.svg)
-### 99+ Google Lighthouse score
-
-Lightning fast website. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+Rejoignez un réseau de jeunes impliqué·es dans la valorisation des approches analytiques et omiques.
 
 ---
 
-![](/img/icons/material-symbols/200/rounded/design_services.svg)
-### Themeable through CSS variables
+![](/img/icons/material-symbols/200/rounded/step-up.svg)
+### Mentorat & accompagnement
 
-Easily themeable. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
-
----
-
-![](/img/icons/material-symbols/200/rounded/devices.svg)
-### Fully responsive on all devices
-
-Works on every screen. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+Un programme de mentorat pour s’inspirer, partager, et se développer scientifiquement et humainement.
 
 ---
 
-![](/img/icons/material-symbols/200/rounded/timer.svg)
-### Super fast builds and deploys
+![](/img/icons/material-symbols/200/rounded/idea.svg)
+### Valorisation de vos projets
 
-Extremely fast. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+Le CJSM met en lumière vos thèses, publications, conférences et idées.
 
 ---
 
-![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
+![](/img/icons/material-symbols/200/rounded/development.svg)
+### Développement professionnel
+
+Partage d’offres d’emploi, formations, et occasions de visibilité pour jeunes chercheurs.
+
 ### 10+ pre-build pages
 
 Start with the end result. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
