@@ -7,6 +7,9 @@ disableKinds:
   - taxonomy
   - term
 
+relativeURLs: true
+canonifyURLs: true
+
 markup:
   goldmark:
     renderer:
