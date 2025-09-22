@@ -9,7 +9,7 @@ Le **CJSM** est un collectif de jeunes chercheur·es qui promeut les échanges, 
 
 {{< button "Découvrir le bureau" "/get-started/" >}}
 
-![](/uploads/illustrations/cuate/assets.svg)
+![](/uploads/illustrations/Logo_CJSM_HD_black.svg)
 
 {{< /brick_intro >}}
 {{< brick_image2 >}}
