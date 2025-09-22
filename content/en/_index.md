@@ -3,11 +3,11 @@ title: Home
 ---
 {{< brick_intro >}}
 
-# Build your next Hugo website with stackable content bricks
+# Bienvenue sur le site du Club Jeune de la Spectrométrie de Masse
 
-Hugobricks is a free website theme for Hugo. It makes building Hugo websites child's play due to its stackable (LEGO-like) content bricks. How about this 'intro brick' with a clear call-to-action? Stack it on top of some image bricks and a pricing table and build a complete website in seconds!
+Le **CJSM** est un collectif de jeunes chercheur·es qui promeut les échanges, le mentorat et la visibilité des travaux en spectrométrie de masse.
 
-{{< button "Get started for free" "/get-started/" >}}
+{{< button "Découvrir le bureau" "/get-started/" >}}
 
 ![](/uploads/illustrations/cuate/assets.svg)
 
