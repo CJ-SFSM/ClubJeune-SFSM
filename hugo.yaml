@@ -1,4 +1,4 @@
-baseURL: https://cj-sfsm.github.io/ClubJeune-SFSM/
+baseURL: "https://cj-sfsm.github.io/ClubJeune-SFSM/"
 theme: hugobricks
 defaultContentLanguage: en
 assetDir: static
