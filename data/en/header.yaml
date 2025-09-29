@@ -14,8 +14,6 @@ menuitems:
         link: /team/
       - title: Anciens bureaux
         link: /old_bureau/
-  - title: Elements
-    link: /elements/
   - title: "le CJSM"
     link: "/chiffres/"
     items:

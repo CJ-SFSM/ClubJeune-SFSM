@@ -40,17 +40,4 @@ languages:
         posts: /blog/
         services: /services/
         products: /webshop/
-  nl:
-    languageName: Nederlands
-    contentDir: content/nl
-    weight: 2
-    disabled: false
-    permalinks:
-      page:
-        posts: /blog/:slug
-        services: /diensten/:slug
-        products: /winkel/:slug
-      section:
-        posts: /blog/
-        services: /diensten/
-        products: /winkel/
+
