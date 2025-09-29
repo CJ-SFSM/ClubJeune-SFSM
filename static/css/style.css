@@ -213,5 +213,60 @@ img {filter: grayscale(0);}
   text-decoration: underline;
 }
 
+/* Formulaire sponsoring */
+
+.form-section {
+  min-height: 100vh;        /* occupe toute la hauteur de la page */
+  display: flex;
+  align-items: center;      /* centre verticalement */
+  background: #f9f9f9;      /* fond doux */
+  padding: 3rem 0;
+}
+
+.form-wrapper {
+  background: #fff;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  width: 100%;
+}
+
+.form-wrapper form {
+  width: 100%;
+}
+
+.form-wrapper label {
+  display: block;
+  margin: 0.5rem 0 0.25rem;
+  font-weight: 600;
+}
+
+.form-wrapper input,
+.form-wrapper select,
+.form-wrapper textarea {
+  width: 100%;
+  padding: 0.75rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+}
+
+.form-wrapper button,
+.form-wrapper input[type="submit"] {
+  background-color: #003366;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.form-wrapper button:hover,
+.form-wrapper input[type="submit"]:hover {
+  background-color: #0055aa;
+}
 
 /*------------------------ CSS overrides below ------------------------*/
