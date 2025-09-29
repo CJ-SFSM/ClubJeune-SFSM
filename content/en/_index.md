@@ -20,8 +20,11 @@ Le **CJSM** est un collectif de jeunes chercheur·es qui promeut les échanges, 
 ---
 {{< /brick_title >}}
 
+{{< brick_intro >}}
 Nous remercions les sponsors d'avoir financé les journées scientifiques du club jeune qui sont eu lieu au Moulin de Moissac à Toulouse.
 Vous aussi, vous pouvez nous sponsorisés. Pour cela, rendez-vous au formulaire disponible [ici](/sponsoring/). 
+{{< /brick_intro >}}
+
 {{< gallery dir="/uploads/sponsors/" >}}
 
 {{< brick_image2 >}}
