@@ -10,26 +10,8 @@ menuitems:
   - title: Pages
     link: /about/
     items: 
-      - title: About
-        link: /about/
-      - title: Basic page 1
-        link: /basic/
-      - title: Basic page 2
-        link: /basic2/
-      - title: Images
-        link: /images/
       - title: Bureau actuel
         link: /team/
-      - title: Services
-        link: /our-services/
-      - title: Contact us
-        link: /contact/
-      - title: F.A.Q.
-        link: /faq/
-      - title: Webshop
-        link: /webshop/
-      - title: 404 Page
-        link: /404.html
       - title: Anciens bureaux
         link: /old_bureau/
   - title: Elements
@@ -54,19 +36,6 @@ menuitems:
         link: "/ateliers/"
   - title: "Emploi"
     link: "/jobs/"
-  - title: Docs
-    link: /docs/
-  - title: Examples
-    link: /demo-paragliding/
-    items: 
-      - title: Paragliding
-        link: /demo-paragliding/
-      - title: Hiking
-        link: /demo-hiking/
-      - title: Poulterer
-        link: /demo-poulterer/
-      - title: POS software
-        link: /demo-pos/
 cta:
   active: false
   title: Get started
