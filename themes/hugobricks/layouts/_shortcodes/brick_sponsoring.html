@@ -1,7 +1,66 @@
 <section class="form-section">
   <div class="container">
     <div class="form-wrapper">
-      {{ readFile "static/uploads/data/sponsoring_bilingue.html" | safeHTML }}
+      
+      <!-- ===== FORMULAIRE SPONSORING BILINGUE ===== -->
+      <form method="post" action="https://formspree.io/f/xxxxxx">
+        
+        <!-- Bloc FR -->
+        <fieldset>
+          <legend>Formulaire de sponsoring (FR)</legend>
+
+          <label for="societe_fr">Société</label>
+          <input type="text" id="societe_fr" name="societe_fr" required>
+
+          <label for="contact_fr">Contact</label>
+          <input type="text" id="contact_fr" name="contact_fr" required>
+
+          <label for="email_fr">Email</label>
+          <input type="email" id="email_fr" name="email_fr" required>
+
+          <label for="tel_fr">Téléphone</label>
+          <input type="tel" id="tel_fr" name="tel_fr">
+
+          <label for="niveau_fr">Niveau de sponsoring</label>
+          <select id="niveau_fr" name="niveau_fr" required>
+            <option value="">Sélectionner</option>
+            <option value="prestige">Prestige</option>
+            <option value="premium">Premium</option>
+            <option value="standard">Standard</option>
+            <option value="academique">Académique</option>
+          </select>
+        </fieldset>
+
+        <!-- Bloc EN -->
+        <fieldset>
+          <legend>Sponsorship Form (EN)</legend>
+
+          <label for="societe_en">Company</label>
+          <input type="text" id="societe_en" name="societe_en" required>
+
+          <label for="contact_en">Contact</label>
+          <input type="text" id="contact_en" name="contact_en" required>
+
+          <label for="email_en">Email</label>
+          <input type="email" id="email_en" name="email_en" required>
+
+          <label for="tel_en">Phone</label>
+          <input type="tel" id="tel_en" name="tel_en">
+
+          <label for="niveau_en">Sponsorship level</label>
+          <select id="niveau_en" name="niveau_en" required>
+            <option value="">Select</option>
+            <option value="prestige">Prestige</option>
+            <option value="premium">Premium</option>
+            <option value="standard">Standard</option>
+            <option value="academic">Academic</option>
+          </select>
+        </fieldset>
+
+        <input type="submit" value="Envoyer / Submit">
+      </form>
+      <!-- ===== FIN FORMULAIRE ===== -->
+
     </div>
   </div>
 </section>
