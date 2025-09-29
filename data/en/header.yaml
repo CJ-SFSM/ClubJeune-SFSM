@@ -7,8 +7,8 @@ menuitems:
     link: /#top
   - title: Actualités
     link: /blog/
-  - title: Pages
-    link: /about/
+  - title: Bureau
+    link: /team/
     items: 
       - title: Bureau actuel
         link: /team/

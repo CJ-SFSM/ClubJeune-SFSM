@@ -41,7 +41,7 @@
 - name: "CluzeauInfoLab"
   url: "https://shop.cluzeau.fr/"
   niveau: "Premium"
-  logo: ss_nut_3_8_24_thread.jpg
+  logo: cluzeau.jpg
 
 - name: "logo_profi"
   url: "https://www.profiproteomics.fr/"
