@@ -7,5 +7,5 @@ title: "Formulaire partenariat Club Jeune SFSM"
 # Nous sponsoriser
 
 
-{{< sponsoring>}}
+{{< brick_sponsoring>}}
 {{< /brick_wide >}}
