@@ -1,0 +1,44 @@
+{{ $dir := string (.Get "dir") }}
+{{ $logos := site.Data.en.sponsors }}
+
+{{ if not $logos }}
+  <p><strong>Erreur : fichier <code>data/en/sponsors.yaml</code> introuvable ou vide.</strong></p>
+{{ else }}
+  {{ $groupes := slice "Prestige" "Premium" "Standard" "Académique"}}
+
+  {{ range $groupe := $groupes }}
+    {{ $filtrés := where $logos "niveau" $groupe }}
+    {{ if gt (len $filtrés) 0 }}
+      <div class="sponsor-section sponsor-{{ $groupe }}">
+        <h3 class="sponsor-title">{{ title $groupe }}</h3>
+        <div class="sponsors-gallery">
+          {{ range $filtrés }}
+            {{- $name := .name -}}
+            {{- $url := .url -}}
+            {{- $niveau := .niveau -}}
+
+            {{ $fichiers := readDir (print "/static" $dir) }}
+            {{ $fichier := "" }}
+
+            {{ range $fichiers }}
+              {{ if (in .Name $name) }}
+                {{ $fichier = .Name }}
+              {{ end }}
+            {{ end }}
+
+            {{ if $fichier }}
+              {{ $imageurl := printf "%s/%s" $dir $fichier }}
+              <div class="sponsor-logo sponsor-logo-{{ $niveau }}">
+                <a href="{{ $url }}" target="_blank" rel="noopener">
+                  <img src="{{ $imageurl | relURL }}" alt="Logo de {{ $name }}" />
+                </a>
+              </div>
+            {{ else }}
+              <p>Image non trouvée pour : {{ $name }}</p>
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+  {{ end }}
+{{ end }}

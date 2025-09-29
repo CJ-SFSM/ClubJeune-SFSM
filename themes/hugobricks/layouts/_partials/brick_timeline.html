@@ -1,0 +1,11 @@
+<div class="timeline">
+  {{ range $index, $event := site.Data.timeline.events }}
+    <div class="timeline-item {{ if modBool $index 2 }}left{{ else }}right{{ end }}">
+      <div class="timeline-item-content">
+        <h3>{{ $event.date }}</h3>
+        {{ if $event.title }}<h2>{{ $event.title | safeHTML }}</h2>{{ end }}
+        <p>{{ $event.place | safeHTML }}</p>
+      </div>
+    </div>
+  {{ end }}
+</div>

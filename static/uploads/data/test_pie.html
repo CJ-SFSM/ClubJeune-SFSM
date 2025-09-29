@@ -1,0 +1,127 @@
+<script>
+
+document.addEventListener("DOMContentLoaded", function () {
+  // Données des différents graphiques
+  const dataSets = {
+    jobs: {
+      title: "Répartition des postes occupés des adhérents CJSM",
+      data: [
+        { name: "Doctorant", y: 41, color: "#ff6384" },
+        { name: "Ingénieur", y: 15, color: "#ff9f40" },
+        { name: "Post-Doctorant", y: 9, color: "#ffcd56" },
+        { name: "Manager de projet", y: 1, color: "#4bc0c0" },
+        { name: "Research associate", y: 1, color: "#36a2eb" },
+        { name: "Praticien hospitalier en pharmacologie", y: 1, color: "#8D1172" },
+      ],
+    },
+    approaches: {
+      title: "Répartition des approches des adhérents CJSM",
+      data: [
+        { name: "Développement Méthodologique", y: 48, color: "#ff6384" },
+        { name: "Préparation d'échantillon", y: 32, color: "#ff9f40" },
+        { name: "Informatique/Statistiques/Traitement de données", y: 26, color: "#ffcd56" },
+        { name: "Élucidation Structurale", y: 24, color: "#4bc0c0" },
+        { name: "Instrumentation", y: 18, color: "#36a2eb" },
+        { name: "Quantification", y: 17, color: "#8D1172" },
+        { name: "Imagerie", y: 12, color: "#D279FF" },
+        { name: "Mobilité ionique", y: 1, color: "#FB9BE0" },
+        { name: "Analyse de petites molécules par HRMS", y: 1, color: "#A9959C" },
+        { name: "Fondamental (étude d'énergie)", y: 1, color: "#635d5f" },
+      ],
+    },
+    applications: {
+      title: "Répartition des champs d'application des adhérents CJSM",
+      data: [
+        { name: "Protéomique", y: 27, color: "#ff6384" },
+        { name: "Chimie Organique", y: 15, color: "#ff9f40" },
+        { name: "Métabolomique", y: 12, color: "#4bc0c0" },
+        { name: "Lipidomique", y: 11, color: "#ffcd56" },
+        { name: "Polymères", y: 10, color: "#36a2eb" },
+        { name: "Glycomique", y: 6, color: "#D279FF" },
+        { name: "Pétroléomique", y: 4, color: "#8D1172" },
+        { name: "Chimie inorganique", y: 2, color: "#FB9BE0" },
+        { name: "ARN", y: 2, color: "#A9959C" },
+        { name: "Agents dopants", y: 1, color: "#635d5f" },
+      ],
+    },
+    domains: {
+      title: "Répartition des domaines des adhérents CJSM",
+      data: [
+        { name: "Santé", y: 44, color: "#ff6384" },
+        { name: "Environnement", y: 22, color: "#ff9f40" },
+        { name: "Fondamental", y: 14, color: "#4bc0c0" },
+        { name: "Agro-alimentaire", y: 10, color: "#ffcd56" },
+        { name: "Criminalistique", y: 8, color: "#36a2eb" },
+        { name: "Patrimoine", y: 5, color: "#D279FF" },
+        { name: "Chimie Industrielle", y: 1, color: "#8D1172" },
+      ],
+    },
+  };
+
+  // Fonction pour créer un graphique
+  const createPieChart = (containerId, title, data) => {
+    Highcharts.chart(containerId, {
+      chart: {
+        type: "pie",
+      },
+      title: {
+        text: title,
+      },
+      tooltip: {
+        pointFormat: '<b>{point.name}</b>: {point.y} ({point.percentage:.1f}%)',
+      },
+      plotOptions: {
+        pie: {
+          allowPointSelect: true,
+          cursor: "pointer",
+          dataLabels: {
+            enabled: true,
+            format: "<b>{point.name}</b>: {point.y}",
+          },
+          showInLegend: true,
+        },
+      },
+      series: [
+        {
+          colorByPoint: true,
+          data: data,
+        },
+      ],
+    });
+  };
+
+  // Initialiser les graphiques
+  createPieChart("chart-jobs", dataSets.jobs.title, dataSets.jobs.data);
+  createPieChart("chart-approaches", dataSets.approaches.title, dataSets.approaches.data);
+  createPieChart("chart-applications", dataSets.applications.title, dataSets.applications.data);
+  createPieChart("chart-domains", dataSets.domains.title, dataSets.domains.data);
+});
+
+
+</script>
+
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Navigation Menu Bar Hover Effect | Codehal</title>
+    <link rel="stylesheet" href="../css/style2.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="https://code.highcharts.com/modules/export-data.js"></script>
+<script src="https://code.highcharts.com/modules/accessibility.js"></script>
+
+</head>
+<div id="chart-jobs" style="width: 600px; height: 400px; margin: 20px auto;"></div>
+<div id="chart-approaches" style="width: 600px; height: 600px; margin: 20px auto;"></div>
+<div id="chart-applications" style="width: 600px; height: 400px; margin: 20px auto;"></div>
+<div id="chart-domains" style="width: 600px; height: 400px; margin: 20px auto;"></div>
+
+</html>
+  

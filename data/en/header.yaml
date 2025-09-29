@@ -1,0 +1,74 @@
+logo_image:
+logo_subtitle: Club Jeune de la SFSM
+dark_header: false
+mobile_view_width: 1100
+menuitems:
+  - title: Accueil
+    link: /#top
+  - title: Actualités
+    link: /blog/
+  - title: Pages
+    link: /about/
+    items: 
+      - title: About
+        link: /about/
+      - title: Basic page 1
+        link: /basic/
+      - title: Basic page 2
+        link: /basic2/
+      - title: Images
+        link: /images/
+      - title: Bureau actuel
+        link: /team/
+      - title: Services
+        link: /our-services/
+      - title: Contact us
+        link: /contact/
+      - title: F.A.Q.
+        link: /faq/
+      - title: Webshop
+        link: /webshop/
+      - title: 404 Page
+        link: /404.html
+      - title: Anciens bureaux
+        link: /old_bureau/
+  - title: Elements
+    link: /elements/
+  - title: "le CJSM"
+    link: "/chiffres/"
+    items:
+      - title: "le CJSM en chiffres"
+        link: "/chiffres/"
+      - title: "Thèses soutenues"
+        link: "/theses/"
+      - title: "Adhésion"
+        link: "/adhesion/"
+  - title: "Nos actions"
+    link: "/actions/"
+    items:
+      - title: "Webinaires"
+        link: "/webinaires/"
+      - title: "Mentorat"
+        link: "/mentorat/"
+      - title: "Ateliers"
+        link: "/ateliers/"
+  - title: "Emploi"
+    link: "/jobs/"
+  - title: Docs
+    link: /docs/
+  - title: Examples
+    link: /demo-paragliding/
+    items: 
+      - title: Paragliding
+        link: /demo-paragliding/
+      - title: Hiking
+        link: /demo-hiking/
+      - title: Poulterer
+        link: /demo-poulterer/
+      - title: POS software
+        link: /demo-pos/
+cta:
+  active: false
+  title: Get started
+  link: /get-started/
+preheader: 

@@ -1,0 +1,8 @@
+/* === TEST CSS === */
+body {
+  background-color: #ffeecc; /* un fond beige très visible */
+}
+
+.timeline-item-content {
+  border: 3px dashed red; /* un encadré rouge autour de vos événements */
+}

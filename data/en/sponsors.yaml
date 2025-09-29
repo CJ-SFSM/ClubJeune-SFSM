@@ -1,0 +1,64 @@
+- name: LCH
+  url: "https://www.fnch.fr/national/le-laboratoire-des-courses-hippiques"
+  niveau: "Prestige"
+  logo: LCH.jpg
+
+- name: "Bruker"
+  url: "https://www.bruker.com/fr.html"
+  niveau: "Prestige"
+  logo: Bruker.jpg
+
+- name: "CPAChem"
+  url: "https://fr.cpachem.com/"
+  niveau: "Prestige"
+  logo: CPAChem.webp
+
+- name: "SRAlogo"
+  url: "https://www.srainstruments.fr/fr/index.aspx"
+  niveau: "Prestige"
+  logo: SRAlogo.png
+
+- name: "Thermo"
+  url: "https://www.thermofisher.com/fr/fr/home/brands/thermo-scientific.html"
+  niveau: "Prestige"
+  logo: Thermo.webp
+
+- name: "KR-Analytical-Logo"
+  url: "https://kranalytical.co.uk/"
+  niveau: "Premium"
+  logo: KR-Analytical-Logo.jpg
+
+- name: "MSVision_Logo2018_transparent"
+  url: "https://msvision.com/"
+  niveau: "Premium"
+  logo: MSVision_Logo2018_transparent.png
+
+- name: "qa-logo-qualityassistance"
+  url: "https://www.quality-assistance.com/"
+  niveau: "Premium"
+  logo: qa-logo-qualityassistance.png
+
+- name: "CluzeauInfoLab"
+  url: "https://shop.cluzeau.fr/"
+  niveau: "Premium"
+  logo: ss_nut_3_8_24_thread.jpg
+
+- name: "logo_profi"
+  url: "https://www.profiproteomics.fr/"
+  niveau: "Premium"
+  logo: logo_profi.png
+
+- name: "ionBench" 
+  url: "https://ionbench.com/fr/"
+  niveau: "Standard"
+  logo: ionBench.png
+
+- name: "CEM-Logo-White"
+  url: "https://cem.com/fr/"
+  niveau: "Standard"
+  logo: CEM-Logo-White.png
+
+- name: "Metatoul_logo-rvb"
+  url : "https://www.genotoul.fr/portfolio_page/metabolomique-fluxomique/"
+  niveau: "Académique"
+  logo: Metatoul_logo-rvb.png

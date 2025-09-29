@@ -1,0 +1,81 @@
+- name: Nathan TRAULLÉ
+  function: Président
+  image: /uploads/trombi/Nathan_2026.png
+  description: FLCP-A2MC (Metz)
+  email: nathan.traulle@univ-lorraine.fr
+  phone:
+  linkedin: 
+  website:
+- name: Gauthier ROSÉ
+  function: Président-Conseil
+  image: /uploads/trombi/Gauthier.jpg
+  description:                
+  email: gauthier.rose@mnhn.fr
+  phone:
+  linkedin: 
+  website:
+  variant: council
+- name: Carla ORLANDI
+  function: Vice-Présidente
+  image: /uploads/trombi/Carla.png
+  description: INRAE TOXALIM, MTH-Metatoul-AXIOM
+  email: carla.orlandi@inrae.fr
+  phone:
+  linkedin: 
+  website:
+- name: Clarisse GOSSET-ERARD
+  function: Trésorière
+  image: /uploads/trombi/Clarisse_2026.jpg
+  description: LAMBE, Evry
+  email: clarisse.gosset-erard@univ-evry.fr>
+  phone:
+  linkedin: 
+  website:
+- name: Alexia FATAKA
+  function: Secrétaire
+  image: /uploads/trombi/Alexia.png
+  description: CEA Saclay
+  email: alexiafataka@gmail.com>
+  phone:
+  linkedin: 
+  website:
+- name: Rania BENAZZA
+  function: Responsable Diffusion et Réseaux
+  image: /uploads/trombi/Rania.jpg
+  description: INRAE, Nantes
+  email: rania.benazza@inrae.fr
+  phone:
+  linkedin: 
+  website:
+- name: Bayan ALMASRI
+  function: Responsable Relations Partenaires
+  image: /uploads/trombi/Bayan.jpeg
+  description: Miniaturisation pour la Synthèse, l’Analyse et la Protéomique (MSAP), UAR CNRS 3290, Université de Lille
+  email: bayan.almasri1234@gmail.com
+  phone:
+  linkedin:
+  website: 
+- name: Alix MUNOZ
+  function: Adjointe Relations Partenaires 
+  image: /uploads/trombi/Alix.jpg
+  description: Laboratoire Central de la Préfecture de Police (LCPP), Spectrométrie de Masse Biologique et Protéomique (SMBP, ESPCI)
+  email: alix.munoz@espci.fr
+  phone:
+  linkedin:
+  website: 
+- name: Marie VALMORI
+  function: Responsable Numérique
+  image: /uploads/trombi/VALMORIMarie.jpg
+  description: CEA SPI/LIMS, Université Paris-Saclay (Paris)
+  email: marie.valmori@cea.fr
+  phone:
+  linkedin:
+  website: 
+- name: Isabelle FABRIZI
+  function: Adjointe Responsable Numérique
+  image: /uploads/trombi/Isabelle.png
+  description: TotalEnergies, Université de Rouen, CNRS
+  email: isabelle.fabrizi.etu@univ-lille.fr
+  phone:
+  linkedin:
+  website: 

@@ -1,0 +1,217 @@
+@import "fonts.css";
+@import "base.css";
+@import "header-footer.css";
+@import "bricks.css";
+
+/*------------------------*/
+/* theme colors
+/*------------------------*/
+
+:root {
+    --textDarker: #1e282d;
+    --textDark: rgba(38, 50, 56, 1);
+    --textMedium: rgba(38, 50, 56, 0.7);
+    --borderMedium: rgba(38, 50, 56, 0.2);
+    --borderLight: rgba(38, 50, 56, 0.075);
+    --accent: #f4b500;
+    --accentDarker: #e6ac00;
+    --light: rgba(38, 50, 56, 0.035);
+}
+/*------------------------*/
+/* turn grayscale off
+/*------------------------*/
+
+img {filter: grayscale(0);}
+
+/*------------------------*/
+/* colorize_image
+/*------------------------*/
+
+/*.colorize_image {filter: contrast(1) sepia(1) hue-rotate(160deg) grayscale(0.8)!important;}
+
+/*------------------------*/
+/* black_2_textDark
+/*------------------------*/
+
+.map::after, .black_2_textDark {filter: contrast(0.7) sepia(1) hue-rotate(160deg)!important;}
+
+/*------------------------*/
+/* black_2_textMedium
+/*------------------------*/
+
+.black_2_textMedium {filter: contrast(0.3) sepia(0.3) hue-rotate(160deg) brightness(1.4)!important;}
+
+/*------------------------*/
+/* black_2_accent
+/*------------------------*/
+
+.black_2_accent {filter: contrast(0.11) sepia(1) hue-rotate(340deg) contrast(13)!important;}
+
+
+/*------------------------*/
+/* gallery
+/*------------------------*/
+
+.sponsor-section {
+  margin: 1rem auto;
+  max-width: 1200px;
+  padding: 0 1rem;
+  text-align: center;
+}
+
+/* Titre du groupe : Prestige, Premium, etc. */
+.sponsor-title {
+  font-size: 2rem;
+  color: #1a202c;
+  font-family: inherit; /* Respecte la police globale */
+  margin-bottom: 2rem;
+  border-bottom: 3px solid #3182ce;
+  display: inline-block;
+  padding-bottom: 0.5rem;
+  text-transform: none; /* Enlève les majuscules */
+}
+
+/* Grille responsive des logos */
+.sponsors-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 2rem;
+  justify-items: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+/* Encadré sponsor individuel */
+.sponsor-logo {
+  width: 200px;
+  height: 150px;
+  background-color: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Survol */
+.sponsor-logo:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+}
+
+/* Image dans chaque sponsor */
+.sponsor-logo img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+/* Timeline */
+
+/*.timeline {
+  position: relative;
+  margin: 2rem auto;
+  padding: 2rem 0;
+  max-width: 900px;
+}*/
+
+/*.timeline::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 4px;
+  height: 100%;
+  background: #0d47a1;
+  transform: translateX(-50%);
+} */
+
+.timeline-item {
+  position: relative;
+  width: 50%;
+  padding: 1rem 2rem;
+  box-sizing: border-box;
+}
+
+.timeline-item:nth-child(odd) {
+  left: 0;
+  text-align: right;
+}
+
+.timeline-item:nth-child(even) {
+  left: 50%;
+  text-align: left;
+}
+
+.timeline-item-content {
+  background: #fff;
+  padding: 1rem 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  display: inline-block;
+  max-width: 90%;
+}
+
+.timeline-item h3 {
+  color: #0d47a1;
+  margin: 0 0 0.3rem;
+  font-size: 1rem;
+}
+
+.timeline-item h2 {
+  color: #f88603;
+  font-size: 1.25rem;
+  margin: 0 0 0.5rem;
+}
+
+.timeline-item p {
+  margin: 0;
+}
+
+/* jobs */
+.jobs-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+  font-size: 1rem;
+}
+
+.jobs-table th,
+.jobs-table td {
+  border: 1px solid #ddd;
+  padding: 0.75rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.jobs-table th {
+  background-color: #0d3b66; /* bleu foncé de Hugobricks */
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.jobs-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.jobs-table tr:hover {
+  background-color: #f1f1f1;
+}
+
+.jobs-table a {
+  color: #ff6600; /* orange pour cohérence avec vos icônes */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.jobs-table a:hover {
+  text-decoration: underline;
+}
+
+
+/*------------------------ CSS overrides below ------------------------*/
