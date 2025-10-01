@@ -8,7 +8,7 @@ tags:
 
 ![](/uploads/actualite/webinaire.png)
 
-## IMSC 2026
+## Nos webinaires 2025/2026
 
 Nous sommes heureux de vous annoncer le lancement de notre nouvelle saison de webinaires.
 LE premier rendez-vous aura lieu le lundi 6 octobre 2025 entre 12h15 et 13h45 pour la session: **HRMS logiciels & stratégies** avec: 
@@ -27,6 +27,4 @@ N'hésitez pas à contacter le CJSM à l'adresse clubjeunesm@gmail.com si vous s
 
 Nous vous invitions à consulter le programme ci-dessous:
 
-
-
-Nous vous remercions pour votre participation et rendez-vous à Lyon pour l'IMSC qui aura lieu du **22 au 28 Août 2026**.
+![](/uploads/actualite/webinaire_2026.jfif)
