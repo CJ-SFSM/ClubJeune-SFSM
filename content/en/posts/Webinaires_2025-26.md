@@ -27,4 +27,4 @@ N'hésitez pas à contacter le CJSM à l'adresse clubjeunesm@gmail.com si vous s
 
 Nous vous invitions à consulter le programme ci-dessous:
 
-![](/uploads/actualite/webinaire_2026.jfif)
+![](/uploads/actualite/webinaire_2026.png)
