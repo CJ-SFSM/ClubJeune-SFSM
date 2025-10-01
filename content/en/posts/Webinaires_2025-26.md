@@ -6,8 +6,27 @@ tags:
   - Evenement
 ---
 
+![](/uploads/actualite/webinaire.png)
+
 ## IMSC 2026
 
-Dans le cadre de l'organisation de l'IMSC 2026 à Lyon du 22 au 28 août 2026, nous avons eu l'occasion de vous envoyer un formulaire afin de connaître vos intérêts pour les thélatiques de cours. En effet, les deux premiers jours du congrès sont consacrés aux jeunes massistes durant lesquels différents cours seront dispensés par des professionnels de leur domaine.
+Nous sommes heureux de vous annoncer le lancement de notre nouvelle saison de webinaires.
+LE premier rendez-vous aura lieu le lundi 6 octobre 2025 entre 12h15 et 13h45 pour la session: **HRMS logiciels & stratégies** avec: 
+
+- Théo Voellinger qui présentera Punc'data, un outil polyvalent pour l'attribution de formules moléculaires, la visualisation interactive et la comparaison de données issues de la spectrométrie de masse haute résolution de mélanges complexes.
+- Thomas Flahou qui parlera de la caractérisation de la matière organique dissoute par HRMS et Autovectis.
+
+Grande nouveauté cette année: En plus de nos formats habituels, nous proposerons des sessions spéciales animées par des intervenants externes, pour enrichir les discussions avec des perspectives inédites.
+
+Ces webinaires sont l'occasion idéale pour:
+- Découvrir des expertises variées
+- Poser vos questions en direct,
+- Partager vos expériences et élargir votre réseau.
+
+N'hésitez pas à contacter le CJSM à l'adresse clubjeunesm@gmail.com si vous souhaitez intervenir lors d'un prochain webinaire ! 
+
+Nous vous invitions à consulter le programme ci-dessous:
+
+
 
 Nous vous remercions pour votre participation et rendez-vous à Lyon pour l'IMSC qui aura lieu du **22 au 28 Août 2026**.
