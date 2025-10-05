@@ -16,13 +16,13 @@ Le **CJSM** est un collectif de jeunes chercheur·es qui promeut les échanges, 
 
 {{< brick_title >}}
 ---
-## Nos sponsors & Partenaires
+## Nos sponsors & Partenaires en 2025
 ---
 {{< /brick_title >}}
 
 {{< brick_intro >}}
-Nous remercions les sponsors apporter un soutien financier à nos journées annuelles du club jeune qui ont eu lieu au Moulin de Moissac à Toulouse en mars 2025.
-Vous aussi, vous pouvez nous sponsoriser. Pour cela, rendez-vous au formulaire disponible [ici](/sponsoring/). 
+Nous remercions les sponsors d'apporter un soutien financier à nos journées annuelles du club jeune qui ont eu lieu au Moulin de Moissac à Toulouse en mars 2025.
+Vous pouvez nous sponsoriser pour d'autres activités (Webinaires) ou pour les années à venir. Pour cela, rendez-vous au formulaire disponible [ici](/sponsoring/). 
 {{< /brick_intro >}}
 
 {{< gallery dir="/uploads/sponsors/" >}}
@@ -33,7 +33,7 @@ Vous aussi, vous pouvez nous sponsoriser. Pour cela, rendez-vous au formulaire d
 
 ![](/uploads/illustrations/goal.svg)
 
-Notre mission est simple mais ambitieuse : créer du lien, soutenir les jeunes professionnel·les de la discipline, et encourager des démarches collectives et ouvertes.
+Notre mission est simple et ambitieuse : créer du lien, soutenir les jeunes professionnel·les de la discipline, et encourager des démarches collectives et ouvertes.
 
 - Création d’un réseau de jeunes scientifiques
 - Organisation de webinaires et événements
@@ -60,7 +60,7 @@ Le CJSM est un lieu d’initiatives porté par la jeune communauté en spectrom�
 
 ## Pourquoi rejoindre le CJSM ?
 
-Un club pour les jeunes scientifiques, pensé par eux, avec eux.
+Un club pour les jeunes scientifiques, pensé par eux, avec eux. Chaque année, nous organisons des évènements. Ces évènements sont à un rythme mensuels, tels que mes webinaires, le programme est disponible [ici](/blog/nos-webinaire-le-retour-en-2025-et-2026/) ainsi que les Journées Scientifiques du Club Jeune qui ont lieu chaque année. Vous trouverez la perspective des Journées Scientifiques [ici](/chiffres/) 
 
 ---
 
@@ -88,7 +88,7 @@ Le CJSM met en lumière vos thèses, publications, conférences et idées.
 ![](/uploads/icons/development.svg)
 ### Développement professionnel
 
-Partage d’offres d’emploi, formations, et occasions de visibilité pour jeunes chercheurs.
+Partage d’offres d’emploi, formations, et occasions de visibilité pour les jeunes chercheurs.
 
 {{< /brick_features >}}
 
