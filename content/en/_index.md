@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Accueil
 ---
 {{< brick_intro >}}
 
