@@ -82,7 +82,7 @@ header h1 { grid-column: 2;  /* titre dans la colonne du milieu */ text-align: c
 
     <div class="section"> <h2>Rencontres jeunes RCJSM 2026 en région parisienne</h2>
         <div class="option">
-            <label>Don libre incluant uniquement la visibilité <input type="number" class="don-libre" value="0" data-label="Don libre" min="0" placeholder="Montant en €"> </label><br/>
+            <label>Don libre incluant uniquement la visibilité <input type="number" class="don-libre" value="" data-label="Don libre" min="0" placeholder="Montant en €"> </label><br/>
             <small> Logo sur le site web, LinkedIn et le fascicule (inclus dans toutes les autres prestations)</small>
         </div>
         <br/>
@@ -173,7 +173,7 @@ header h1 { grid-column: 2;  /* titre dans la colonne du milieu */ text-align: c
 
      <div class="section"> <h2>RCJSM 2026 annual meeting near Paris</h2>
         <div class="option">
-            <label>Custom donation offering visibility only <input type="number" class="don-libre" value="0" data-label="Don libre" min="0" placeholder="Amount in €"> </label><br/>
+            <label>Custom donation offering visibility only <input type="number" class="don-libre" value="" data-label="Don libre" min="0" placeholder="Amount in €"> </label><br/>
             <small> Logo on the website, LinkedIn and the brochure (included in all other services)</small>
         </div>
         <br/>
@@ -295,6 +295,8 @@ langBtn.addEventListener('click', () => {
     }
     // Clear all checked checkboxes in both sections
     document.querySelectorAll('input[type="checkbox"]').forEach(cb => cb.checked = false);
+    // Clear all don-libre values in both sections
+    document.querySelectorAll('.don-libre').forEach(input => input.value = "");
     // Remise à zéro du total et du message
     updateTotal();
     // Remise à zéro de la zone d'export
