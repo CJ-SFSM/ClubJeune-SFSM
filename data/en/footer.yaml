@@ -11,6 +11,6 @@ socials:
     link: https://www.linkedin.com/company/cjsmsfsm/posts/
     logo_image: /img/linkedin.svg      
   - title: email
-    link: clubjeunesm@gmail.com
+    link: mailto:clubjeunesm@gmail.com
     logo_image: /img/email.svg      
 footer_text: Ce thème est libre d'accès. Plus d'informations sur [Github](https://github.com/jhvanderschee/hugobricks)!
