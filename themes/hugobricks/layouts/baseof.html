@@ -96,7 +96,16 @@
           <a href="{{ (index .Site.Data .Language.Lang).header.cta.link }}" class="button smaller">{{ (index .Site.Data .Language.Lang).header.cta.title }}</a>
 		      {{ end }}
         </div>
-        <button id="togglemenu" onclick="event.stopPropagation(); document.body.classList.add('menushown');"><span class="black_2_textDark">Toggle menu</span></button>
+            <button id="togglemenu"
+              onclick="event.stopPropagation(); document.body.classList.add('menushown');">
+        <span class="black_2_textDark menu-icon"
+              style='display:inline-block;width:3rem;height:3rem;
+                    background: transparent url("{{ "uploads/icons/menu.svg" | relURL }}")
+                                center center / 2rem auto no-repeat;
+                    text-indent:-9999px; overflow:hidden;'>
+          Toggle menu
+        </span>
+      </button>
         <script>
           function navClick(event,el) {
             var li = el.parentElement;
