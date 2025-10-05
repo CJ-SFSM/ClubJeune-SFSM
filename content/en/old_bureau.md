@@ -41,7 +41,7 @@ Pour l’année **2023-2024**, le bureau élu (vote en ligne) se composait de :
 - Jessica MICHIELETTO – **Trésorière**
 - Clarisse GOSSET-ERARD – **Trésorière adjointe**
 - Hikmat GHOSSON – **Secrétaire**
-- Alexia FATAKA – **Couteau Suisse**
+- Alexia FATAKA – **Membre Polyvalent**
 - Isaure SERGENT – **Responsable Communication**
 - Bayan ALMASRI – **Responsable Relations Partenaires Industriels et Académiques**
 - Maxime SUEUR- **Webmaster**
