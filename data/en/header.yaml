@@ -1,6 +1,6 @@
 logo_image:
 logo_subtitle: Club Jeune de la SFSM
-dark_header: false
+dark_header: true
 mobile_view_width: 1100
 menuitems:
   - title: Accueil
