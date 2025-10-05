@@ -1,27 +1,28 @@
-<!-- load reviews from data folder and display them ein a ul -->
+<!-- load reviews from data folder and display them in a grid -->
 <ul class="grid reviews">
 {{- range (index page.Site.Data page.Site.Language.Lang).reviews -}}
-    <li>
-        <div class="box">
-            <div>
-                <img src="{{ if and (resources.GetMatch .image ) (ne (resources.GetMatch .image).MediaType.SubType "svg") }}{{ ((resources.GetMatch .image).Fit `200x200 jpg Smart q50`).RelPermalink | safeURL }}{{ else }}{{ .image }}{{ end }}" alt="{{ .name }} image" class="avatar colorize_image">
-                <div>
-                    <h3>{{ .name }}</h3>
-                    <div class="function">{{ .function }}</div>
-                </div>
-            </div>
-            <div>
-                <div class="stars">
-                    {{ if gt .stars 0 }}<img src="/img/star.svg" alt="star" class="black_2_accent" />{{ end }}
-                    {{ if gt .stars 1 }}<img src="/img/star.svg" alt="star" class="black_2_accent" />{{ end }}
-                    {{ if gt .stars 2 }}<img src="/img/star.svg" alt="star" class="black_2_accent" />{{ end }}
-                    {{ if gt .stars 3 }}<img src="/img/star.svg" alt="star" class="black_2_accent" />{{ end }}
-                    {{ if gt .stars 4 }}<img src="/img/star.svg" alt="star" class="black_2_accent" />{{ end }}
-                </div>
-                <p>{{ .description }}</p>
-            </div>
+  <li>
+    <div class="box">
+      <div class="review-header">
+        <img 
+          src="{{ if and (resources.GetMatch .image ) (ne (resources.GetMatch .image).MediaType.SubType "svg") }}
+                {{ ((resources.GetMatch .image).Fit `200x200 jpg Smart q50`).RelPermalink | safeURL }}
+              {{ else }}
+                {{ .image }}
+              {{ end }}" 
+          alt="{{ .name }} image" 
+          class="avatar colorize_image"
+        >
+        <div class="review-info">
+          <h3>{{ .name }}</h3>
+          {{ with .function }}<div class="function">{{ . }}</div>{{ end }}
+          {{ with .date\ de\ soutenance }}<div class="date">🗓️ {{ . }}</div>{{ end }}
         </div>
-    </li>
+      </div>
+      <div class="review-body">
+        {{ with .description }}<p>{{ . }}</p>{{ end }}
+      </div>
+    </div>
+  </li>
 {{- end -}}
-</ul>	
-
+</ul>
