@@ -20,5 +20,5 @@ Dans l'objet de l'email que vous souhaitez envoyer, n'hésitez pas à mettre le 
 
 Egalement, une liste de ressources est disponible [ici](/uploads/pdf/Liste_ressources_CJSM.pdf).
 
-{{< embed-pdf url="/uploads/pdf/Liste_ressources_CJSM.pdf" >}}
+
 
