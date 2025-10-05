@@ -34,7 +34,7 @@
 - name: Alexia FATAKA
   function: Secrétaire
   image: /uploads/trombi/Alexia.png
-  description: CEA Saclay
+  description: CEA Saclay, service SPI, Laboratoire LI-MS, Université Paris-Saclay
   email: alexiafataka@gmail.com>
   phone:
   linkedin: 
@@ -66,7 +66,7 @@
 - name: Marie VALMORI
   function: Responsable Numérique
   image: /uploads/trombi/VALMORIMarie.jpg
-  description: CEA SPI/LIMS, Université Paris-Saclay (Paris)
+  description: CEA Saclay, service SPI, Laboratoire LI-MS, Université Paris-Saclay
   email: marie.valmori@cea.fr
   phone:
   linkedin:
