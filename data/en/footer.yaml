@@ -1,10 +1,10 @@
 logo_image:
 menuitems:
-  - title: About
-    link:  /about/
-  - title: Elements
-    link:  /elements/
-  - title: Privacy policy
+  - title: À propos
+    link:  /team/
+  - title: Accueil
+    link:  /#top
+  - title: Réglement du CJSM
     link:  /privacy-policy/
 socials:
   - title: LinkeDin
