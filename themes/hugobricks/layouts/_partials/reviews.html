@@ -3,14 +3,16 @@
 {{- range (index page.Site.Data page.Site.Language.Lang).reviews -}}
   <li>
     <div class="box">
-         <div>
-             <img src="{{ if and (resources.GetMatch .image ) (ne (resources.GetMatch .image).MediaType.SubType "svg") }}{{ ((resources.GetMatch .image).Fit `200x200 jpg Smart q50`).RelPermalink | safeURL }}{{ else }}{{ .image }}{{ end }}" alt="{{ .name }} image" class="avatar colorize_image">
-             <!--<div>
-                  <h3>{{ .name }}</h3>
-                  <div class="function">{{ .function }}</div>
-             </div>-->
-        </div>
-     <div>
+      <div class="review-header">
+        <img 
+          src="{{ if and (resources.GetMatch .image ) (ne (resources.GetMatch .image).MediaType.SubType "svg") }}
+                {{ ((resources.GetMatch .image).Fit `200x200 jpg Smart q50`).RelPermalink | safeURL }}
+              {{ else }}
+                {{ .image }}
+              {{ end }}" 
+          alt="{{ .name }} image" 
+          class="avatar colorize_image"
+        >
         <div class="review-info">
           <h3>{{ .name }}</h3>
           {{ with .function }}<div class="function">{{ . }}</div>{{ end }}
