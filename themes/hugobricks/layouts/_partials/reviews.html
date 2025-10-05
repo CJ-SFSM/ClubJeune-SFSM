@@ -1,31 +1,20 @@
-<!-- load reviews from data folder and display them in a grid -->
+<!-- load reviews from data folder and display them ein a ul -->
 <ul class="grid reviews">
 {{- range (index page.Site.Data page.Site.Language.Lang).reviews -}}
-  <li>
-    <div class="box review-card">
-      <div class="review-body">
-        {{ with .description }}<p>{{ . }}</p>{{ end }}
-      </div>
-      <div class="review-header">
-        {{ $img := .image }}
-        {{ $res := resources.GetMatch $img }}
-        {{ if $res }}
-          {{ if eq $res.MediaType.SubType "svg" }}
-            <img src="{{ $res.RelPermalink }}" alt="{{ .name }}" class="avatar colorize_image">
-          {{ else }}
-            <img src="{{ ($res.Fit "200x200 jpg Smart q50").RelPermalink }}" alt="{{ .name }}" class="avatar colorize_image">
-          {{ end }}
-        {{ else }}
-          <img src="{{ .image }}" alt="{{ .name }}" class="avatar colorize_image">
-        {{ end }}
+    <li>
+        <div class="box">
+            <div>
+                <img src="{{ if and (resources.GetMatch .image ) (ne (resources.GetMatch .image).MediaType.SubType "svg") }}{{ ((resources.GetMatch .image).Fit `200x200 jpg Smart q50`).RelPermalink | safeURL }}{{ else }}{{ .image }}{{ end }}" alt="{{ .name }} image" class="avatar colorize_image">
+                <div>
+                    <h3>{{ .name }}</h3>
+                    <div class="function">{{ .function }}</div>
+                </div>
+            </div>
+            <div>
 
-        <div class="review-info">
-          <h3>{{ .name }}</h3>
-          {{ with .function }}<div class="function">{{ . }}</div>{{ end }}
-          {{ with (index . "date de soutenance") }}<div class="date">🗓️ {{ . }}</div>{{ end }}
+                <p>{{ .description }}</p>
+            </div>
         </div>
-      </div>
-    </div>
-  </li>
+    </li>
 {{- end -}}
-</ul>
+</ul>	
