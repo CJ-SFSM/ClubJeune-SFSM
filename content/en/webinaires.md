@@ -12,6 +12,8 @@ title: Webinaires
  
 Depuis l'année 2024, nous avons fait une rentrée riche en connaissances sur diverses thématiques de la spectrométrie de masse. Pour cette année 2025/2026, nous continuons cette belle lancée et nous vous proposons le calendrier de l'ensemble des évènements qui ont lieu à distance. 
 
+![](/uploads/actualite/webinaires_2026.png)
+
 ## Qui peut participer ? 
 
 Tous les membres du CJSM et de la SFSM peuvent participer aux évènements. Pour cela, rien de plus simple, veiller à bien être inscrit dans la liste distribution du club et le lien vous sera communiqué. 
