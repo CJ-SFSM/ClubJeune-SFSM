@@ -21,7 +21,7 @@ Notre rôle consiste à organiser plusieurs évènements tout le long de l'anné
 
 Comme chaque année, certains membres du bureau arrivent au terme de leur mandat. 
 
-📬 Comment candidater ?\
+📬 Comment candidater ?
 Les personnes intéressées sont invitées à envoyer:\ 
 * une lettre de motivation pour le poste visé,
 
