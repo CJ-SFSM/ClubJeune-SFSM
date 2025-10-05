@@ -18,4 +18,4 @@ Si vous souhaitez en discuter ou simplement poser une question, n’hésitez pas
 
 Dans l'objet de l'email que vous souhaitez envoyer, n'hésitez pas à mettre le nom de la personne avec laquelle vous souhaitez discuter (soit Gauthier, Clarisse ou Alexia). Tous les échanges que vous aurez avec votre interlocuteur ou interlocutrice resteront confidentiels. 
 
-Egalement, une liste de ressources est disponible [ici](/pdf/Liste_ressources_CJSM.pdf).
+Egalement, une liste de ressources est disponible [ici](/uploads/pdf/Liste_ressources_CJSM.pdf).
