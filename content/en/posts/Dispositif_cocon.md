@@ -1,7 +1,7 @@
 ---
 title: Dispositif cocon
 image: /uploads/actualite/BienEtre_Travail.jpg
-date: 2025-05-31
+date: 2025-10-05
 tags: 
 --- 
 
