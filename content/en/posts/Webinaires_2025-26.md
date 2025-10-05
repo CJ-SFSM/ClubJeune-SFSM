@@ -1,5 +1,5 @@
 ---
-title: Nos webinaire, le retour en 2025 et 2026
+title: Nos webinaires, le retour en 2025 et 2026
 image: /uploads/actualite/webinaire.png
 date: 2025-09-28
 tags: 
@@ -11,7 +11,7 @@ tags:
 ## Nos webinaires 2025/2026
 
 Nous sommes heureux de vous annoncer le lancement de notre nouvelle saison de webinaires.
-LE premier rendez-vous aura lieu le lundi 6 octobre 2025 entre 12h15 et 13h45 pour la session: **HRMS logiciels & stratégies** avec: 
+Le premier rendez-vous aura lieu le lundi 6 octobre 2025 entre 12h15 et 13h45 pour la session: **HRMS logiciels & stratégies** avec: 
 
 - Théo Voellinger qui présentera Punc'data, un outil polyvalent pour l'attribution de formules moléculaires, la visualisation interactive et la comparaison de données issues de la spectrométrie de masse haute résolution de mélanges complexes.
 - Thomas Flahou qui parlera de la caractérisation de la matière organique dissoute par HRMS et Autovectis.
