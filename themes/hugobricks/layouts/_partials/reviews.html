@@ -16,7 +16,7 @@
         <div class="review-info">
           <h3>{{ .name }}</h3>
           {{ with .function }}<div class="function">{{ . }}</div>{{ end }}
-          {{ with .date\ de\ soutenance }}<div class="date">🗓️ {{ . }}</div>{{ end }}
+          {{ with (index . "date de soutenance") }}<div class="date">🗓️ {{ . }}</div>{{ end }}
         </div>
       </div>
       <div class="review-body">
