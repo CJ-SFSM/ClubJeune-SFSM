@@ -20,7 +20,7 @@ menuitems:
       - title: "le CJSM en chiffres"
         link: "/chiffres/"
       - title: "Thèses soutenues"
-        link: "/theses/"
+        link: "/Theses_soutenues/"
       - title: "Adhésion"
         link: "/adhesion/"
   - title: "Nos actions"
