@@ -14,10 +14,10 @@ menuitems:
         link: /team/
       - title: Anciens bureaux
         link: /old_bureau/
-  - title: "le CJSM"
+  - title: "Le CJSM"
     link: "/chiffres/"
     items:
-      - title: "le CJSM en chiffres"
+      - title: "Le CJSM en chiffres"
         link: "/chiffres/"
       - title: "Thèses soutenues"
         link: "/theses_soutenues/"
