@@ -3,6 +3,18 @@
   function: MSAP, Université de Lille
   image: /uploads/illustrations/Logo_CJSM_HD_black.svg
   description: Identification, décryptage de la composition chimique et de la structure, des polymères et microplastiques insolubles par dépolymérisation chimique & spectrométrie de masse avancée
+
+- name: Ranil Temgoua
+  date: "2020"
+  function: Nantes Université
+  image: /uploads/illustrations/Logo_CJSM_HD_black.svg
+  description: Simulation des dégradations environnementales de quelques pesticides électroactifs par couplage électrochimie : spectrométrie de masse haute résolution - calculs théoriques DFT
+
+- name: Hikmat Ghosson
+  date: "2020"
+  function: Université de Perpignan,Centre de Recherches Insulaires et Observatoire de l’Environnement
+  image: /uploads/illustrations/Logo_CJSM_HD_black.svg
+  description: Développement d’un nouveau proxy universel pour évaluer le devenir et l’impact environnemental de (bio)pesticides complexes par métabolomique basée sur la spectrométrie de masse
  
 
 
