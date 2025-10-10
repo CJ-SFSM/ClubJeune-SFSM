@@ -4,6 +4,36 @@
   image: /uploads/illustrations/Logo_CJSM_HD_black.svg
   description: "Identification, décryptage de la composition chimique et de la structure, des polymères et microplastiques insolubles par dépolymérisation chimique & spectrométrie de masse avancée"
 
+- name: "Maxime Sueur"
+  soutenance: "27 mars 2024"
+  function: Cobra, Université de Rouen Normandie
+  image: /uploads/illustrations/Logo_CJSM_HD_black.svg
+  description: "Caractérisation d'aérosols organique provenant d'émissions de bateaux par spectrométrie de masse haute résolution : Développement de nouvelles méthodes analytiques et d'un logiciel de visualisation de données"
+
+- name: "Charlotte Mase"
+  soutenance: "8 février 2024"
+  function: Cobra, Université de Rouen Normandie
+  image: /uploads/illustrations/Logo_CJSM_HD_black.svg
+  description: "Apport de la spectrométrie de masse à très haute résolution pour la caractérisation des huiles de pyrolyse et autres sources d'énergie"
+
+- name: "Jessica Michieletto"
+  soutenance: "20 mars 2023"
+  function: "CEA, MTS, Université Paris-Saclay"
+  image: /uploads/illustrations/Logo_CJSM_HD_black.svg
+  description: "Etude métabolomique de l'activation des cellules du système immunitaire par chromatographie liquide couplée à la spectrométrie de masse haute résolution"
+
+- name: Wafa Hechiche
+  soutenance: "25 janvier 2023"
+  function: "Laboratoire Plasticité du cerveau / SANOFI"
+  image: /uploads/illustrations/Logo_CJSM_HD_black.svg
+  description: "Protéomique unicellulaire pour accélérer la découverte de nouveaux médicaments"
+
+- name: Clarisse Gosset-Erard
+  soutenance: "24 novembre 2022"
+  function: "Laboratoire de chimie et physique – Approche multiéchelle des milieux complexes"
+  image: /uploads/illustrations/Logo_CJSM_HD_black.svg
+  description: "Développement méthodologique en CE-FTICR-MS pour l’étude de biomolécules à visée thérapeutique"
+
 - name: "Ranil Temgoua"
   soutenance: "2020"
   function: Nantes Université
