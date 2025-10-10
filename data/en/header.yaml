@@ -32,6 +32,8 @@ menuitems:
         link: "/mentorat/"
       - title: "Ateliers"
         link: "/ateliers/"
+      - title: "Dispositif Cocon"
+        link: "/dispositif_cocon/"
   - title: "Emploi"
     link: "/jobs/"
   - title: Nous sponsoriser
