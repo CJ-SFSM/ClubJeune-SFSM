@@ -2,10 +2,10 @@
 title: Dispositif Cocon
 ---
 
+![](/uploads/actualite/BienEtre_Travail.jpg)
 {{< brick_wide >}}
 {{< breadcrumbs >}}
 
-![](/uploads/actualite/BienEtre_Travail.jpg)
 
 ## Dispositif d'écoute et de soutien "Cocon"
 La recherche académique peut parfois être éprouvante et mettre à mal notre équilibre mental. Entre doutes, remise en question, isolement, pression académique ou difficultés d'encadrement, il est normal de se sentir parfois démuni ou simplement de ressentir le besoin d'en parler.
