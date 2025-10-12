@@ -15,8 +15,7 @@ Nous mettons en place des actions pour nos membres du CJSM. En tant que membres,
 N'attendez-plus, **rejoignez-nous !**
 
 ---
-
-![](/uploads/gallery/01.jpg)
+![](/uploads/actions/webinaire.png)
 ### Webinaires
 
 Des webinaires tous les mois.
@@ -25,7 +24,8 @@ Des webinaires tous les mois.
 
 ---
 
-![](/uploads/actions/webinaire.png)
+
+![](/uploads/actions/mentorat.png)
 ### Mentorat
 
 Nous proposons à nos membres du mentorat.
@@ -34,7 +34,7 @@ Nous proposons à nos membres du mentorat.
 
 ---
 
-![](/uploads/actions/mentorat.png)
+![](/uploads/actions/workshop.png)
 ### Ateliers
 
 Des ateliers pour répondre à vos questions.
@@ -42,7 +42,5 @@ Des ateliers pour répondre à vos questions.
 [](/ateliers/)
 
 ---
-
-![](/uploads/actions/workshop.jpg)
 
 {{< /brick_blocks >}}
