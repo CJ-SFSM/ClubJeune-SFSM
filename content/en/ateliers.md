@@ -15,6 +15,8 @@ title: Nos ateliers
 
 {{< gallery_image dir="/uploads/gallery/RCJSM_2025/" >}}
 
+## SMAP 2024
+{{< gallery_image dir="/uploads/gallery/SMAP_2024/" >}}
 
 
 {{< /brick_wide >}}
