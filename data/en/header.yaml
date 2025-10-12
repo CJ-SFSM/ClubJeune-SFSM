@@ -24,7 +24,7 @@ menuitems:
       - title: "Adhésion"
         link: "/adhesion/"
   - title: "Nos actions"
-    link: "/our_services/"
+    link: "/our-services/"
     items:
       - title: "Webinaires"
         link: "/webinaires/"
