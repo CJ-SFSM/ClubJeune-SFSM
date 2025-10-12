@@ -2,7 +2,7 @@
 title: Nos actions
 ---
 
-
+{{< brick_wide >}}
 {{< breadcrumbs >}}
 
 # Nos actions
@@ -41,6 +41,6 @@ Des ateliers pour répondre à vos questions.
 
 [](/ateliers/)
 
----
 
 {{< /brick_blocks >}}
+{{< /brick_wide >}}
