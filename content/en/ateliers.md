@@ -10,5 +10,5 @@ title: Nos ateliers
 
 ## RCJSM 2025
 
-{{< gallery_image dir="/uploads/gallery/" >}}
+{{< gallery_image dir="/uploads/gallery/RCJSM_2026/" >}}
 {{< /brick_wide >}}
