@@ -1,129 +1,48 @@
 ---
-title: Services
+title: Nos actions
 ---
-{{< brick_services >}}
+
 
 {{< breadcrumbs >}}
 
-# Services
+# Nos actions
 
-This is a demo of the services page. In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin.
 
-{{< /brick_services >}}
 {{< brick_blocks >}}
 
-## Alternative services 1
 
-Hugobricks covers all components you would like to have at hand. It is a power engine for your web oriented projects. It has excellent performance in all categories.
+Nous mettons en place des actions pour nos membres du CJSM. En tant que membres, vous pouvez participez à ces actions !
+N'attendez-plus, **rejoignez-nous !**
 
 ---
 
 ![](/uploads/gallery/01.jpg)
-### Covers all components
+### Webinaires
 
-Includes many bricks.
+Des webinaires tous les mois.
 
-[](/our-services/)
-
----
-
-![](/uploads/gallery/02.jpg)
-### 99+ Google Lighthouse score
-
-Lightning fast website.
-
-[](/our-services/)
+[](/webinaires/)
 
 ---
 
-![](/uploads/gallery/03.jpg)
-### Themeable through CSS variables
+![](/uploads/actions/webinaire.png)
+### Mentorat
 
-Easily themeable.
+Nous proposons à nos membres du mentorat.
 
-[](/our-services/)
-
----
-
-![](/uploads/gallery/04.jpg)
-### Fully responsive on all devices
-
-Works on every screen.
-
-[](/our-services/)
+[](/mentorat/)
 
 ---
 
-![](/uploads/gallery/05.jpg)
-### Super fast builds and deploys
+![](/uploads/actions/mentorat.png)
+### Ateliers
 
-Extremely fast.
+Des ateliers pour répondre à vos questions.
 
-[](/our-services/)
+[](/ateliers/)
 
 ---
 
-![](/uploads/photos/06.jpg)
-### 10+ pre-build pages
-
-Start with the end result.
-
-[](/our-services/)
+![](/uploads/actions/workshop.jpg)
 
 {{< /brick_blocks >}}
-{{< brick_blocks >}}
-
-## Alternative services 2
-
-Hugobricks covers all components you would like to have at hand. It is a power engine for your web oriented projects. It has excellent performance in all categories.
-
----
-
-### Covers all components
-
-Includes many bricks.
-
-[](/our-services/)
-
----
-
-### 99+ Google Lighthouse score
-
-Lightning fast website.
-
-[](/our-services/)
-
----
-
-### Themeable through CSS variables
-
-Easily themeable.
-
-[](/our-services/)
-
----
-
-### Fully responsive on all devices
-
-Works on every screen.
-
-[](/our-services/)
-
----
-
-### Super fast builds and deploys
-
-Extremely fast.
-
-[](/our-services/)
-
----
-
-### 10+ pre-build pages
-
-Start with the end result.
-
-[](/our-services/)
-
-{{< /brick_blocks >}}
-{{< brick_cta >}}{{< /brick_cta >}}
