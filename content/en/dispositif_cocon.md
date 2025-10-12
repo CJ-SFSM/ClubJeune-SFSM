@@ -2,12 +2,12 @@
 title: Dispositif Cocon
 ---
 
-![](/uploads/actualite/BienEtre_Travail.jpg)
+
 {{< brick_wide >}}
 {{< breadcrumbs >}}
 
-
-## Dispositif d'écoute et de soutien "Cocon"
+![](/uploads/actualite/BienEtre_Travail.png)
+# Dispositif d'écoute et de soutien "Cocon"
 La recherche académique peut parfois être éprouvante et mettre à mal notre équilibre mental. Entre doutes, remise en question, isolement, pression académique ou difficultés d'encadrement, il est normal de se sentir parfois démuni ou simplement de ressentir le besoin d'en parler.
 
 Parce qu’aucune difficulté ne mérite d’être traversée seul, le Club-Jeune de la SFSM souhaite mettre en place un espace d’écoute et de soutien, pensé comme un lieu de parole sécurisé, confidentiel et bienveillant. Cet espace est destiné à tous ceux qui ressentiraient le besoin d’échanger sur les difficultés rencontrées au cours de leur parcours, qu’elles soient d’ordre professionnel, relationnel ou personnel.
