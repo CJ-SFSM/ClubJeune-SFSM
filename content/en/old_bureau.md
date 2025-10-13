@@ -29,7 +29,7 @@ Pour l’année **2024-2025**, le bureau élu (vote en ligne) se composait de :
 - Maxime SUEUR – **Webmaster** 
 - Marie VALMORI – **Adjointe Webmaster**
 
-![](trombi/2024-2025.webp)
+![](../uploads/trombi/2024-2025.webp)
 ---
 
 ## 2023/2024
@@ -46,7 +46,7 @@ Pour l’année **2023-2024**, le bureau élu (vote en ligne) se composait de :
 - Bayan ALMASRI – **Responsable Relations Partenaires Industriels et Académiques**
 - Maxime SUEUR- **Webmaster**
 
-![](uploads/trombi/2023-2024.webp)
+![](../uploads/trombi/2023-2024.webp)
 ---
 
 ## 2022/2023
@@ -64,7 +64,7 @@ Pour l’année **2022-2023**, le bureau élu (vote en ligne) se composait de :
 - Hikmat GHOSSON – **Secrétaire**
 - Mathilde BOUAKIL – **Présidente conseil**
 
-![](uploads/trombi/2022-2023.webp)
+![](../uploads/trombi/2022-2023.webp)
 ---
 
 ## 2020/2021
@@ -80,7 +80,7 @@ Pour l'année **2020-2021**, le bureau élu en décembre 2019/janvier 2020 (vote
 - Olivier PERRUCHON – **Webmaster*
 - Hikmat GHOSSON – **Secrétaire**
 
-![](uploads/trombi/2020-2021.webp)
+![](../uploads/trombi/2020-2021.webp)
 ---
 
 ## 2019/2020
