@@ -28,7 +28,7 @@ Des webinaires tous les mois.
 ![](/uploads/actions/mentorat.png)
 ### Mentorat
 
-Nous proposons à nos membres du mentorat.
+Nous proposons deux formules de mentorat pour répondre à vos besoins.
 
 [](/mentorat/)
 
@@ -37,9 +37,16 @@ Nous proposons à nos membres du mentorat.
 ![](/uploads/actions/workshop.png)
 ### Ateliers
 
-Des ateliers pour répondre à vos questions.
+Des ateliers sont organisés pour réunir les membres du Club Jeune. Ne manquez pas nos évènements en vous [inscrivant au CJSM](/adhesion/). 
 
 [](/ateliers/)
+---
+
+![](/uploads/actions/BienEtre_Travail.png)
+### Dispositif cocon
+
+Un dispositif d'écoute et de soutien est disponible dans le cas où vous rencontrerez des difficultés. 
+[](/dispositif_cocon/)
 
 
 {{< /brick_blocks >}}
