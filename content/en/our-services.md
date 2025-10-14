@@ -12,7 +12,7 @@ title: Nos actions
 
 
 Nous mettons en place des actions pour nos membres du CJSM. En tant que membres, vous pouvez participez à ces actions !
-N'attendez-plus, **rejoignez-nous !**
+N'attendez-plus, [rejoignez-nous !](/adhesion/)
 
 ---
 ![](/uploads/actions/webinaire.png)
@@ -37,7 +37,7 @@ Nous proposons deux formules de mentorat pour répondre à vos besoins.
 ![](/uploads/actions/workshop.png)
 ### Ateliers
 
-Des ateliers sont organisés pour réunir les membres du Club Jeune. Ne manquez pas nos évènements en vous [inscrivant au CJSM](/adhesion/). 
+Des ateliers sont organisés pour réunir les membres du Club Jeune. 
 
 [](/ateliers/)
 ---
@@ -45,7 +45,8 @@ Des ateliers sont organisés pour réunir les membres du Club Jeune. Ne manquez 
 ![](/uploads/actions/BienEtre_Travail.png)
 ### Dispositif cocon
 
-Un dispositif d'écoute et de soutien est disponible dans le cas où vous rencontrerez des difficultés. 
+Des difficultés ? Un dispositif d'écoute et de soutien est disponible.
+
 [](/dispositif_cocon/)
 
 
