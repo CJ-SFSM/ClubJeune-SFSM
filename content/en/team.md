@@ -5,8 +5,9 @@ title: Notre équipe
 
 {{< breadcrumbs >}}
 
-# Le conseil d'administration du CJSM
 {{< brick_intro >}}
+# Le conseil d'administration du CJSM
+
 Le conseil d'administration (CA) du CJSM dispose de 9 membres dont chacun, dispose d'une fonction et des missions associées. Les membres du CA sont élus par la communauté du CJSM et leur mandat est d'une durée de 3 ans. A l'issuee des trois année du mandant, un candidat peut se représenter.
 
 
