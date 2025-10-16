@@ -38,6 +38,13 @@ menuitems:
     link: "/jobs/"
   - title: Nous sponsoriser
     link: "/sponsoring/"
+socials:
+  - title: LinkeDin
+    link: https://www.linkedin.com/company/cjsmsfsm/posts/
+    logo_image: /img/linkedin.svg      
+  - title: email
+    link: mailto:clubjeunesm@gmail.com
+    logo_image: /img/email.svg    
 cta:
   active: false
   title: Get started
