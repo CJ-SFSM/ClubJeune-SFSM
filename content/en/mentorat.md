@@ -14,7 +14,7 @@ Ce programme a pour objectif de réunir les membres CJSM et SFSM ensemble, afin 
 
 Dans ce cadre, les mentors et mentorés participants seront liés par binômes, et supervisés par un référent au sein du CJSM qui les guidera tout au long du programme. 
 
-Qu’est-ce qu’un mentor :
+**Qu’est-ce qu’un mentor :**
 
 <u>Un mentor possède un rôle de conseiller pour le mentoré</u> : il restitue son expérience au jeune chercheur afin de lui permettre de prendre des décisions relatives à sa carrière et ses recherches, dans un cadre informel et privilégié. Que vous interveniez dans un contexte académique et/ou privé, votre point de vue est précieux !  S’il constate des problèmes dans le travail de recherche du mentoré ou ses relations professionnelles, il peut signaler la situation et conseiller, ou en discuter avec le référent CJSM qui prendra des mesures si nécessaire. Le contexte du mentorat n’implique jamais une ingérence personnelle dans le travail du mentoré. 
 

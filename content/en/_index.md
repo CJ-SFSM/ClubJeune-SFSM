@@ -4,7 +4,9 @@ title: Accueil
 {{< brick_intro >}}
 
 # Bienvenue sur le site du Club Jeune de la Spectrométrie de Masse
+{{< /brick_intro >}}
 
+{{< brick_intro >}}
 Le **CJSM** est un collectif de jeunes chercheur·es qui promeut les échanges, le mentorat et la visibilité des travaux en spectrométrie de masse.
 
 {{< button "Découvrir le bureau" "/team/" >}}
