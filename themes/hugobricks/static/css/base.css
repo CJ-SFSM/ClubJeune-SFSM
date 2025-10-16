@@ -33,6 +33,9 @@ section.docs h3,
 h4 {color: var(--textMedium); line-height: 1.4; font-size: 1.1rem; margin-bottom: 0.2rem; padding-top: 1rem;}
 div + h3 {padding-top: 3rem;}
 p, ul, ol, blockquote, pre, .box.map, figure, details {margin-bottom: 1.7em; text-align: justify;}
+.text-center-intro p {
+  text-align: center; 
+}
 ul {margin-left: 1rem;}
 ol {margin-left: 2rem;}
 hr {margin: 3.5rem 0; height: 1px; background: rgba(0,0,0,0.1); border: 0;}
