@@ -3,3 +3,10 @@ description:
 contact:
   phone: 
   email: clubjeunesm@gmail.com
+socials:
+  - title: LinkeDin
+    link: https://www.linkedin.com/company/cjsmsfsm/posts/
+    logo_image: /img/linkedin.svg      
+  - title: email
+    link: mailto:clubjeunesm@gmail.com
+    logo_image: /img/email.svg  
