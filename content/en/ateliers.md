@@ -13,6 +13,8 @@ title: Nos ateliers
 
 Organisé conjointement par les **Sociétés de Jeunes Scientifiques des Pays-Bas** ([youngNVMS](https://www.nvms.nl/index.php/young-nvms/)) et de **France** (Club Jeune de la Société Française de Spectrométrie de Masse, CJSM), le webinaire s’est tenu en ligne le 26 juin 2025, de 13h00 à 17h00. Douze créneaux de présentation étaient ouverts aux jeunes scientifiques de toute l’Europe. 
 
+{{< gallery_image dir="/uploads/gallery/webinaire_2025/" >}}
+
 ## 41ème édition des Journées Française de la Spectrométrie de Masse (JFSM) 2025
 
 La 41ème édition des Journées Scientifiques de la SFSM ont eu lieu à Montpellier, du lundi 30 juin au jeudi 3 juillet 2025. Cet évènement annuel a rassemblé plus de 180 participants sous le soleil Montpelliérain. Un atelier organisé par le CJSM a marqué la matinée du lundi 30 juin. Nous adressons un grand merci à nos intervenants  Alexandra BERLIOZ-BARBIER, Jasmine Hertzog, Clothilde Comby-Zerbino, Clément Castilla et Olivier Laprévote pour leurs échanges riches et inspirants autour :
