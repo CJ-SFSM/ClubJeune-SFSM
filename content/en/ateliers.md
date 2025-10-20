@@ -9,7 +9,7 @@ title: Nos ateliers
 # Nos ateliers CJSM
 
 
-## Webinaires internationales 2025
+## Webinaire international 2025
 
 Organisé conjointement par les **Sociétés de Jeunes Scientifiques des Pays-Bas** ([youngNVMS](https://www.nvms.nl/index.php/young-nvms/)) et de **France** (Club Jeune de la Société Française de Spectrométrie de Masse, CJSM), le webinaire s’est tenu en ligne le 26 juin 2025, de 13h00 à 17h00. Douze créneaux de présentation étaient ouverts aux jeunes scientifiques de toute l’Europe. 
 
@@ -37,5 +37,6 @@ Sous l’égide de la Société Française de Spectrométrie de Masse (SFSM) et 
 
 {{< gallery_image dir="/uploads/gallery/SMAP_2024/" >}}
 
+## 40ème édition des Journées Française de la Spectrométrie de Masse (JFSM) 2023
 
 {{< /brick_wide >}}
