@@ -40,7 +40,7 @@ Sous l’égide de la Société Française de Spectrométrie de Masse (SFSM) et 
 ## 28ème rencontre du Club Jeune de la Spectrométrie de Masse (RCJMS) 2024
 
 L’édition 2024 des Rencontres du Club Jeune de la SFSM s'est tenue au couvent de [Saint-Jean-De-Bassel](https://couvent-saint-jean-de-bassel.fr/) du 22 au 26 avril 2024. Vous pouvez retrouver le fasicule de ces journées [ici](/uploads/pdf/Fasicules_rencontres/RCJSM2024_Fascicule.pdf).
-
+{{< gallery_image dir="/uploads/gallery/RCJSM_2024/" >}}
 
 ## 40ème édition des Journées Françaises de la Spectrométrie de Masse (JFSM) 2023
 {{< gallery_image dir="/uploads/gallery/JFSM_2023/" >}}
