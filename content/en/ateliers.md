@@ -42,7 +42,9 @@ Sous l’égide de la Société Française de Spectrométrie de Masse (SFSM) et 
 L’édition 2024 des Rencontres du Club Jeune de la SFSM s'est tenue au couvent de [Saint-Jean-De-Bassel](https://couvent-saint-jean-de-bassel.fr/) du 22 au 26 avril 2024. Vous pouvez retrouver le fasicule de ces journées [ici](/uploads/pdf/Fasicules_rencontres/RCJSM2024_Fascicule.pdf).
 {{< gallery_image dir="/uploads/gallery/RCJSM_2024/" >}}
 
-## 40ème édition des Journées Françaises de la Spectrométrie de Masse (JFSM) 2023
+## 39ème édition des Journées Françaises de la Spectrométrie de Masse (JFSM) 2023
+La 40ème édition des Journées Scientifiques de la SFSM ont eu lieu à Marseille du 5 au 8 septembre 2023, au Palais du Pharo sous le regard de Notre-Dame de la Garde.
+
 {{< gallery_image dir="/uploads/gallery/JFSM_2023/" >}}
 
 
