@@ -38,5 +38,5 @@ Sous l’égide de la Société Française de Spectrométrie de Masse (SFSM) et 
 {{< gallery_image dir="/uploads/gallery/SMAP_2024/" >}}
 
 ## 40ème édition des Journées Française de la Spectrométrie de Masse (JFSM) 2023
-
+{{< gallery_image dir="/uploads/gallery/JFSM_2023/" >}}
 {{< /brick_wide >}}
