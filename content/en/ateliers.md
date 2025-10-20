@@ -15,7 +15,7 @@ Organisé conjointement par les **Sociétés de Jeunes Scientifiques des Pays-Ba
 
 {{< gallery_image dir="/uploads/gallery/webinaire_2025/" >}}
 
-## 41ème édition des Journées Française de la Spectrométrie de Masse (JFSM) 2025
+## 41ème édition des Journées Françaises de la Spectrométrie de Masse (JFSM) 2025
 
 La 41ème édition des Journées Scientifiques de la SFSM ont eu lieu à Montpellier, du lundi 30 juin au jeudi 3 juillet 2025. Cet évènement annuel a rassemblé plus de 180 participants sous le soleil Montpelliérain. Un atelier organisé par le CJSM a marqué la matinée du lundi 30 juin. Nous adressons un grand merci à nos intervenants  Alexandra BERLIOZ-BARBIER, Jasmine Hertzog, Clothilde Comby-Zerbino, Clément Castilla et Olivier Laprévote pour leurs échanges riches et inspirants autour :
 - des parcours dans la recherche publique et privée,
@@ -37,6 +37,6 @@ Sous l’égide de la Société Française de Spectrométrie de Masse (SFSM) et 
 
 {{< gallery_image dir="/uploads/gallery/SMAP_2024/" >}}
 
-## 40ème édition des Journées Française de la Spectrométrie de Masse (JFSM) 2023
+## 40ème édition des Journées Françaises de la Spectrométrie de Masse (JFSM) 2023
 {{< gallery_image dir="/uploads/gallery/JFSM_2023/" >}}
 {{< /brick_wide >}}
