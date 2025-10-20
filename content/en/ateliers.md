@@ -6,7 +6,7 @@ title: Nos ateliers
 {{< breadcrumbs >}}
 
 
-# Nos ateliers CJSM
+# Nos ateliers et évènements CJSM
 
 
 ## Webinaire international 2025
@@ -28,7 +28,8 @@ La 41ème édition des Journées Scientifiques de la SFSM ont eu lieu à Montpel
 
 ## 29ème rencontre du Club Jeune de la Spectrométrie de Masse (RCJSM) 2025
 
-Nous avons organisé la 29ème édition des Rencontres Jeunes à Toulouse dans la ville Rose du 31 mars au 3 avril 2025, dans le Moulin de Moissac. 
+Nous avons organisé la 29ème édition des Rencontres Jeunes à Toulouse dans la ville Rose du 31 mars au 3 avril 2025, au [Moulin de Moissac](https://www.lemoulindemoissac.com/). 
+Vous pouvez retrouver le fasicule de ces journées [ici](/uploads/pdf/Fasicules_rencontres/RCJSM2025_Fascicule.pdf)
 {{< gallery_image dir="/uploads/gallery/RCJSM_2025/" >}}
 
 ## Spectrométrie de Masse et Analyse Protéomique (SMAP) 2024
@@ -36,7 +37,13 @@ Nous avons organisé la 29ème édition des Rencontres Jeunes à Toulouse dans l
 Sous l’égide de la Société Française de Spectrométrie de Masse (SFSM) et de la Société Française de Protéomique (FPS), la conférence sur la Spectrométrie de Masse et l’Analyse Protéomique (SMAP) s’est tenue à Lille, au Grand Palais, du 16 au 19 septembre 2024.
 
 {{< gallery_image dir="/uploads/gallery/SMAP_2024/" >}}
+## 28ème rencontre du Club Jeune de la Spectrométrie de Masse (RCJMS) 2024
+
+L’édition 2024 des Rencontres du Club Jeune de la SFSM s'est tenue au couvent de [Saint-Jean-De-Bassel](https://couvent-saint-jean-de-bassel.fr/) du 22 au 26 avril 2024. Vous pouvez retrouver le fasicule de ces journées [ici](/uploads/pdf/Fasicules_rencontres/RCJSM2024_Fascicule.pdf).
+{{< gallery_image dir="/uploads/gallery/RCJSM_2024/" >}}
 
 ## 40ème édition des Journées Françaises de la Spectrométrie de Masse (JFSM) 2023
 {{< gallery_image dir="/uploads/gallery/JFSM_2023/" >}}
+
+
 {{< /brick_wide >}}
