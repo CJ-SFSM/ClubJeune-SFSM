@@ -14,7 +14,7 @@ Le CJSM est une dépendance de la Société Française de Spectrométrie de Mass
 
 Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901 ayant pour titre SOCIÉTÉ FRANÇAISE DE SPECTROMÉTRIE DE MASSE
 
-### Article 2 - Objet
+## Article 2 - Objet
 
 L’Association a pour buts de :
 
@@ -24,7 +24,7 @@ L’Association a pour buts de :
 
 – assurer les échanges d’informations avec les organisations scientifiques françaises et étrangères.
 
-### Article 3 - Siège social
+## Article 3 - Siège social
 
 Le siège social est à :
 
