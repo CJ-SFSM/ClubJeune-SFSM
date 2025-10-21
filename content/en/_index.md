@@ -62,7 +62,7 @@ Le CJSM est un lieu d’initiatives porté par la jeune communauté en spectrom�
 
 ## Pourquoi rejoindre le CJSM ?
 {{< brick_intro >}}
-Un club pour les jeunes scientifiques, pensé par eux, avec eux. Chaque année, nous organisons des évènements. Ces évènements sont à un rythme mensuels, tels que mes webinaires, le programme est disponible [ici](/blog/nos-webinaire-le-retour-en-2025-et-2026/) ainsi que les Journées Scientifiques du Club Jeune qui ont lieu chaque année. Vous trouverez la perspective des Journées Scientifiques [ici](/chiffres/) 
+Un club pour les jeunes scientifiques, pensé par eux, avec eux. Chaque année, nous organisons des évènements. Ces évènements sont à un rythme mensuels, tels que les webinaires, le programme est disponible [ici](/blog/nos-webinaire-le-retour-en-2025-et-2026/) ainsi que les Journées Scientifiques du Club Jeune qui ont lieu chaque année. Vous trouverez la perspective des Journées Scientifiques [ici](/chiffres/) 
 {{< /brick_intro >}}
 ---
 
