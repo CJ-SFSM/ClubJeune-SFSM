@@ -17,7 +17,7 @@
                     <option value="{{ $name }}">{{ $name }}</option>
                 {{ end }}
             </select>-->
-        </div>-->
+        <!--</div>-->
             <ul class="contentitems grid posts" data-pagesize="{{ page.Site.Data.settings.page_size }}">
                 {{ range $index,$post := $posts }}
                     <li class="item{{ range .Params.tags }} tag_{{ . }}{{ end }}">
