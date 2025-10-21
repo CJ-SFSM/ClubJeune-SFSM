@@ -11,13 +11,13 @@
         {{- markdownify $inner -}}
     </div>{{ end }}
     <div class="container">
-        <div class="filter">
-            <select id="filter" class="multiselecttags numbers_{{ page.Site.Data.settings.filter_has_numbers }}" multiple autocomplete="off" title="{{ i18n "Filter tags" }}">
+        <!--<div class="filter">
+            <!--<select id="filter" class="multiselecttags numbers_{{ page.Site.Data.settings.filter_has_numbers }}" multiple autocomplete="off" title="{{ i18n "Filter tags" }}">
                 {{ range $name, $taxonomy := page.Site.Taxonomies.tags }}
                     <option value="{{ $name }}">{{ $name }}</option>
                 {{ end }}
-            </select>
-        </div>
+            </select>-->
+        </div>-->
             <ul class="contentitems grid posts" data-pagesize="{{ page.Site.Data.settings.page_size }}">
                 {{ range $index,$post := $posts }}
                     <li class="item{{ range .Params.tags }} tag_{{ . }}{{ end }}">
