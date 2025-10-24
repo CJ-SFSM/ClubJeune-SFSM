@@ -4,6 +4,18 @@
   image: /uploads/illustrations/Logo_CJSM_HD_black.svg
   description: "Identification, décryptage de la composition chimique et de la structure, des polymères et microplastiques insolubles par dépolymérisation chimique & spectrométrie de masse avancée"
 
+- name: "Gauthier Rosé"
+  soutenance: "17 décembre 2024"
+  function: Institut parisien de chimie moléculaire, Sorbonne Université
+  image: /uploads/illustrations/Logo_CJSM_HD_black.svg
+  description: "Approche multimodale par spectrométrie de masse pour la caractérisation des processus de vieillissement de matériaux organiques et polymères dans des œuvres patrimoniales"
+
+- name: "Isaure Sergent"
+  soutenance: "26 séptembre 2024"
+  function: ICR - Institut de Chimie Radicalaire, Aix-Marseille Université
+  image: /uploads/illustrations/Logo_CJSM_HD_black.svg
+  description: "Apport de la Spectrométrie de Mobilité Ionique au Décodage de Polymères Numériques"
+
 - name: "Maxime Sueur"
   soutenance: "27 mars 2024"
   function: Cobra, Université de Rouen Normandie
