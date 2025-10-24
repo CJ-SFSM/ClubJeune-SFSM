@@ -3,7 +3,7 @@ title: Accueil
 ---
 {{< brick_intro >}}
 
-# Bienvenue sur le site du Club Jeune de la Spectrométrie de Masse
+# Bienvenue sur le site du Club Jeune de la Société Française de Spectrométrie de Masse
 {{< /brick_intro >}}
 
 {{< brick_intro >}}
