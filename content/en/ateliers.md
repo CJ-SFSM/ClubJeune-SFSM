@@ -36,6 +36,8 @@ Vous pouvez retrouver le fasicule de ces journées [ici](/uploads/pdf/Fasicules_
 
 Sous l’égide de la Société Française de Spectrométrie de Masse (SFSM) et de la Société Française de Protéomique (FPS), la conférence sur la Spectrométrie de Masse et l’Analyse Protéomique (SMAP) s’est tenue à Lille, au Grand Palais, du 16 au 19 septembre 2024.
 
+Nous remercions le Club Jeune de la FPS pour l'atelier organisé conjointement en début de ce congrés, qui a réuni les membres jeunes de ces deux sociétés savantes. 
+
 {{< gallery_image dir="/uploads/gallery/SMAP_2024/" >}}
 ## 28ème rencontre du Club Jeune de la Spectrométrie de Masse (RCJMS) 2024
 
