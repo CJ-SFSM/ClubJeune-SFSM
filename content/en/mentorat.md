@@ -26,7 +26,7 @@ Dans ce cadre, les mentors et mentorés participants seront liés par binômes, 
 
 ### But du mentorat CJSM
 
-{{< brick_image2 >}}
+
 ### Définition des acteurs
 ![](/uploads/illustrations/logo_mentorat_pilliers.svg)
 
@@ -36,7 +36,7 @@ Dans ce cadre, les mentors et mentorés participants seront liés par binômes, 
 La relation est basée sur le volontariat des 2 parties. 
 
 
-{{< /brick_image2 >}}
+
 ### Intérêts pour chacune des parties
 
 ![](/uploads/illustrations/Interet_mentorat.svg)
