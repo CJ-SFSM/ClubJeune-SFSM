@@ -8,7 +8,7 @@ title: Mentorat
 
 # Le mentorat que le CJSM propose
 
-## Mentorat en binôme
+## Présentation du mentorat en binôme
  
 Ce programme a pour objectif de réunir les membres CJSM et SFSM ensemble, afin de permettre aux jeunes chercheurs d’être guidés et conseillés dans leur début de carrière. 
 
@@ -21,5 +21,24 @@ Dans ce cadre, les mentors et mentorés participants seront liés par binômes, 
 <u>Un mentor n’a pas le rôle du CSI pour un doctorant</u> : il doit assister le mentoré dans sa démarche à long terme et la construction de son projet de recherche. Les contacts avec le mentor sont également plus fréquents et informels que ce qui est attendu pour un CSI et sont centrés sur les besoins du mentoré plus que son travail.
 
 <u>Un mentor n’a pas le rôle du directeur de recherche</u> : il ne peut pas prendre de décisions pour le mentoré dans son laboratoire, ou ingérer directement dans son travail. Ses conseils restent toujours bienvenus, son expérience étant précieuse pour le mentoré.
+
+## Les points clés à retenir
+
+### But du mentorat CJSM
+
+{{< brick_image2 >}}
+### Définition des acteurs
+
+**Mentor** : partagent leurs expériences et connaissances avec des personnes moins expérimentées. 
+**Mentorés** : membres du CJSM (moins de 35 ans ou maximum 5 ans après la thèse) qui souhaitent être parrainés.
+
+La relation est basée sur le volontariat des 2 parties. 
+
+![](/uploads/illustrations/logo_mentorat_pilliers.svg)
+{{< /brick_image2 >}}
+### Intérêts pour chacune des parties
+
+![](/uploads/illustrations/Interet_mentorat.svg)
+
 
 {{< /brick_wide >}}
