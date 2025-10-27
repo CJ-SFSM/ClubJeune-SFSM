@@ -42,5 +42,8 @@ La relation est basée sur le volontariat des 2 parties.
 
 ![](/uploads/illustrations/Interet_mentorat.svg)
 
+### Planning du programme Mentorat CJSM 2025-2026
+
+![](/uploads/illustrations/Planning_mentorat_2025-2026.svg)
 
 {{< /brick_wide >}}
