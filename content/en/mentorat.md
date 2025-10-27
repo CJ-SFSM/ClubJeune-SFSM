@@ -36,7 +36,7 @@ Dans ce cadre, les mentors et mentorés participants seront liés par binômes, 
 
 La relation est basée sur le volontariat des 2 parties. 
 
-![](/uploads/illustrations/Relation_mentorat.png)
+![](/uploads/illustrations/relation.svg)
 
 ### Intérêts pour chacune des parties
 
