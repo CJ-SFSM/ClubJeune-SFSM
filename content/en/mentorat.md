@@ -24,18 +24,19 @@ Dans ce cadre, les mentors et mentorés participants seront liés par binômes, 
 
 ## Les points clés à retenir
 
-### But du mentorat CJSM
+### Les quatre pilliers du mentorat CJSM
 
+![](/uploads/illustrations/logo_mentorat_pilliers.svg)
 
 ### Définition des acteurs
-![](/uploads/illustrations/logo_mentorat_pilliers.svg)
+
 
 - **Mentor** : partagent leurs expériences et connaissances avec des personnes moins expérimentées. 
 - **Mentorés** : membres du CJSM (moins de 35 ans ou maximum 5 ans après la thèse) qui souhaitent être parrainés.
 
 La relation est basée sur le volontariat des 2 parties. 
 
-
+![](/uploads/illustrations/Relation_mentorat.png)
 
 ### Intérêts pour chacune des parties
 
