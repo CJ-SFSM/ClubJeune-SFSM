@@ -24,7 +24,7 @@ Dans ce cadre, les mentors et mentorés participants seront liés par binômes, 
 
 ## Les points clés à retenir
 
-[Consultez la plaquette](/uploads/pdf/Presentation_mentorat_Recto-Verso_FR.pdf)pour connaître toutes les informations relatives au mentorat du CJSM.
+[Consultez la plaquette](/uploads/pdf/Presentation_mentorat_Recto-Verso_FR.pdf) pour connaître toutes les informations relatives au mentorat du CJSM.
 
 ### Les quatre pilliers du mentorat CJSM
 
