@@ -1,6 +1,6 @@
 ---
 title: Mentorat 2025-2026
-image: /uploads/actualite/mentorat.png
+image: /uploads/actualite/mentorat_25-26.png
 date: 2025-11-05
 tags: 
   - Mentorat
