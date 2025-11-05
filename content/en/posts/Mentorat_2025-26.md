@@ -1,5 +1,5 @@
 ---
-title: Mentorat 2025/2026
+title: Mentorat 2025-2026
 image: /uploads/actualite/mentorat.png
 date: 2025-11-05
 tags: 
@@ -24,4 +24,4 @@ Si vous avez des questions, n'hésitez pas à nous contacter via notre email : c
 Pour plus d'informations, rendez-vous sur la page [mentorat](/mentorat/).
 Nous vous invitions à consulter [la plaquette](/uploads/pdf/Presentation_mentorat_Recto-Verso_FR.pdf).
 
-![](/uploads/actualite/webinaires_2026.png)
+![](/uploads/actualite/mentorat.png)
