@@ -6,7 +6,7 @@ tags:
   - Mentorat
 ---
 
-![](/uploads/actualite/mentorat.png)
+![](/uploads/actualite/mentorat_25-26.png)
 
 ## Mentorat en binôme 2025/2026
 
@@ -24,4 +24,3 @@ Si vous avez des questions, n'hésitez pas à nous contacter via notre email : c
 Pour plus d'informations, rendez-vous sur la page [mentorat](/mentorat/).
 Nous vous invitions à consulter [la plaquette](/uploads/pdf/Presentation_mentorat_Recto-Verso_FR.pdf).
 
-![](/uploads/actualite/mentorat.png)
