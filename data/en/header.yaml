@@ -36,6 +36,8 @@ menuitems:
         link: "/dispositif_cocon/"
   - title: "Emploi"
     link: "/jobs/"
+  - title: "testEmploi"
+    link: "/jobs2/"
   - title: Nous sponsoriser
     link: "/sponsoring/"
 socials:

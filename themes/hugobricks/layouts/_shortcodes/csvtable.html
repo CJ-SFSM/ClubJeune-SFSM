@@ -1,0 +1,53 @@
+{{ with $file := .Get 0 }}
+  {{ with resources.Get $file }}
+    {{ with . | transform.Unmarshal }}
+      {{ $data := . }}
+      {{ if gt (len $data) 0 }}
+        {{ $headers := index $data 0 }}
+        {{ $lastIndex := sub (len $headers) 1 }}
+
+        <table class="table table-striped table-sm">
+          <thead>
+            <tr>
+              {{ range $i, $h := $headers }}
+                {{ if eq $i $lastIndex }}
+                  <th>Offre</th>
+                {{ else }}
+                  <th>{{ $h }}</th>
+                {{ end }}
+              {{ end }}
+            </tr>
+          </thead>
+          <tbody>
+            {{ range after 1 $data }}
+              <tr>
+                {{ range $i, $cell := . }}
+                  {{ if eq $i $lastIndex }}
+                    <td>
+                      {{ if $cell }}
+                        <a href="{{ $cell | relURL }}" 
+                           class="btn btn-sm btn-primary"
+                           target="_blank" 
+                           rel="noopener">
+                          Voir l'offre
+                        </a>
+                      {{ else }}
+                        –
+                      {{ end }}
+                    </td>
+                  {{ else }}
+                    <td>{{ $cell }}</td>
+                  {{ end }}
+                {{ end }}
+              </tr>
+            {{ end }}
+          </tbody>
+        </table>
+      {{ end }}
+    {{ end }}
+  {{ else }}
+    {{ errorf "The %q shortcode was unable to find %s. See %s" $.Name $file $.Position }}
+  {{ end }}
+{{ else }}
+  {{ errorf "The %q shortcode requires one positional argument, the path to the CSV file relative to the assets directory. See %s" .Name .Position }}
+{{ end }}
