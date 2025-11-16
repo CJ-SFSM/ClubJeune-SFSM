@@ -8,7 +8,7 @@ title: "Offres d’emploi nv"
 
 Nous informons nos membres des offres d'emploi qui nous sont communiquées. La liste disponible est couramment mise à jour.
 
-{{< csvtable "/jobs/jobs.csv" >}}
+{{< csvtable "assets/data/jobs/jobs.csv" >}}
 
 
 {{< /brick_wide >}}
