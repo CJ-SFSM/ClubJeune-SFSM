@@ -1,43 +1,20 @@
 {{ with $file := .Get 0 }}
   {{ with resources.Get $file }}
     {{ with . | transform.Unmarshal }}
-      {{ $data := . }}
-      {{ if gt (len $data) 0 }}
-        {{ $headers := index $data 0 }}
-        {{ $lastIndex := sub (len $headers) 1 }}
-
-        <table class="table table-striped table-sm">
+      {{ if gt (len .) 0 }}
+        <table>
           <thead>
             <tr>
-              {{ range $i, $h := $headers }}
-                {{ if eq $i $lastIndex }}
-                  <th>Offre</th>
-                {{ else }}
-                  <th>{{ $h }}</th>
-                {{ end }}
+              {{ range index . 0 }}
+                <th>{{ . }}</th>
               {{ end }}
             </tr>
           </thead>
           <tbody>
-            {{ range after 1 $data }}
+            {{ range after 1 . }}
               <tr>
-                {{ range $i, $cell := . }}
-                  {{ if eq $i $lastIndex }}
-                    <td>
-                      {{ if $cell }}
-                        <a href="{{ $cell | relURL }}" 
-                           class="btn btn-sm btn-primary"
-                           target="_blank" 
-                           rel="noopener">
-                          Voir l'offre
-                        </a>
-                      {{ else }}
-                        –
-                      {{ end }}
-                    </td>
-                  {{ else }}
-                    <td>{{ $cell }}</td>
-                  {{ end }}
+                {{ range . }}
+                  <td>{{ . }}</td>
                 {{ end }}
               </tr>
             {{ end }}
