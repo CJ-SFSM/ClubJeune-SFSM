@@ -17,7 +17,7 @@ Ensuite, le CJSM se charge de la rendre accessible à la jeune communauté. Les 
 
 Le contact est ponctuel et le ou la Sénior.e peut indiquer un nombre limité de message par mois (par exemple 1, 2, 3, 10... 50). Chaque mois le conteur est remis à zéro. 
 
-Vous pouvez consulter la marche à suivre à partir de ce [pdf](/uploads/pdf/Presentation_Mentorat_Libre Recto-VersoFR.pdf) pour comprendre comment la plateforme [Eventbrite](https://www.eventbrite.com/e/mentorat-libre-du-cjsm-tickets-1397162122519?aff=oddtdtcreator) nous permet de gérer le système de mise en relation entre Sénior.e.s et Junior.e.s. 
+Vous pouvez consulter la marche à suivre à partir de ce [pdf](/uploads/pdf/Presentation_Mentorat_Libre_Recto-VersoFR.pdf) pour comprendre comment la plateforme [Eventbrite](https://www.eventbrite.com/e/mentorat-libre-du-cjsm-tickets-1397162122519?aff=oddtdtcreator) nous permet de gérer le système de mise en relation entre Sénior.e.s et Junior.e.s. 
 
 Nous vous ferons une démonstration du fonctionnement du système **le Lundi 5 Janvier à 12h15**, lors de notre Webinaire.
 
