@@ -34,6 +34,8 @@ menuitems:
         link: "/ateliers/"
       - title: "Dispositif Cocon"
         link: "/dispositif_cocon/"
+      - title: "test"
+        link: "/Abstract_RJCSM_IDF/"
   - title: "Emploi"
     link: "/jobs/"
   - title: Nous sponsoriser
