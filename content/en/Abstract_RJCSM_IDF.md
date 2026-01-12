@@ -7,6 +7,5 @@ title: "Soumission d'abstract"
 
 # Test
 
-{{< Abstract_RCJSM_2026 >}}
 
 {{< /brick_wide >}}
