@@ -1,5 +1,5 @@
 ---
-title: "Soumission d'abstract"
+title: Soumission d'abstract
 ---
 
 {{< brick_wide >}}
