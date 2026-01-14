@@ -7,5 +7,6 @@ title: Soumission d'abstract
 
 # Test
 
+Ceci est un test.
 
 {{< /brick_wide >}}
