@@ -35,7 +35,7 @@ menuitems:
       - title: "Dispositif Cocon"
         link: "/dispositif_cocon/"
       - title: "test"
-        link: "/ateliers/"
+        link: "/abstractIDF/"
   - title: "Emploi"
     link: "/jobs/"
   - title: Nous sponsoriser
