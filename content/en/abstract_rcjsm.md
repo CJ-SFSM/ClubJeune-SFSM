@@ -8,5 +8,5 @@ title: Soumission d'abstract
 # Test
 
 Ceci est un test.
-
+{{< Abstract_RCJSM_2026 >}}
 {{< /brick_wide >}}
