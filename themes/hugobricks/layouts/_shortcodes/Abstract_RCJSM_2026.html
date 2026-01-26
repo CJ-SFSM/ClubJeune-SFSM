@@ -5,8 +5,17 @@
 
   
   <!-- Exemple de champs (remplacez/complétez avec les vôtres) -->
-  <label for="title">Titre *</label>
-  <input id="title" name="title" type="text" required maxlength="200">
+  <!-- 1) Titre -->
+    <label class="abs-label" for="title">Titre (obligatoire)</label>
+    <input
+      class="abs-input"
+      id="title"
+      name="title"
+      type="text"
+      required
+      maxlength="220"
+      placeholder="Ex: On-line analysis of biomass fast pyrolysis volatiles by dopant-assisted APCI"
+    />
 
   <label for="authors">Auteurs *</label>
   <input id="authors" name="authors" type="text" required maxlength="300">
