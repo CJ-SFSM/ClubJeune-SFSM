@@ -3,30 +3,26 @@
 
   <input type="hidden" name="_gotcha" style="display:none !important">
 
-  <fieldset class="abs-fieldset">
-    <legend class="abs-legend">Soumission — Résumé (format imposé)</legend>
+  
+  <!-- Exemple de champs (remplacez/complétez avec les vôtres) -->
+  <label for="title">Titre *</label>
+  <input id="title" name="title" type="text" required maxlength="200">
 
-    <!-- Exemple de champs (remplacez/complétez avec les vôtres) -->
-    <label for="title">Titre *</label>
-    <input id="title" name="title" type="text" required maxlength="200">
+  <label for="authors">Auteurs *</label>
+  <input id="authors" name="authors" type="text" required maxlength="300">
 
-    <label for="authors">Auteurs *</label>
-    <input id="authors" name="authors" type="text" required maxlength="300">
+  <label for="affiliations">Affiliations *</label>
+  <textarea id="affiliations" name="affiliations" required maxlength="600" rows="3"></textarea>
 
-    <label for="affiliations">Affiliations *</label>
-    <textarea id="affiliations" name="affiliations" required maxlength="600" rows="3"></textarea>
+  <label for="corresponding_email">Email correspondant *</label>
+  <input id="corresponding_email" name="corresponding_email" type="email" required maxlength="254">
 
-    <label for="corresponding_email">Email correspondant *</label>
-    <input id="corresponding_email" name="corresponding_email" type="email" required maxlength="254">
+  <!-- … vos champs Contexte/Méthodes/Résultats/Conclusion, etc. … -->
 
-    <!-- … vos champs Contexte/Méthodes/Résultats/Conclusion, etc. … -->
+  <label>
+    <input type="checkbox" name="consent" required>
+    J’accepte le traitement de ma soumission. *
+  </label>
 
-    <label>
-      <input type="checkbox" name="consent" required>
-      J’accepte le traitement de ma soumission. *
-    </label>
-
-    <button type="submit">Soumettre</button>
-    
-  </fieldset>
+  <button type="submit">Soumettre</button>
 </form>
