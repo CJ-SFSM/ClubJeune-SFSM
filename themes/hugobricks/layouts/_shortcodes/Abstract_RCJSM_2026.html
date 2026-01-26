@@ -1,170 +1,27 @@
 <form action="https://getform.io/f/akkeeeea" method="POST" accept-charset="UTF-8">
   <!-- Anti-spam Honeypot Getform -->
+
   <input type="hidden" name="_gotcha" style="display:none !important">
-<fieldset class="abs-fieldset">
 
-    <legend class="abs-legend">Soumission — Résumé (format imposé)</legend>
+  <!-- Exemple de champs (remplacez/complétez avec les vôtres) -->
+  <label for="title">Titre *</label>
+  <input id="title" name="title" type="text" required maxlength="200">
 
-    <!-- 1) Titre -->
-    <label class="abs-label" for="title">Titre (obligatoire)</label>
-    <input
-      class="abs-input"
-      id="title"
-      name="title"
-      type="text"
-      required
-      maxlength="220"
-      placeholder=""
-    />
+  <label for="authors">Auteurs *</label>
+  <input id="authors" name="authors" type="text" required maxlength="300">
 
-    <!-- 2) Auteurs -->
-    <label class="abs-label" for="authors">
-      Auteurs (format imposé)
-      <span class="abs-hint">Ex: Camille MOREL1, Lucas BERNARD1, Clara BRUN2</span>
-    </label>
-    <textarea
-      class="abs-textarea"
-      id="authors"
-      name="authors"
-      required
-      rows="2"
-      maxlength="400"
-      placeholder=""
-    ></textarea>
-    <p class="abs-help">
-      Règle : ajouter le numéro d’affiliation directement après le prénom/nom (ex: Camille MOREL1).
-      Séparer les auteurs par des virgules.
-    </p>
+  <label for="affiliations">Affiliations *</label>
+  <textarea id="affiliations" name="affiliations" required maxlength="600" rows="3"></textarea>
 
-    <!-- 3) Affiliations -->
-    <label class="abs-label" for="affiliation_1">Affiliation 1 (obligatoire)</label>
-    <input
-      class="abs-input"
-      id="affiliation_1"
-      name="affiliation_1"
-      type="text"
-      required
-      maxlength="220"
-      placeholder="Ex: Laboratoire ..., Université ..., Ville, Pays"
-    />
+  <label for="corresponding_email">Email correspondant *</label>
+  <input id="corresponding_email" name="corresponding_email" type="email" required maxlength="254">
 
-    <label class="abs-label" for="affiliation_2">Affiliation 2 (optionnelle)</label>
-    <input
-      class="abs-input"
-      id="affiliation_2"
-      name="affiliation_2"
-      type="text"
-      maxlength="220"
-      placeholder="Ex: Laboratoire ..., Université ..., Ville, Pays"
-    />
+  <!-- … vos champs Contexte/Méthodes/Résultats/Conclusion, etc. … -->
 
-    <label class="abs-label" for="affiliation_3">Affiliation 3 (optionnelle)</label>
-    <input
-      class="abs-input"
-      id="affiliation_3"
-      name="affiliation_3"
-      type="text"
-      maxlength="220"
-    />
+  <label>
+    <input type="checkbox" name="consent" required>
+    J’accepte le traitement de ma soumission. *
+  </label>
 
-    <label class="abs-label" for="affiliation_4">Affiliation 4 (optionnelle)</label>
-    <input
-      class="abs-input"
-      id="affiliation_4"
-      name="affiliation_4"
-      type="text"
-      maxlength="220"
-    />
-
-    <label class="abs-label" for="affiliation_5">Affiliation 5 (optionnelle)</label>
-    <input
-      class="abs-input"
-      id="affiliation_5"
-      name="affiliation_5"
-      type="text"
-      maxlength="220"
-    />
-
-    <!-- 4) Thématiques -->
-    <label class="abs-label" for="themes">
-      Thématiques (choix multiple)
-      <span class="abs-hint">Conforme au bloc “Thématiques” du template</span>
-    </label>
-    <select class="abs-input" id="themes" name="themes" multiple required size="6">
-      <!-- Remplacez/complétez cette liste selon vos thématiques officielles -->
-      <option value="Instrumentation">Instrumentation</option>
-      <option value="Développement méthodologique">Développement méthodologique</option>
-      <option value="Pétroléomique">Protéomique</option>
-      <option value="Lipidomique">Lipidomique</option>
-      <option value="Métabolomique">Métabolomique</option>
-      <option value="Autre">Autre</option>
-    </select>
-    <p class="abs-help">
-      Astuce : maintenez Ctrl (Windows/Linux) ou Cmd (Mac) pour sélectionner plusieurs thématiques.
-    </p>
-
-    <!-- 5) Résumé -->
-    <label class="abs-label" for="abstract">
-      Résumé (texte continu)
-      <span class="abs-hint">Sans mise en forme, sans listes ; 3 000 caractères max</span>
-    </label>
-    <textarea
-      class="abs-textarea"
-      id="abstract"
-      name="abstract"
-      required
-      rows="12"
-      maxlength="3000"
-      placeholder="Collez ici le résumé au format “Résumé” du template."
-    ></textarea>
-
-    <!-- 6) Références -->
-    <label class="abs-label" for="ref_1">Référence [1] (obligatoire)</label>
-    <input
-      class="abs-input"
-      id="ref_1"
-      name="ref_1"
-      type="text"
-      required
-      maxlength="260"
-      placeholder="Ex: C. Liu et al., Chem Soc Rev, 2014, 43(22):7594–7623"
-    />
-
-    <label class="abs-label" for="ref_2">Référence [2] (optionnelle)</label>
-    <input class="abs-input" id="ref_2" name="ref_2" type="text" maxlength="260" />
-
-    <label class="abs-label" for="ref_3">Référence [3] (optionnelle)</label>
-    <input class="abs-input" id="ref_3" name="ref_3" type="text" maxlength="260" />
-
-    <label class="abs-label" for="ref_4">Référence [4] (optionnelle)</label>
-    <input class="abs-input" id="ref_4" name="ref_4" type="text" maxlength="260" />
-
-    <label class="abs-label" for="ref_5">Référence [5] (optionnelle)</label>
-    <input class="abs-input" id="ref_5" name="ref_5" type="text" maxlength="260" />
-
-    <label class="abs-label" for="ref_6">Référence [6] (optionnelle)</label>
-    <input class="abs-input" id="ref_6" name="ref_6" type="text" maxlength="260" />
-
-    <!-- Contact (utile même si pas dans le template) -->
-    <label class="abs-label" for="email">Email du correspondant (obligatoire)</label>
-    <input class="abs-input" id="email" name="email" type="email" required maxlength="254" />
-
-    <label class="abs-check">
-      <input type="checkbox" name="consent" required />
-      Je certifie que ces informations respectent le format demandé et j’accepte le traitement de la soumission.
-    </label>
-
-    <button class="abs-btn" type="submit">Soumettre</button>
-  </fieldset>
+  <button type="submit">Soumettre</button>
 </form>
-
-<style>
-  .abs-fieldset{max-width:820px;border:1px solid #ddd;border-radius:14px;padding:16px}
-  .abs-legend{font-weight:700;padding:0 6px}
-  .abs-label{display:block;margin-top:12px;font-weight:600}
-  .abs-hint{display:block;font-weight:400;opacity:.8;margin-top:4px}
-  .abs-help{margin:6px 0 0 0;opacity:.85;font-size:.95em}
-  .abs-input,.abs-textarea{width:100%;margin-top:6px;padding:10px;border:1px solid #ccc;border-radius:12px;box-sizing:border-box}
-  .abs-check{display:block;margin-top:14px}
-  .abs-btn{margin-top:16px;padding:10px 16px;border-radius:12px;border:0;cursor:pointer}
-</style>
