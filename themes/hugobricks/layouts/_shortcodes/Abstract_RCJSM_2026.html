@@ -9,6 +9,15 @@
   <label class="abs-label" for="title">Titre (obligatoire)</label>
   <input id="title" name="title" type="text" required maxlength="220">
 
+<!-- 2) Auteurs -->
+    <label class="abs-label" for="authors">Auteurs (format imposé)<span class="abs-hint">Ex: Nom PRÉNOM1, Nom PRÉNOM1, Nom PRÉNOM2</span></label>
+    <textarea class="abs-textarea" id="authors" name="authors" required rows="2" maxlength="400" placeholder="Ex: Nathan TRAULLÉ1, Théo VOELLINGER1, Jasmine HERTZOG1, Anthony DUFOUR2"></textarea>
+    <p class="abs-help">
+      Règle : ajouter le numéro d’affiliation directement après le prénom/nom (ex: DUPONT Marie2).
+      Séparer les auteurs par des virgules.
+    </p>
+
+
   <label for="authors">Auteurs *</label>
   <input id="authors" name="authors" type="text" required maxlength="300">
 
