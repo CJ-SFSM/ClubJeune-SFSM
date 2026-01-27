@@ -34,7 +34,7 @@ menuitems:
         link: "/ateliers/"
       - title: "Dispositif Cocon"
         link: "/dispositif_cocon/"
-      - title: "test"
+      - title: "Déposer votre résumé (RCJSM 2026)"
         link: "/abstract_rcjsm/"
   - title: "Emploi"
     link: "/jobs/"
