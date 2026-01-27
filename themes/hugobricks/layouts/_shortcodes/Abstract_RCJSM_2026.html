@@ -5,6 +5,18 @@
   <fieldset class="abs-fieldset">
     <legend class="abs-legend">Soumission — Résumé (format imposé)</legend>
 
+    <!-- Type de présentation -->
+
+    <label class="abs-radio">
+      <input type="radio" name="presentation_type" value="Orale_12+3" required>
+      Présentation orale 12 minutes + 3 minutes de questions
+    </label>
+
+    <label class="abs-radio">
+      <input type="radio" name="presentation_type" value="Courte_3_sans_questions" required>
+      Présentation courte 3 minutes (sans question)
+    </label>
+
     <!-- 1) Titre -->
     <label class="abs-label" for="title">Titre (obligatoire)</label>
     <input
@@ -195,6 +207,8 @@
   .abs-input,.abs-textarea{width:100%;margin-top:6px;padding:10px;border:1px solid #ccc;border-radius:12px;box-sizing:border-box}
   .abs-check{display:block;margin-top:14px}
   .abs-btn{margin-top:16px;padding:10px 16px;border-radius:12px;border:0;cursor:pointer}
+  .abs-radio{display:block;margin-top:10px}
+  .abs-radio input{margin-right:8px}
 </style>
 
 
