@@ -34,6 +34,11 @@ menuitems:
         link: "/ateliers/"
       - title: "Dispositif Cocon"
         link: "/dispositif_cocon/"
+  - title: "RCJSM 2026"
+    link: "/rcjsm_2026/"
+    items:
+      - title: "Présentation des Rencontres 2026"
+        link: "/rcjsm_2026/"
       - title: "Déposer votre résumé (RCJSM 2026)"
         link: "/abstract_rcjsm/"
   - title: "Emploi"
