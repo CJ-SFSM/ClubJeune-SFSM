@@ -44,7 +44,7 @@ menuitems:
   - title: "Emploi"
     link: "/jobs/"
   - title: Nous sponsoriser
-    link: "/sponsoring/"
+    link: "/sponsoring/" 
 socials:
   - title: LinkeDin
     link: https://www.linkedin.com/company/cjsmsfsm/posts/
