@@ -7,33 +7,15 @@
 
     <!-- Type de présentation -->
 
-    <label class="abs-radio" for = "Choix_1">
-      Choix n°1
-      </label>
-      <input type="radio" name="presentation_type_choix1" value="Orale_12+3"  id="Choix_1" required >
+    <label class="abs-radio">
+      <input type="radio" name="presentation_type" value="Orale_12+3" required>
       Présentation orale 12 minutes + 3 minutes de questions
     </label>
 
-    <label class="abs-radio" >
-      <input type="radio" name="presentation_type_choix1" value="Courte_3_sans_questions" id="Choix_1" required>
+    <label class="abs-radio">
+      <input type="radio" name="presentation_type" value="Courte_3_sans_questions" required>
       Présentation courte 3 minutes + 2 minutes de questions
     </label>
-
-
-  <!--  <label class="abs-radio" for = "Choix_2">
-      Choix n°2
-      </label>
-      <input type="radio" name="presentation_type_choix2" value="Orale_12+3" id="Choix_2" required>
-      Présentation orale 12 minutes + 3 minutes de questions
-    </label>
-
-    <label class="abs-radio" >
-      <input type="radio" name="presentation_type_choix2" value="Courte_3_sans_questions" id="Choix_2" required>
-      Présentation courte 3 minutes + 2 minutes de questions
-    </label> -->
-
-    
-
 
     <!-- 1) Titre -->
     <label class="abs-label" for="title">Titre (obligatoire)</label>
@@ -44,7 +26,7 @@
       type="text"
       required
       maxlength="220"
-      placeholder=""
+      placeholder="Ex: "
     />
 
     <!-- 2) Auteurs -->
@@ -173,6 +155,7 @@
       id="ref_1"
       name="ref_1"
       type="text"
+    
       maxlength="260"
       placeholder="Ex: "
     />
