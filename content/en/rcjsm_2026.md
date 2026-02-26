@@ -29,7 +29,7 @@ Lors de ces 5 jours, vous avez la possibilité de présenter vos travaux sous la
 
 ## Interessé ? Inscrivez-vous aux rencontres 2026 !
 
-Si vous souhaitez participer à l'évènement, veuillez vous inscrire à partir de ce formulaire accessible *via* le [Google Form](https://forms.gle/2GJ8SVuriNKn17jQ6). Les inscriptions seront ouvertes jusqu’au **lundi 02 Mars à 12h00**.
+Si vous souhaitez participer à l'évènement, veuillez vous inscrire à partir de ce formulaire accessible *via* le [Google Form](https://forms.gle/2GJ8SVuriNKn17jQ6). Les inscriptions seront ouvertes jusqu’au <s>lundi 02 Mars à 12h00</s> **lundi 09 mars 2026**.
 
 Pour assurer votre inscription, veillez à ce que vous soyez adhérents à la SFSM pour l'année 2026. Vous pouvez renouveler votre adhésion à partir de ce [lien](https://www.helloasso.com/associations/societe-francaise-de-spectrometrie-de-masse/adhesions/adhesion-sfsm-2025). 
 
