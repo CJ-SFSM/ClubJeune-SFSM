@@ -4,8 +4,7 @@
 {{ if not $logos }}
   <p><strong>Erreur : fichier <code>data/en/sponsors2026.yaml</code> introuvable ou vide.</strong></p>
 {{ else }}
-  {{ $groupes := slice "Académique" "Premium" "Classique" "Basique" }}
-  {{ $readDirPath := printf "static%s" $dir }}
+  {{ $groupes := slice "Académique" "Premium" "Classique" "Standard" "Basique" }}
 
   {{ range $groupe := $groupes }}
     {{ $filtres := where $logos "niveau" $groupe }}
@@ -13,30 +12,12 @@
       <div class="sponsor-section sponsor-{{ $groupe | urlize }}">
         <h3 class="sponsor-title">{{ $groupe }}</h3>
         <div class="sponsors-gallery">
-          {{ $fichiers := readDir $readDirPath }}
-
           {{ range $filtres }}
-            {{ $name := .name }}
-            {{ $url := .url }}
-            {{ $niveau := .niveau }}
-            {{ $fichierTrouve := "" }}
-
-            {{ range $fichiers }}
-              {{ if in .Name $name }}
-                {{ $fichierTrouve = .Name }}
-              {{ end }}
-            {{ end }}
-
-            {{ if $fichierTrouve }}
-              {{ $imageurl := printf "%s%s" $dir $fichierTrouve }}
-              <div class="sponsor-logo sponsor-logo-{{ $niveau | urlize }}">
-                <a href="{{ $url }}" target="_blank" rel="noopener">
-                  <img src="{{ $imageurl | relURL }}" alt="Logo de {{ $name }}" />
-                </a>
-              </div>
-            {{ else }}
-              <p>Image non trouvée pour : {{ $name }}</p>
-            {{ end }}
+            <div class="sponsor-logo sponsor-logo-{{ .niveau | urlize }}">
+              <a href="{{ .url }}" target="_blank" rel="noopener">
+                <img src="{{ printf "%s%s" $dir .logo | relURL }}" alt="Logo de {{ .name }}" />
+              </a>
+            </div>
           {{ end }}
         </div>
       </div>
