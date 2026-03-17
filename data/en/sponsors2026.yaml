@@ -1,0 +1,64 @@
+- name: "UPS_GS_Chimie"
+  url : "https://www.universite-paris-saclay.fr/graduate-schools/graduate-school-chimie"
+  niveau: "Académique"
+  logo: UPS_GS_chimie.jpg
+
+- name: "UPS_GS_LifeSciencesAndHealth"
+  url: "https://www.universite-paris-saclay.fr/graduate-schools/life-sciences-and-health"
+  niveau: "Académique"
+  logo: UPS_GS_LSH.jpg
+  
+- name: "Societe_Chimique_IDF"
+  url: "https://cem.com/fr/"
+  niveau: "Académique"
+  logo: Societe_Chimique_France.jpg
+
+- name: "PeakScientific"
+  url: "https://www.peakscientific.com"
+  niveau: "Premium"
+  logo: peak_scientific_logo.png
+
+- name: "Messer"
+  url: "https://www.messer.fr/gases-for-life"
+  niveau: "Premium"
+  logo: Messer.png
+
+- name: "Thermo"
+  url: "https://www.thermofisher.com/fr/fr/home/brands/thermo-scientific.html"
+  niveau: "Premium"
+  logo: Thermo.webp
+
+- name: "Michelin"
+  url: "https://www.michelin.com/"
+  niveau: "Classique"
+  logo: Michelin.jpg
+
+- name: "Affinisep"
+  url: "https://www.affinisep.fr/"
+  niveau: "Classique"
+  logo: "AFFINISEP.png"
+
+- name: "CluzeauInfoLab"
+  url: "https://shop.cluzeau.fr/"
+  niveau: "Classique"
+  logo: CluzeauInfoLab.jpg
+
+- name: "MSVision_Logo2018_transparent"
+  url: "https://msvision.com/"
+  niveau: "Classique"
+  logo: MSVision_Logo2018_transparent.png
+
+- name: "ionBench" 
+  url: "https://ionbench.com/fr/"
+  niveau: "Standard"
+  logo: ionBench.png
+
+- name: "Profi"
+  url: "https://www.profiproteomics.fr/"
+  niveau: "Basique"
+  logo: profi.png
+
+- name: "qa-logo-qualityassistance"
+  url: "https://www.quality-assistance.com/"
+  niveau: "Basique"
+  logo: qa-logo-qualityassistance.png
