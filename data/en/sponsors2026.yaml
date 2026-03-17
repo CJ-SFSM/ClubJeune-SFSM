@@ -50,7 +50,7 @@
 
 - name: "ionBench" 
   url: "https://ionbench.com/fr/"
-  niveau: "Standard"
+  niveau: "Classique"
   logo: ionBench.png
 
 - name: "Profi"
