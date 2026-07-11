@@ -17,7 +17,7 @@ Afin mieux connaître nos membres du Club Jeune, un sondage a été envoyé afin
 {{< brick_leaflet_pie >}}
 
 ## Historique des rencontres
-La rétrospective de l'ensemble des rencontres organisées ces 27 dernières années vous est présentée et chaque année, vos avis et votre ressenti sont pris en considération afin de vous faire vivre un événement annuel inoubliable.
+La rétrospective de l'ensemble des rencontres organisées ces 28 dernières années vous est présentée et chaque année, vos avis et votre ressenti sont pris en considération afin de vous faire vivre un événement annuel inoubliable.
 
 
 
@@ -27,6 +27,13 @@ La rétrospective de l'ensemble des rencontres organisées ces 27 dernières ann
 {{< brick_timeline >}}
 
 <div class="timeline-item">
+          <div class="timeline-item-content">
+            <h3>Du 23 au 27 mars 2026</h3>
+            <h2>30<sup>èmes</sup> rencontres</h2>
+            <p>Île de Loisirs des Boucles de Seinec<br> Moisson, dans les Yvelines</p>
+          </div>
+        </div>
+        <div class="timeline-item">
           <div class="timeline-item-content">
             <h3>Du 31 mars au 3 avril 2025</h3>
             <h2>29<sup>èmes</sup> rencontres</h2>
