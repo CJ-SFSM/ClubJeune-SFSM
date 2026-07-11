@@ -1,0 +1,26 @@
+{{ $dir := string (.Get "dir") }}
+{{ $logos := site.Data.en.sponsors2026 }}
+
+{{ if not $logos }}
+  <p><strong>Erreur : fichier <code>data/en/sponsors2026.yaml</code> introuvable ou vide.</strong></p>
+{{ else }}
+  {{ $groupes := slice "Académique" "Premium" "Classique" "Standard" "Basique" }}
+
+  {{ range $groupe := $groupes }}
+    {{ $filtres := where $logos "niveau" $groupe }}
+    {{ if gt (len $filtres) 0 }}
+      <div class="sponsor-section sponsor-{{ $groupe | urlize }}">
+        <h3 class="sponsor-title">{{ $groupe }}</h3>
+        <div class="sponsors-gallery">
+          {{ range $filtres }}
+            <div class="sponsor-logo sponsor-logo-{{ .niveau | urlize }}">
+              <a href="{{ .url }}" target="_blank" rel="noopener">
+                <img src="{{ printf "%s%s" $dir .logo | relURL }}" alt="Logo de {{ .name }}" />
+              </a>
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+  {{ end }}
+{{ end }}
