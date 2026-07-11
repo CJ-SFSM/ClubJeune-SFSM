@@ -27,7 +27,7 @@ Nous remercions les sponsors d'apporter un soutien financier à nos journées an
 Vous pouvez nous sponsoriser pour d'autres activités (Webinaires) ou pour les années à venir. Pour cela, rendez-vous au formulaire disponible [ici](/sponsoring/). 
 {{< /brick_intro >}}
 
-{{< gallery dir="/uploads/sponsors/" >}}
+{{< gallery_sponsors2026 dir="/uploads/sponsors2026/" >}}
 
 {{< brick_image2 >}}
 
