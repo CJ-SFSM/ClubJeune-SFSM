@@ -23,7 +23,7 @@ Le **CJSM** est un collectif de jeunes chercheur·es qui promeut les échanges, 
 {{< /brick_title >}}
 
 {{< brick_intro >}}
-Nous remercions les sponsors d'apporter un soutien financier à nos journées annuelles du club jeune qui ont eu lieu au Moulin de Moissac à Toulouse en mars 2025.
+Nous remercions les sponsors d'apporter un soutien financier à nos journées annuelles du club jeune qui ont eu lieu l’Île de Loisirs des Boucles de Seine à Moisson en mars 2026.
 Vous pouvez nous sponsoriser pour d'autres activités (Webinaires) ou pour les années à venir. Pour cela, rendez-vous au formulaire disponible [ici](/sponsoring/). 
 {{< /brick_intro >}}
 
