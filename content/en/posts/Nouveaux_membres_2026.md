@@ -18,7 +18,7 @@ Vous avez été nombreuses et nombreux à participer aux votes. Nous vous remerc
 
 Les urnes de Batolito nous montre les résultats suivants : 
 - Aya Fakih est représentée pour le rôle de secrétaire. 
-- Valentin est représenté le Pôle Numérique. 
+- Valentin Hottlet est représenté le Pôle Numérique. 
 
 
 
