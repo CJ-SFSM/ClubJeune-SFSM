@@ -25,108 +25,168 @@ library(reactable)   # pour générer le tableau interactif
 library(htmlwidgets) # pour saveWidget()
 
 # 1. Lecture du fichier CSV
-jobs_filepath <- paste0(getwd(),"/static/uploads/data/jobs.csv")
-enc_guess <- readr::guess_encoding(jobs_filepath, n_max = 100000)$encoding[1]
-if (is.na(enc_guess)) enc_guess <- "UTF-8"   # repli sûr
+
+jobs_filepath <- paste0(
+  getwd(),
+  "/static/uploads/data/jobs.csv"
+)
+
+enc_guess <- readr::guess_encoding(
+  jobs_filepath,
+  n_max = 100000
+)$encoding[1]
+
+if (is.na(enc_guess)) {
+  enc_guess <- "UTF-8"
+}
 
 jobs_df <- readr::read_csv(
   jobs_filepath,
-  locale = readr::locale(encoding = enc_guess),
+  locale = readr::locale(
+    encoding = enc_guess
+  ),
   col_types = cols(
-    type        = col_character(),
-    intitule    = col_character(),
-    laboratoire = col_character(),
-    lieu        = col_character(),
-    deadline    = col_character(),
-    link        = col_character()
+    date_diffusion = col_character(),
+    type           = col_character(),
+    intitule       = col_character(),
+    laboratoire    = col_character(),
+    lieu           = col_character(),
+    deadline       = col_character(),
+    link           = col_character()
   )
 )
 
 # 2. Génération d'une colonne HTML pour le lien cliquable
+
 jobs_df <- jobs_df %>%
   mutate(
     lien = paste0(
-      "<a href=\"", link, "\" target=\"_blank\" rel=\"noopener\">Lien</a>"
+      "<a href=\"",
+      link,
+      "\" target=\"_blank\" rel=\"noopener\">",
+      "Lien",
+      "</a>"
     )
-  )%>%
-  select(type, intitule, laboratoire, lieu, deadline, lien)
+  ) %>%
+  select(
+    date_diffusion,
+    type,
+    intitule,
+    laboratoire,
+    lieu,
+    deadline,
+    lien
+  )
 
 # 3. Construction du tableau reactable
+
 tbl <- reactable(
   jobs_df,
+  
   columns = list(
+    
+    date_diffusion = colDef(
+      name       = "Date de diffusion",
+      filterable = FALSE,
+      align      = "center"
+    ),
+    
     type = colDef(
       name        = "Type",
-      filterable  = T,
+      filterable  = TRUE,
       filterInput = "select",
-      # filterOptions = unique(jobs_df$type),
       align       = "center",
-      cell        = function(value) {
+      
+      cell = function(value) {
+        
         # Coloration selon la valeur du type
-        color <- switch(value,
-                        "CDD"   = "#ffc107",
-                        "Thèse" = "#28a745",
-                        "Stage" = "#17a2b8",
-                        "Poste" = "#FF7FEB"
+        color <- switch(
+          value,
+          "CDD"   = "#ffc107",
+          "Thèse" = "#28a745",
+          "Stage" = "#17a2b8",
+          "Poste" = "#FF7FEB"
         )
+        
         htmltools::tags$span(
           style = paste0(
-            "display:inline-block; padding:4px 8px; ",
-            "background-color:", color, "; color: #fff; border-radius:4px;"
+            "display:inline-block; ",
+            "padding:4px 8px; ",
+            "background-color:",
+            color,
+            "; color:#fff; ",
+            "border-radius:4px;"
           ),
           value
         )
       }
     ),
+    
     intitule = colDef(
       name       = "Offre",
       filterable = TRUE,
       align      = "left"
     ),
+    
     laboratoire = colDef(
       name       = "Laboratoire",
-      filterable = F,
+      filterable = FALSE,
       align      = "left"
     ),
+    
     lieu = colDef(
       name       = "Lieu",
-      filterable = F,
+      filterable = FALSE,
       align      = "left"
     ),
+    
     deadline = colDef(
       name       = "Date limite de réponse",
-      filterable = F,
+      filterable = FALSE,
       align      = "center"
     ),
+    
     lien = colDef(
-      name = "Lien vers l'offre",
-      html = T,
-      align = "center"
+      name     = "Lien vers l'offre",
+      html     = TRUE,
+      align    = "center",
+      sortable = FALSE
     )
   ),
+  
   defaultColDef = colDef(
-    sortable    = TRUE,
-    minWidth    = 100,
-    headerStyle = list(background = "#f1f1f1")
+    sortable = TRUE,
+    minWidth = 100,
+    headerStyle = list(
+      background = "#f1f1f1"
+    )
   ),
+  
   theme = reactableTheme(
     borderColor = "#dfe2e5",
     striped     = NULL,
     highlight   = NULL,
     cellPadding = "8px 12px"
   ),
-  searchable         = TRUE,
-  defaultPageSize    = 10,
-  showPageSizeOptions= TRUE,
-  pageSizeOptions    = c(5, 10, 20, 50)
+  
+  searchable          = TRUE,
+  defaultPageSize     = 10,
+  showPageSizeOptions = TRUE,
+  pageSizeOptions     = c(5, 10, 20, 50)
 )
 
 # 4. Sauvegarde du tableau au format HTML
-output_file <- "jobs_table.html"
-saveWidget(
-  widget     = tbl,
-  file       = output_file,
-  selfcontained = TRUE,
-  background = "transparent")
 
-message("Le fichier HTML interactif a été généré : ", output_file)
+output_file <- "jobs_table.html"
+
+saveWidget(
+  widget        = tbl,
+  file          = output_file,
+  selfcontained = TRUE,
+  background    = "transparent"
+)
+
+message(
+  "Le fichier HTML interactif a été généré : ",
+  output_file
+)

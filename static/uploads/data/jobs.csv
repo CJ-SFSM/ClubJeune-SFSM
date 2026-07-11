@@ -1,12 +1,2 @@
-type,intitule,laboratoire,lieu,deadline,link
-CDD,Post-Doc,Proteomic and Microbiology Department - UMONS,"Mons, Belgique",Non diffusé,https://www.linkedin.com/posts/blandine-chazarin-phd-983972105_postdoctoral-scientist-at-protmic-lab-ugcPost-7373319591030079488-ttB0?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY7SOwBmGQKSEqngDLik4GlvSQCOxPoZZY
-Poste,Poste,Johnson & Johnson,"Cambridge, Massachusetts, Etats-Unis",Non diffusé,https://www.linkedin.com/posts/huyinghui_hiring-activity-7368764787586920450-LCMv?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY7SOwBmGQKSEqngDLik4GlvSQCOxPoZZY
-Poste,Poste,Johnson & Johnson,"Beerse, Antwerp, Belgique",Non diffusé,https://www.linkedin.com/jobs/view/4315680802/
-Poste,Scientifique développement analytique (F/H/X),AbbVie FR,"Rungis, France",Non diffusé,https://www.linkedin.com/jobs/view/4314768589/
-Poste,Scientifique spécialisé en spectrométrie de masse,AbbVie FR,"Rungis, France",Non diffusé,https://www.linkedin.com/jobs/view/4314776181/
-Poste,Technicien développement analytique,AbbVie FR,"Rungis, France",Non diffusé,https://www.linkedin.com/jobs/view/4314787026/
-Stage,Stage Master 2,"LIPIDOCEAN, LEMAR","Plouzané, Bretagne, France",Non diffusé,https://www.linkedin.com/posts/lipidocean_stage-m2-isoarc-ugcPost-7384555124033159168-CMp_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY7SOwBmGQKSEqngDLik4GlvSQCOxPoZZY
-Stage,Stage Master 2,"TotalEnergies, Institut CARMeN","Rouen, France",Non diffusé,https://www.linkedin.com/posts/oscar-lacroix-andrivet-198225151_offre-de-stage-m2-institut-carmen-rouen-activity-7376582555166326784-RpPm?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY7SOwBmGQKSEqngDLik4GlvSQCOxPoZZY
-Stage,Stage Master 2,"LAMS, Sorbonne Université","Sorbonne Université, Paris, France",,https://www.linkedin.com/posts/activity-7381003501390274560-VbZG?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY7SOwBmGQKSEqngDLik4GlvSQCOxPoZZY
-CDD,Post-Doc,"Laboratoire d'Œnologie, ŒNO, Université de Bordeaux","Villenave-d'Ornon, France",Non diffusé,https://www.u-bordeaux.fr/universite/travailler-a-l-universite/offres-demploi/chercheur-post-doctoral-en-caracterisation-de-composes-volatils-du-vin-et-du-bois-fh
-Stage,Stage Master 2,Plateformes Lilloises en Biologie et Santé (PLBS),"Villeneuve d’Ascq, Nord, France",Non diffusé,/ClubJeune-SFSM/uploads/pdf/20251116_VilleneusedAscq_M2_M2 Internship.pdf
+date_diffusion,type,intitule,laboratoire,lieu,deadline,link
+juillet 2026,Poste,Poste,Bruker,"Rennes, France",Non diffusé,https://www.linkedin.com/jobs/view/ing%C3%A9nieur-e-service-client-field-service-engineer-mass-spectrometry-%E2%80%93-rennes-m-f-d-at-bruker-4432768178/
