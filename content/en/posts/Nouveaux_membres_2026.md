@@ -5,7 +5,7 @@ date: 2026-07-11
 tags: 
 --- 
 
-![](/uploads/actualite/new_member_2026.jpeg)
+![](/uploads/actualite/new_member_2026.png)
 
 ## Election CJSM
 
