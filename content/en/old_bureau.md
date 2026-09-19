@@ -115,5 +115,57 @@ Pour **2018-2019**, le bureau élu en juin 2018 (vote en ligne) se composait de 
 
 ---
 
+## 2017/2018
+
+Pour **2017-2018**, le bureau élu au congrès SMMAP 2017 de Marne-la-Vallée se compose de :
+
+- Laurent LABOUREUR – **Président**
+- Shakir SHAKIR – **Président-Conseil**
+- Thaïs HAUTBERGUE – **Vice-Présidente**
+- Maud FUMEX – **Trésorier**
+- Sophie LIUU – **Responsable Relations Industrielles**
+- Jasmine HERTZOG – **Responsable Communication**
+- Mathieu BEAUMESNIL- **Webmaster**
+- Nicolas ESKENAZI – **Assistant Webmaster**
+- Emmanuel COLSON – **Secrétaire**
+
+---
+
+## 2016/2017
+
+Pour **2016-2017**, le bureau élu aux JFSM 2016 de Bordeaux se compose de :
+
+- Laurent LABOUREUR – Président
+- Shakir SHAKIR – Président – Conseil
+- Sophie LIUU – Vice-Présidente et Responsable sponsors
+- Kévin JEANNE DIT FOUQUE – Trésorier
+- Maud FUMEX – Assistante Trésorière
+- Jasmine HERTZOG – Responsable Communication
+- Margaux FRESNAIS – Secrétaire
+- Jérémy JEUDY – Assistant Webmaster
+- Mathieu BEAUMESNIL – Webmaster
+
+![](/uploads/trombi/2016-2017.png)
+--- 
+
+## 2015/2016
+
+En **2015-2016**, le bureau élu à SMAP 2015 à Ajaccio se compose de :
+
+- Shakir SHAKIR – Président
+- Séverine CLAVIER – Présidente – Conseil
+- Laurent LABOUREUR – Vice-Président
+- Kévin JEANNE DIT FOUQUE – Trésorier
+- Salomé POYER – Responsable communication
+- Sophie LIUU – Responsable sponsors
+- Margaux FRESNAIS – Secrétaire
+- Jérémy JEUDY – Webmaster
+- Mathieu BEAUMESNIL – Assistant Webmaster
+
+![](/uploads/trombi/2015-2016.jpg)
+---
+
+
+
 {{< /tabs >}}
 {{< /brick_wide >}}
