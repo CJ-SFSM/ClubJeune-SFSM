@@ -23,19 +23,19 @@
   phone:
   linkedin: 
   website:
-- name: Clarisse GOSSET-ERARD
+- name: Sarah ALILAT
   function: Trésorière
-  image: /uploads/trombi/Clarisse_2026.jpg
-  description: LAMBE, Evry
-  email: clarisse.gosset-erard@univ-evry.fr>
+  image: /uploads/trombi/CJ-2026-2027/Tresorier.png
+  description: 
+  email: 
   phone:
   linkedin: 
   website:
-- name: Alexia FATAKA
+- name: Aya FAKIH
   function: Secrétaire
-  image: /uploads/trombi/Alexia.png
-  description: CEA Saclay, service SPI, Laboratoire LI-MS, Université Paris-Saclay
-  email: alexiafataka@gmail.com>
+  image: /uploads/trombi/CJ-2026-2027/Aya.jpg
+  description: 
+  email: 
   phone:
   linkedin: 
   website:
@@ -47,19 +47,19 @@
   phone:
   linkedin: 
   website:
-- name: Bayan ALMASRI
-  function: Responsable Relations Industrielles et Académiques
-  image: /uploads/trombi/Bayan.jpeg
-  description: Miniaturisation pour la Synthèse, l’Analyse et la Protéomique (MSAP), UAR CNRS 3290, Université de Lille
-  email: bayan.almasri1234@gmail.com
-  phone:
-  linkedin:
-  website: 
 - name: Alix MUNOZ
-  function: Adjointe Relations Industrielles et Académiques 
+  function: Responsable Relations Industrielles et Académiques 
   image: /uploads/trombi/Alix.jpg
   description: Laboratoire Central de la Préfecture de Police (LCPP), Spectrométrie de Masse Biologique et Protéomique (SMBP, ESPCI)
   email: alix.munoz@espci.fr
+  phone:
+  linkedin:
+  website: 
+- name: Isabelle FABRIZI
+  function: Adjointe Relations Industrielles et Académiques
+  image: /uploads/trombi/Isabelle.png
+  description: Miniaturisation pour la Synthèse, l’Analyse et la Protéomique (MSAP), UAR CNRS 3290, Université de Lille
+  email: isabelle.fabrizi.etu@univ-lille.fr
   phone:
   linkedin:
   website: 
@@ -71,11 +71,11 @@
   phone:
   linkedin:
   website: 
-- name: Isabelle FABRIZI
-  function: Adjointe Responsable Numérique
-  image: /uploads/trombi/Isabelle.png
-  description: Miniaturisation pour la Synthèse, l’Analyse et la Protéomique (MSAP), UAR CNRS 3290, Université de Lille
-  email: isabelle.fabrizi.etu@univ-lille.fr
+- name: Valentin HOTTLET
+  function: Adjoint Numérique
+  image: /uploads/trombi/CJ-2026-2027/Valentin.jpg
+  description: Université de Lille
+  email: valentin.hottlet@univ-lille.fr
   phone:
   linkedin:
-  website: 
+  website:
