@@ -22,16 +22,27 @@
         </div>
         {{ end }}
     </div>
+    {{- $imageInContent := false -}}
+    {{- with page.Params.image -}}
+        {{- $imageLink := printf "](%s)" . -}}
+        {{- range findRE `!\[[^\]]*\]\([^\)]+\)` page.RawContent -}}
+            {{- if in . $imageLink -}}
+                {{- $imageInContent = true -}}
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
+    {{ if not $imageInContent }}
     <div class="container wide">
         {{- $postimage := `/uploads/gallery/01.jpg` -}}
         {{- if page.Params.image -}}
             {{- $postimage = page.Params.image -}}
         {{- end -}}
         {{- if (resources.GetMatch $postimage) -}}
-            {{- $postimage = ((resources.GetMatch $postimage).Fill `1600x800 jpg Smart q50`).RelPermalink -}}
+            {{- $postimage = ((resources.GetMatch $postimage).Fit `1600x800 jpg q50`).RelPermalink -}}
         {{- end -}}
         <img src="{{ $postimage }}" alt="{{ .Title }}" class="featuredimage" />
     </div>
+    {{ end }}
     <div class="container post">
         {{ page.Content }}
     </div>
