@@ -1,10 +1,9 @@
-<section class="form-section">
+{{- $form := readFile "static/uploads/data/sponsoring_bilingue.html" -}}
+{{- $logo := "/uploads/branding/logo-sponsoring.jpg" | relURL -}}
+<link rel="stylesheet" href="{{ "css/sponsoring.css" | relURL }}">
+<script src="{{ "js/sponsoring.js" | relURL }}" defer></script>
+<section class="wide sponsoring-section">
   <div class="container">
-    <div class="form-wrapper">
-      <iframe 
-        src="{{ "/uploads/data/sponsoring_bilingue.html" | relURL }}" 
-        style="width:100%; height:100vh; border:none;">
-      </iframe>
-    </div>
+    {{- replace $form "../branding/logo-sponsoring.jpg" $logo | safeHTML -}}
   </div>
 </section>

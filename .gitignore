@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+.idea/
+
+/public/
+/resources/_gen/
+/.hugo_build.lock
