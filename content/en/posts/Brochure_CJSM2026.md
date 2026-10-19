@@ -17,6 +17,6 @@ Avec nos homologues du CJ-ccCTA en Suisse, du CJ-AFSEP, du RFMF Junior et du CJ-
 
 ## Accès à la brochure 
 
-Vous trouverez une version en anglais, [ici](/uploads/pdf/Brochure_2026/CJSM_BrochureInterCJ_ENnum.pdf), et en français, [ici](/uploads/pdf/Brochure_2026/CJSM_Brochure InterCJ_FRNum.pdf).
+Vous trouverez une version en anglais, [ici](/uploads/pdf/Brochure_2026/CJSM_BrochureInterCJ_ENnum.pdf), et en français, [ici](/uploads/pdf/Brochure_2026/CJSM_BrochureInterCJ_FRNum.pdf).
 
 Nous mettons à disposition un [lien](https://forms.gle/gmDYXzFpsaRWP7MCA) vous permettant de nous faire part de vos différentes remarques pour l'améliorer.
