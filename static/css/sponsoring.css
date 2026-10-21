@@ -1,0 +1,73 @@
+#sponsoring-form { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; line-height: 1.5; }
+#sponsoring-form h1, #sponsoring-form h2 { text-align: center; }
+#sponsoring-form h2 {color: #c9342b}
+#sponsoring-form .section { margin: 20px 0; padding: 15px; border: 2px solid #c9342b; border-radius: 10px; background-color: #fff8f8;}
+#sponsoring-form .option { margin: 8px 0; }
+#sponsoring-form .total { margin-top: 30px; font-size: 1.3em; font-weight: bold; text-align: center; }
+#sponsoring-form button { margin-top: 20px; padding: 10px 20px; font-size: 1em; cursor: pointer; }
+#sponsoring-form textarea { width: 100%; height: 120px; margin-top: 10px; }
+#sponsoring-form .packs-container { display: flex; justify-content: space-between; gap: 15px; margin-top: 15px;}
+#sponsoring-form .lang {} /* Classe pour les blocs de langue */
+#sponsoring-form #fr {display: block;} /* français visible par défaut */
+#sponsoring-form #en {display: none;} /* anglais caché par défaut */
+/* Bouton de changement de langue */
+#sponsoring-form #langBtn {padding: 10px 20px;background-color: #c9342b;color: white;border: none;
+        border-radius: 5px;cursor: pointer;font-weight: bold;margin-bottom: 20px;}
+#sponsoring-form #langBtn:hover {background-color: #c9342b;}
+/* Styles pour chaque boite autour des pack */
+#sponsoring-form .packclassique { flex: 1; border: 2px solid #665895; border-radius: 10px; padding: 15px;
+  text-align: center; transition: all 0.2s ease-in-out; cursor: pointer; background-color: #66589538}
+#sponsoring-form .packclassique:hover { box-shadow: 0 0 0 1px #665895; background-color: #66589538;}
+#sponsoring-form .packpremium { flex: 1; border: 2px solid #58737e; border-radius: 10px; padding: 15px;
+  text-align: center; transition: all 0.2s ease-in-out; cursor: pointer; background-color: #58737e1e}
+#sponsoring-form .packpremium:hover { box-shadow: 0 0 0 1px #58737e; background-color: #58737e42;}
+#sponsoring-form .packprestige { flex: 1; border: 2px solid #c08249; border-radius: 10px; padding: 15px;
+  text-align: center; transition: all 0.2s ease-in-out; cursor: pointer; background-color: #c083491c}
+#sponsoring-form .packprestige:hover { box-shadow: 0 0 0 1px #c08249; background-color: #c083494b;}
+#sponsoring-form .sponsoring-heading {display: grid; grid-template-columns: 1fr auto 1fr; /* 3 colonnes */
+  align-items: center; margin-bottom: 20px;}
+#sponsoring-form .sponsoring-heading .logo { grid-column: 1; /* logo dans la 1ère colonne */
+  height: 100px; justify-self: start; /* colle à gauche */ }
+#sponsoring-form .sponsoring-heading h1 { grid-column: 2; /* titre dans la colonne du milieu */ text-align: center;}
+#sponsoring-form #message_fr { /* format du message qui donne le type de sponsor selon le total */
+      font-size: 1.2em;
+      font-weight: bold; text-align: center;  margin: 20px auto;
+      border-radius: 10px; padding: 10px;  width: 300px;
+    }
+#sponsoring-form .basique { color: #333333b4; border: 2px solid #333333b4; background-color: #33333327;}
+#sponsoring-form .classique { color:#665895; border: 2px solid #665895; background-color: #66589538; }
+#sponsoring-form .premium {color: #58737e; border: 2px solid #58737e; background-color: #58737e42; }
+#sponsoring-form .prestige { color: #c08249; border: 2px solid #c08249; background-color: #c083494b;}
+#sponsoring-form #message_en { /* format du message qui donne le type de sponsor selon le total */
+      font-size: 1.2em;
+      font-weight: bold; text-align: center;  margin: 20px auto;
+      border-radius: 10px; padding: 10px;  width: 300px;
+    }
+#sponsoring-form .basique { color: #333333b4; border: 2px solid #333333b4; background-color: #33333327;}
+#sponsoring-form .classique { color:#665895; border: 2px solid #665895; background-color: #6658954f; }
+#sponsoring-form .premium {color: #58737e; border: 2px solid #58737e; background-color: #58737e42; }
+#sponsoring-form .prestige { color: #c08249; border: 2px solid #c08249; background-color: #c083494b;}
+
+
+#sponsoring-form { max-width: none; margin: 2rem 0; }
+#sponsoring-form .sponsoring-heading { position: static; background: transparent; padding: 0; }
+#sponsoring-form textarea { box-sizing: border-box; }
+@media (max-width: 600px) {
+  #sponsoring-form .packs-container { flex-direction: column; }
+  #sponsoring-form .sponsoring-heading { display: flex; flex-wrap: wrap; gap: 1rem; }
+}
+
+#sponsoring-form .sponsoring-option-title { font-weight: bold; margin-top: 10px; }
+#sponsoring-form .sponsoring-export { text-align: center; }
+
+.filename_sponsoring section.wide:not(.sponsoring-section) {
+  padding-bottom: 0;
+}
+
+.filename_sponsoring section.wide.sponsoring-section {
+  padding-top: 0;
+}
+
+.filename_sponsoring #sponsoring-form {
+  margin-top: 0;
+}
