@@ -1,0 +1,61 @@
+logo_image:
+logo_subtitle: Club Jeune de la SFSM
+dark_header: true
+mobile_view_width: 1100
+menuitems:
+  - title: Accueil
+    link: /#top
+  - title: Actualités
+    link: /blog/
+  - title: Bureau
+    link: /team/
+    items: 
+      - title: Bureau actuel
+        link: /team/
+      - title: Anciens bureaux
+        link: /old_bureau/
+  - title: "Le CJSM"
+    link: "/chiffres/"
+    items:
+      - title: "Le CJSM en chiffres"
+        link: "/chiffres/"
+      - title: "Thèses soutenues"
+        link: "/theses_soutenues/"
+      - title: "Adhésion"
+        link: "/adhesion/"
+  - title: "Nos actions"
+    link: "/our-services/"
+    items:
+      - title: "Webinaires"
+        link: "/webinaires/"
+      - title: "Mentorat"
+        link: "/mentorat/"
+      - title: "Ateliers & Rencontres"
+        link: "/ateliers/"
+      - title: "Dispositif Cocon"
+        link: "/dispositif_cocon/"
+  - title: "RCJSM 2026"
+    link: "/rcjsm_2026/"
+    items:
+      - title: "Présentation des Rencontres 2026"
+        link: "/rcjsm_2026/"
+      - title: "Nos sponsors & Partenaires"
+        link: "/rcjsm_sponsors_2026/"
+      - title: "Déposer votre résumé (RCJSM 2026)"
+        link: "/abstract_rcjsm/"
+  - title: "Emploi"
+    link: "/jobs/"
+  - title: Nous sponsoriser
+    link: "/sponsoring/"
+socials:
+  - title: LinkeDin
+    link: https://www.linkedin.com/company/cjsmsfsm/posts/
+    logo_image: /img/linkedin.svg      
+  - title: email
+    link: mailto:clubjeunesm@gmail.com
+    logo_image: /img/email.svg    
+cta:
+  active: false
+  title: Get started
+  link: /get-started/
+preheader: 

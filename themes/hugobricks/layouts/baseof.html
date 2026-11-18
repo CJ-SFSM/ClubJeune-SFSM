@@ -12,7 +12,7 @@
     {{- $color := "style" -}}
     {{- if .Params.color_name -}}{{- $color = .Params.color_name -}}{{- end -}}
     {{- if .Site.Data.settings.color_name -}}{{- $color = .Site.Data.settings.color_name -}}{{- end -}}
-    <link href="/css/{{ $color }}.css?version={{ now }}" rel="stylesheet">
+    <link href="/css/{{ $color }}.css?version={{ (resources.Get (printf "css/%s.css" $color)).Content | sha256 }}" rel="stylesheet">
 
   </head>
   <body id="top" class="{{ if in (substr .Content  0 100) `transparent_header` }}transparent_header{{ end }} filename_{{ with .File }}{{ .BaseFileName }}{{ end }}">
@@ -51,11 +51,11 @@
           <nav class="navnav">
             <ul>
               {{ range (index .Site.Data .Language.Lang).header.menuitems }}
-                <li class="{{ if eq .link `/` }}{{ if eq $.RelPermalink `/` }}active{{ end }}{{ else }}{{ if (hasPrefix $.RelPermalink .link) }}active{{ end }}{{ end }}{{ if (index .items 0).title }} haschildren{{ end }}"><a href="{{ .link }}" onclick="navClick(event, this);">{{ .title }}</a>
+                <li class="{{ if eq .link `/` }}{{ if eq $.RelPermalink `/` }}active{{ end }}{{ else }}{{ if (hasPrefix $.RelPermalink (partial "language-link.html" .link)) }}active{{ end }}{{ end }}{{ if (index .items 0).title }} haschildren{{ end }}"><a href="{{ partial "language-link.html" .link }}" onclick="navClick(event, this);">{{ .title }}</a>
                   {{ if (index .items 0).title }}
                   <ul>
                     {{ range .items }}
-                      <li class="{{ if hasPrefix $.Page.RelPermalink .link }}active{{ end }}"><a href="{{ .link }}">{{ .title }}</a></li>
+                      <li class="{{ if hasPrefix $.Page.RelPermalink (partial "language-link.html" .link) }}active{{ end }}"><a href="{{ partial "language-link.html" .link }}">{{ .title }}</a></li>
                     {{ end }}
                   </ul>
                   {{ end }}
@@ -74,7 +74,7 @@
           {{- end -}}
           */}}
           {{ if .Site.Data.settings.enable_search }}
-          <a href="/search">
+          <a href="{{ "search/" | relLangURL }}">
             <img src="/img/search.svg" alt="Search icon" class="black_2_textDark" />
           </a>
           {{- end -}}
@@ -82,10 +82,10 @@
           <div class="navnav languages">
             <ul>
               <li class="haschildren">
-                <a href="/{{ .Site.Language.Lang }}/">{{ .Site.Language.Lang | upper }}</a>
+                <a href="{{ .RelPermalink }}">{{ .Site.Language.Lang | upper }}</a>
                 <ul>
-					{{ range .Site.Languages }}
-					{{ if ne .Lang $.Site.Language.Lang }}<li><a href="/{{ .Lang }}/">{{ .LanguageName }}</a></li>{{ end }}
+					{{ range .Translations }}
+                    <li><a href="{{ .RelPermalink }}" lang="{{ .Language.Lang }}">{{ .Language.LanguageName }}</a></li>
 					{{ end }}
                 </ul>
               </li>
@@ -93,7 +93,7 @@
           </div>
           {{- end -}}
           {{ if (index .Site.Data .Language.Lang).header.cta.active }}
-          <a href="{{ (index .Site.Data .Language.Lang).header.cta.link }}" class="button smaller">{{ (index .Site.Data .Language.Lang).header.cta.title }}</a>
+          <a href="{{ partial "language-link.html" (index .Site.Data .Language.Lang).header.cta.link }}" class="button smaller">{{ (index .Site.Data .Language.Lang).header.cta.title }}</a>
 		      {{ end }}
         </div>
         <button id="togglemenu" onclick="event.stopPropagation(); document.body.classList.add('menushown');"><span class="black_2_textDark">Toggle menu</span></button>
@@ -133,7 +133,7 @@
           <div>
             <ul>
               {{ range (index .Site.Data .Language.Lang).footer.menuitems }}
-                <li><a href="{{ .link }}">{{ .title }}</a></li>
+                <li><a href="{{ partial "language-link.html" .link }}">{{ .title }}</a></li>
               {{ end }}
             </ul>  
           </div>
@@ -147,7 +147,7 @@
 		      <div>{{ markdownify (index .Site.Data .Language.Lang).footer.footer_text }}</div>
           {{- if gt (len .Site.Languages) 1 -}}
           <div>
-            <select aria-label="Change language" onchange="if(this.value) document.location.href = '/'+this.value+'/';"><option>Change language</option>{{ range .Site.Languages }}<option value="{{ .Lang }}" {{ if eq page.Language.Lang .Lang }}disabled{{ end }}>{{ .LanguageName }}</option>{{ end }}</select></div>
+            <select aria-label="Change language" onchange="if(this.value) document.location.href = this.value;"><option value="">FR / EN</option>{{ range .AllTranslations }}<option value="{{ .Permalink }}" {{ if eq page.Language.Lang .Language.Lang }}disabled{{ end }}>{{ .Language.LanguageName }}</option>{{ end }}</select></div>
           </div>
           {{- end -}}
 		    </div>

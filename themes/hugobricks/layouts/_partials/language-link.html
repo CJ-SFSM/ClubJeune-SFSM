@@ -1,0 +1,9 @@
+{{- $link := . -}}
+{{- if and (hasPrefix $link "/") (not (hasPrefix $link "//")) -}}
+  {{- if or (hasPrefix $link "/uploads/") (hasPrefix $link "/img/") (hasPrefix $link "/css/") (hasPrefix $link "/js/") -}}
+    {{- $link = relURL $link -}}
+  {{- else -}}
+    {{- $link = relLangURL $link -}}
+  {{- end -}}
+{{- end -}}
+{{- return $link -}}

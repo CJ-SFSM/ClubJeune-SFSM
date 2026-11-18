@@ -1,8 +1,8 @@
 {{ $dir := string (.Get "dir") }}
-{{ $logos := site.Data.en.sponsors2026 }}
+{{ $logos := (index site.Data site.Language.Lang).sponsors2026 }}
 
 {{ if not $logos }}
-  <p><strong>Erreur : fichier <code>data/en/sponsors2026.yaml</code> introuvable ou vide.</strong></p>
+  <p><strong>Erreur : fichier <code>data/{{ site.Language.Lang }}/sponsors2026.yaml</code> introuvable ou vide.</strong></p>
 {{ else }}
   {{ $groupes := slice "Académique" "Premium" "Classique" "Standard" "Basique" }}
 
