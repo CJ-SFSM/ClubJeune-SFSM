@@ -1,26 +1,26 @@
 ---
-title: Mentorat en binôme pour l'année 2025/2026
+title: Paired mentoring for 2025/2026
 image: /uploads/actualite/mentorat_25-26.png
 date: 2025-11-05
-tags: 
-  - Mentorat
+tags:
+  - Mentoring
+slug: mentorat-en-binôme-pour-lannée-2025/2026
 ---
 
 ![](/uploads/actualite/mentorat_25-26.png)
 
-## Mentorat en binôme 2025/2026
+## Paired mentoring 2025/2026
 
-Cette année nous renouvelons le Programme de Mentorat. Ce programme a pour objectif d'améliorer la relation entre les membres CJSM et SFSM et de permettre aux jeunes d'être guidé.e.s et conseillé.e.s dans leur début de carrière. En parallèle, vous sénior.e.s, pourrez approfondir vos compétences interpersonnelles, tout en valorisant votre carrière sous tous ses aspects.
-La participation à ce programme se fait par volontariat et des binômes Mentor.e/Mentoré.e seront formés puis supervisés par un.e Référent.e CJSM. 
+This year, we are renewing our Mentoring Programme. It aims to strengthen connections between CJSM and SFSM members and give young scientists guidance and advice at the start of their careers. Senior members can also develop their interpersonal skills while supporting every aspect of their professional development.
+Participation is voluntary. Mentor–mentee pairs will be formed and supported by a CJSM coordinator.
 
-Vous trouverez, en pièce jointe, la plaquette qui vous explique le principe ainsi que le déroulement du Mentorat. 
+The accompanying brochure explains how mentoring works and how the programme is organised.
 
-Pour participer : 
-- Sénior.e.s veuillez remplir ce [formulaire Mentor.e](https://forms.gle/noUJfshNKFZEo7qm7)
-- Junior.e.s veuillez remplir ce [formulaire Mentoré.e](https://forms.gle/7cXDGfLeuDW8e7bCA)
+To take part:
 
-Si vous avez des questions, n'hésitez pas à nous contacter via notre email : clubjeunesm@gmail.com
+- Senior members: complete the [mentor form](https://forms.gle/noUJfshNKFZEo7qm7).
+- Junior members: complete the [mentee form](https://forms.gle/7cXDGfLeuDW8e7bCA).
 
-Pour plus d'informations, rendez-vous sur la page [mentorat](/mentorat/).
-Nous vous invitions à consulter [la plaquette](/uploads/pdf/Presentation_mentorat_Recto-Verso_FR.pdf).
+If you have any questions, email us at clubjeunesm@gmail.com.
 
+For more information, visit our [mentoring page](/mentorat/) and read [the brochure (in French)](/uploads/pdf/Presentation_mentorat_Recto-Verso_FR.pdf).

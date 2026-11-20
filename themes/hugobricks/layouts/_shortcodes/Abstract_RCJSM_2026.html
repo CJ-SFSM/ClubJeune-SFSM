@@ -3,22 +3,22 @@
   <input type="hidden" name="_gotcha" style="display:none !important">
 
   <fieldset class="abs-fieldset">
-    <legend class="abs-legend">Soumission — Résumé (format imposé)</legend>
+    <legend class="abs-legend">{{ i18n "abstract.legend" }}</legend>
 
     <!-- Type de présentation -->
 
     <label class="abs-radio">
       <input type="radio" name="presentation_type" value="Orale_12+3" required>
-      Présentation orale 12 minutes + 3 minutes de questions
+      {{ i18n "abstract.oral" }}
     </label>
 
     <label class="abs-radio">
       <input type="radio" name="presentation_type" value="Courte_3_sans_questions" required>
-      Présentation courte 3 minutes + 2 minutes de questions
+      {{ i18n "abstract.flash" }}
     </label>
 
     <!-- 1) Titre -->
-    <label class="abs-label" for="title">Titre (obligatoire)</label>
+    <label class="abs-label" for="title">{{ i18n "abstract.title" }}</label>
     <input
       class="abs-input"
       id="title"
@@ -26,13 +26,13 @@
       type="text"
       required
       maxlength="220"
-      placeholder="Ex: "
+      placeholder="{{ i18n "abstract.example" }}"
     />
 
     <!-- 2) Auteurs -->
     <label class="abs-label" for="authors">
-      Auteurs (format imposé)
-      <span class="abs-hint">Ex: Prénom NOM1, Prénom NOM1, Prénom NOM2</span>
+      {{ i18n "abstract.authors" }}
+      <span class="abs-hint">{{ i18n "abstract.authors_example" }}</span>
     </label>
     <textarea
       class="abs-textarea"
@@ -41,35 +41,34 @@
       required
       rows="2"
       maxlength="400"
-      placeholder="Ex: Adrien DUBOIS1, Elsa FAURE2, Maxime LAINE1,2"
+      placeholder="{{ i18n "abstract.names_example" }}"
     ></textarea>
     <p class="abs-help">
-      Règle : ajouter le numéro d’affiliation directement après le prénom/nom (ex: Marie DUPONT1).
-      Séparer les auteurs par des virgules.
+      {{ i18n "abstract.authors_help" }}
     </p>
 
     <!-- 3) Affiliations -->
-    <label class="abs-label" for="affiliation_1">Affiliation 1 (obligatoire)</label>
+    <label class="abs-label" for="affiliation_1">{{ i18n "abstract.affiliation_1" }}</label>
     <input
       class="abs-input"
       id="affiliation_1"
       name="affiliation_1"
       type="text"
       maxlength="220"
-      placeholder="Ex: Laboratoire, Université, Ville, Pays"
+      placeholder="{{ i18n "abstract.affiliation_example" }}"
     />
 
-    <label class="abs-label" for="affiliation_2">Affiliation 2 (optionnelle)</label>
+    <label class="abs-label" for="affiliation_2">{{ i18n "abstract.affiliation_2" }}</label>
     <input
       class="abs-input"
       id="affiliation_2"
       name="affiliation_2"
       type="text"
       maxlength="220"
-      placeholder="Ex: Laboratoire, Université, Ville, Pays"
+      placeholder="{{ i18n "abstract.affiliation_example" }}"
     />
 
-    <label class="abs-label" for="affiliation_3">Affiliation 3 (optionnelle)</label>
+    <label class="abs-label" for="affiliation_3">{{ i18n "abstract.affiliation_3" }}</label>
     <input
       class="abs-input"
       id="affiliation_3"
@@ -78,7 +77,7 @@
       maxlength="220"
     />
 
-    <label class="abs-label" for="affiliation_4">Affiliation 4 (optionnelle)</label>
+    <label class="abs-label" for="affiliation_4">{{ i18n "abstract.affiliation_4" }}</label>
     <input
       class="abs-input"
       id="affiliation_4"
@@ -87,7 +86,7 @@
       maxlength="220"
     />
 
-    <label class="abs-label" for="affiliation_5">Affiliation 5 (optionnelle)</label>
+    <label class="abs-label" for="affiliation_5">{{ i18n "abstract.affiliation_5" }}</label>
     <input
       class="abs-input"
       id="affiliation_5"
@@ -98,33 +97,33 @@
 
     <!-- 4) Thématiques -->
     <label class="abs-label" for="themes">
-      Thématiques (choix multiple)
-      <span class="abs-hint">Conforme au bloc “Thématiques” du template</span>
+      {{ i18n "abstract.themes" }}
+      <span class="abs-hint">{{ i18n "abstract.themes_hint" }}</span>
     </label>
     <select class="abs-input" id="themes" name="themes" multiple required size="6">
       <!-- Remplacez/complétez cette liste selon vos thématiques officielles -->
-      <option value="Chimie Inorganique">Chimie Inorganique</option>
-      <option value="Chimie Organique">Chimie Organique</option>
-      <option value="Chimie-Physique">Chimie-Physique</option>
-      <option value="Développement méthodologique">Développement méthodologique</option>
-      <option value="Élucidation Structurale">Élucidation Structurale</option> 
-      <option value="Imagerie">Imagerie</option>
-      <option value="Instrumentation">Instrumentation</option>
-      <option value="Lipidomique">Lipidomique</option>
-      <option value="Métabolomique">Métabolomique</option>
-      <option value="Mobilité Ionique">Mobilité Ionique</option>
-      <option value="Pétroléomique">Pétroléomique</option> 
-      <option value="Polymères">Polymères</option>
-      <option value="Protéomique">Protéomique</option>
-      <option value="Quantification">Quantification</option>
-      
-      <option value="Autre">Autre</option>
+      <option value="Chimie Inorganique">{{ i18n "abstract.topic_0" }}</option>
+      <option value="Chimie Organique">{{ i18n "abstract.topic_1" }}</option>
+      <option value="Chimie-Physique">{{ i18n "abstract.topic_2" }}</option>
+      <option value="Développement méthodologique">{{ i18n "abstract.topic_3" }}</option>
+      <option value="Élucidation Structurale">{{ i18n "abstract.topic_4" }}</option>
+      <option value="Imagerie">{{ i18n "abstract.topic_5" }}</option>
+      <option value="Instrumentation">{{ i18n "abstract.topic_6" }}</option>
+      <option value="Lipidomique">{{ i18n "abstract.topic_7" }}</option>
+      <option value="Métabolomique">{{ i18n "abstract.topic_8" }}</option>
+      <option value="Mobilité Ionique">{{ i18n "abstract.topic_9" }}</option>
+      <option value="Pétroléomique">{{ i18n "abstract.topic_10" }}</option>
+      <option value="Polymères">{{ i18n "abstract.topic_11" }}</option>
+      <option value="Protéomique">{{ i18n "abstract.topic_12" }}</option>
+      <option value="Quantification">{{ i18n "abstract.topic_13" }}</option>
+
+      <option value="Autre">{{ i18n "abstract.topic_14" }}</option>
     </select>
     <p class="abs-help">
-      Astuce : maintenez Ctrl (Windows/Linux) ou Cmd (Mac) pour sélectionner plusieurs thématiques.
+      {{ i18n "abstract.themes_help" }}
     </p>
 
-    <label class="abs-label" for="theme_autre">Si autre, précisez :</label>
+    <label class="abs-label" for="theme_autre">{{ i18n "abstract.other" }}</label>
     <input
       class="abs-input"
       id="theme_autre"
@@ -135,8 +134,8 @@
 
     <!-- 5) Résumé -->
     <label class="abs-label" for="abstract">
-      Résumé (texte continu)
-      <span class="abs-hint">Sans mise en forme, sans listes ; 300 mots max ; si ajout de référence mettre entre "[]" le n° de l'incice et précisez la référence dans la section suivante. </span>
+      {{ i18n "abstract.text" }}
+      <span class="abs-hint">{{ i18n "abstract.text_hint" }}</span>
     </label>
     <textarea
       class="abs-textarea"
@@ -145,54 +144,54 @@
       required
       rows="12"
       maxlength="2500"
-      placeholder="Collez ici le résumé au format “Résumé” du template."
+      placeholder="{{ i18n "abstract.text_placeholder" }}"
     ></textarea>
 
     <!-- 6) Références -->
-    <label class="abs-label" for="ref_1">Référence [1] (optionnelle)</label>
+    <label class="abs-label" for="ref_1">{{ i18n "abstract.reference_1" }}</label>
     <input
       class="abs-input"
       id="ref_1"
       name="ref_1"
       type="text"
-    
+
       maxlength="260"
-      placeholder="Ex: "
+      placeholder="{{ i18n "abstract.example" }}"
     />
 
-    <label class="abs-label" for="ref_2">Référence [2] (optionnelle)</label>
+    <label class="abs-label" for="ref_2">{{ i18n "abstract.reference_2" }}</label>
     <input class="abs-input" id="ref_2" name="ref_2" type="text" maxlength="260" />
 
-    <label class="abs-label" for="ref_3">Référence [3] (optionnelle)</label>
+    <label class="abs-label" for="ref_3">{{ i18n "abstract.reference_3" }}</label>
     <input class="abs-input" id="ref_3" name="ref_3" type="text" maxlength="260" />
 
-    <label class="abs-label" for="ref_4">Référence [4] (optionnelle)</label>
+    <label class="abs-label" for="ref_4">{{ i18n "abstract.reference_4" }}</label>
     <input class="abs-input" id="ref_4" name="ref_4" type="text" maxlength="260" />
 
-    <label class="abs-label" for="ref_5">Référence [5] (optionnelle)</label>
+    <label class="abs-label" for="ref_5">{{ i18n "abstract.reference_5" }}</label>
     <input class="abs-input" id="ref_5" name="ref_5" type="text" maxlength="260" />
 
-    <label class="abs-label" for="ref_6">Référence [6] (optionnelle)</label>
+    <label class="abs-label" for="ref_6">{{ i18n "abstract.reference_6" }}</label>
     <input class="abs-input" id="ref_6" name="ref_6" type="text" maxlength="260" />
 
     <p class="abs-help">
-      Mise en forme selon le type de référence :<br>
-      • Articles : [n°] : Dubois, C. et al., J. Proteome Res. 2020, 19(2):914-925<br>
-      • Chapitres : [n°] : Tsybin, Y. O. et al., in: Kanawati, B. &amp; Schmitt-Kopplin, P. (Eds.), Fundamentals and Applications of Fourier Transform Mass Spectrometry, Elsevier 2019, 113-132<br>
-      • Livres : [n°] : Pawliszyn, J., Handbook of Solid Phase Microextraction, Elsevier 2012<br>
-      • Thèses : [n°] : Hubert, C., Thesis, Université Pierre et Marie Curie 2014
+      {{ i18n "abstract.reference_help" }}<br>
+      {{ i18n "abstract.articles" }} Dubois, C. et al., J. Proteome Res. 2020, 19(2):914-925<br>
+      {{ i18n "abstract.chapters" }} Tsybin, Y. O. et al., in: Kanawati, B. &amp; Schmitt-Kopplin, P. (Eds.), Fundamentals and Applications of Fourier Transform Mass Spectrometry, Elsevier 2019, 113-132<br>
+      {{ i18n "abstract.books" }} Pawliszyn, J., Handbook of Solid Phase Microextraction, Elsevier 2012<br>
+      {{ i18n "abstract.theses" }} Hubert, C., Thesis, Université Pierre et Marie Curie 2014
     </p>
 
     <!-- Contact (utile même si pas dans le template) -->
-    <label class="abs-label" for="email">Email du correspondant (obligatoire)</label>
+    <label class="abs-label" for="email">{{ i18n "abstract.email" }}</label>
     <input class="abs-input" id="email" name="email" type="email" required maxlength="254" />
 
     <label class="abs-check">
       <input type="checkbox" name="consent" required />
-      Je certifie que ces informations respectent le format demandé et j’accepte le traitement de la soumission.
+      {{ i18n "abstract.consent" }}
     </label>
 
-    <button class="abs-btn" type="submit">Soumettre</button>
+    <button class="abs-btn" type="submit">{{ i18n "abstract.submit" }}</button>
   </fieldset>
 </form>
 
@@ -209,6 +208,3 @@
   .abs-radio{display:block;margin-top:10px}
   .abs-radio input{margin-right:8px}
 </style>
-
-
-  

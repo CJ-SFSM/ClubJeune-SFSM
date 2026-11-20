@@ -1,7 +1,7 @@
 Read more:
-  other: En savoir plus
+  other: Read more
 Load more posts:
-  other: Plus d'articles
+  other: More posts
 Filter tags:
   other: Filter tags
 services:
@@ -58,3 +58,119 @@ Checkout:
   other: Checkout
 Payment:
   other: Payment
+abstract.legend:
+  other: "Abstract submission (required format)"
+abstract.oral:
+  other: "Oral presentation: 12 minutes + 3 minutes of questions"
+abstract.flash:
+  other: "Flash presentation: 3 minutes + 2 minutes of questions"
+abstract.title:
+  other: "Title (required)"
+abstract.authors:
+  other: "Authors (required format)"
+abstract.authors_example:
+  other: "E.g. Firstname SURNAME1, Firstname SURNAME1, Firstname SURNAME2"
+abstract.authors_help:
+  other: "Add the affiliation number directly after each name (e.g. Marie DUPONT1). Separate authors with commas."
+abstract.names_example:
+  other: "E.g. Adrien DUBOIS1, Elsa FAURE2, Maxime LAINE1,2"
+abstract.affiliation_example:
+  other: "E.g. Laboratory, University, City, Country"
+abstract.themes:
+  other: "Topics (select all that apply)"
+abstract.themes_hint:
+  other: "Use the topics listed in the template"
+abstract.themes_help:
+  other: "Tip: hold Ctrl (Windows/Linux) or Cmd (Mac) to select multiple topics."
+abstract.other:
+  other: "If other, please specify:"
+abstract.text:
+  other: "Abstract (continuous text)"
+abstract.text_hint:
+  other: "Plain text, no lists; maximum 300 words. Cite references using numbers in square brackets, e.g. [1], and give their details in the next section."
+abstract.text_placeholder:
+  other: "Paste your abstract here, following the abstract template."
+abstract.reference_help:
+  other: "Formatting by reference type:"
+abstract.articles:
+  other: "• Articles: [no.]:"
+abstract.chapters:
+  other: "• Chapters: [no.]:"
+abstract.books:
+  other: "• Books: [no.]:"
+abstract.theses:
+  other: "• Theses: [no.]:"
+abstract.email:
+  other: "Corresponding author’s email (required)"
+abstract.consent:
+  other: "I confirm that this information follows the required format and consent to the processing of this submission."
+abstract.submit:
+  other: "Submit"
+abstract.example:
+  other: "E.g. "
+abstract.affiliation_1:
+  other: "Affiliation 1 (required)"
+abstract.affiliation_2:
+  other: "Affiliation 2 (optional)"
+abstract.affiliation_3:
+  other: "Affiliation 3 (optional)"
+abstract.affiliation_4:
+  other: "Affiliation 4 (optional)"
+abstract.affiliation_5:
+  other: "Affiliation 5 (optional)"
+abstract.reference_1:
+  other: "Reference [1] (optional)"
+abstract.reference_2:
+  other: "Reference [2] (optional)"
+abstract.reference_3:
+  other: "Reference [3] (optional)"
+abstract.reference_4:
+  other: "Reference [4] (optional)"
+abstract.reference_5:
+  other: "Reference [5] (optional)"
+abstract.reference_6:
+  other: "Reference [6] (optional)"
+abstract.topic_0:
+  other: "Inorganic chemistry"
+abstract.topic_1:
+  other: "Organic chemistry"
+abstract.topic_2:
+  other: "Physical chemistry"
+abstract.topic_3:
+  other: "Method development"
+abstract.topic_4:
+  other: "Structural elucidation"
+abstract.topic_5:
+  other: "Imaging"
+abstract.topic_6:
+  other: "Instrumentation"
+abstract.topic_7:
+  other: "Lipidomics"
+abstract.topic_8:
+  other: "Metabolomics"
+abstract.topic_9:
+  other: "Ion mobility"
+abstract.topic_10:
+  other: "Petroleomics"
+abstract.topic_11:
+  other: "Polymers"
+abstract.topic_12:
+  other: "Proteomics"
+abstract.topic_13:
+  other: "Quantification"
+abstract.topic_14:
+  other: "Other"
+thesis.defence:
+  other: "Defence date"
+sponsor.academic:
+  other: "Academic"
+sponsor.classic:
+  other: "Classic"
+sponsor.basic:
+  other: "Basic"
+sponsor.logo:
+  other: "Logo of"
+sponsor.missing_image:
+  other: "Image not found for:"
+sponsor.missing_data:
+  other: "Error: sponsor data file is missing or empty."

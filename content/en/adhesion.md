@@ -1,30 +1,28 @@
 ---
-title: Adhésion
+title: Membership
 ---
 
 {{< brick_wide >}}
 {{< breadcrumbs >}}
 
+# Join the CJSM
 
-# Adhérer au CJSM
+## How to join
+Joining the Young Scientists' Club of the French Society for Mass Spectrometry is easy!
+You only need to meet one of the following criteria:
 
-## Comment adhérer ?
-Pour adhérer au Club Jeune de la Société Française de Spectrométrie de Masse, c’est facile !
-Il suffit de remplir une de ces conditions : 
-                       
-- Être étudiant⸱e (Master, Doctorat, écoles…) 2ème ou 3éme cycle. 
-- Être diplomé⸱e depuis moins de 5 ans.
-- Être étudiant⸱e ou jeune actif de moins de 35 ans</li>
+- Be a postgraduate student (Master's, PhD, engineering school, etc.).
+- Have graduated within the past five years.
+- Be a student or young professional under 35.
 
-La demande d’adhésion à la SFSM (valable une année civile) peut se faire soit par bulletin d’adhésion soit en ligne sur le [site](https://www.helloasso.com/associations/societe-francaise-de-spectrometrie-de-masse/adhesions/adhesion-sfsm-2025) de la SFSM. Il vous en coûtera 10 Euros si vous êtes étudiant ou 40 Euros si vous ne l’êtes plus ! 
+You can apply for SFSM membership, valid for one calendar year, using a membership form or online through the SFSM [website](https://www.helloasso.com/associations/societe-francaise-de-spectrometrie-de-masse/adhesions/adhesion-sfsm-2025). Membership costs €10 for students and €40 for other members.
 
-**PRECISIONS IMPORTANTES :**
+**IMPORTANT:**
 
-Si vous vous inscrivez via le site internet, n’oubliez pas de **cocher la case** « membre du CJSM » afin de rester informé sur les évènements à venir.
+If you register online, remember to **tick the “membre du CJSM” box** (CJSM member) to stay informed about upcoming events.
 
+## Membership fees
 
-## Cotisation
-
-La cotisation s'élève à **10€** pour les étudiant⸱es présentant un justificatif (doctorant⸱e, stagiaire) et de **40€** pour les adhésions hors "etudiant⸱e".
+The fee is **€10** for students who provide proof of their status (PhD students, interns) and **€40** for other members.
 
 {{< /brick_wide >}}

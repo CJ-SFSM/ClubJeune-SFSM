@@ -1,18 +1,17 @@
 ---
-title: Changement du logo CJSM
+title: A new CJSM logo
 image: /uploads/actualite/pencil.jpg
 date: 2025-05-31
-tags: 
-  - Contribution membres CJSM
-
+tags:
+  - CJSM member contributions
 ---
 
-## A vos talents
+## Show us your talent
 
-Dans le cadre de cette année, nous proposons à nos membres de contribuer au changement de logo du CJSM. Si vous avez de l'imagination, de la créativité ou tout simplement du talent pour les prompts chatGPT, alors ce challenge est fait pour vous. 
+This year, we invite our members to help redesign the CJSM logo. If you have imagination, creativity or simply a talent for ChatGPT prompts, this challenge is for you.
 
-Toutefois, une imagination, qu'elle soit *in silico* ou *in vivo*, cette dernière doit être cadrée. Nous vous invitons à consulter le cahier des charges suivant afin d'augmenter vos chances d'avoir votre logo sélectionné.  
+Whether your ideas come from *in silico* or *in vivo* inspiration, they need a framework. Please consult the following specifications to improve your chances of having your logo selected.
 
-"Oé mais j'y gagne quoi moi ?" Toute notre gratitude Gertrude... Mais  bien plus encore, à la clé, nous vous offrirons un cadeau d'une valeur de 50€. 
+“What's in it for me?” Our heartfelt gratitude… and more: the winner will receive a gift worth €50.
 
-Alors, prêt ? Go, dessinez !!! 
+Ready? Get drawing!

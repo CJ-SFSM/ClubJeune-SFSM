@@ -1,13 +1,13 @@
 ---
-title: Soumission d'abstract
+title: Abstract submission
 ---
 
 {{< brick_wide >}}
 {{< breadcrumbs >}}
 
-# Dépôt d'un résumé pour une présentation orale aux RCJSM 2026
+# Submit an abstract for an oral presentation at RCJSM 2026
 
-Afin de faciliter le dépôt des résumés pour candidater à un oral aux RCJSM 2026, nous vous invitions à compléter les champs suivants. Veuillez déposer une seule fois votre résumé. Si vous avez déjà déposé votre résumé et nécessitez d'apporter une correction, nous vous invitions à contacter le Club Jeune à l'adresse clubjeunesm@gmail.com. 
+Please complete the fields below to submit an abstract for an oral presentation at RCJSM 2026. Submit your abstract only once. If you have already submitted an abstract and need to make a correction, please contact the Young Scientists' Club at clubjeunesm@gmail.com.
 
 {{< /brick_wide >}}
 {{< abstract_rcjsm_2026 >}}

@@ -1,0 +1,121 @@
+Read more:
+  other: En savoir plus
+Load more posts:
+  other: Plus d'articles
+
+abstract.legend:
+  other: "Soumission — Résumé (format imposé)"
+abstract.oral:
+  other: "Présentation orale 12 minutes + 3 minutes de questions"
+abstract.flash:
+  other: "Présentation courte 3 minutes + 2 minutes de questions"
+abstract.title:
+  other: "Titre (obligatoire)"
+abstract.authors:
+  other: "Auteurs (format imposé)"
+abstract.authors_example:
+  other: "Ex: Prénom NOM1, Prénom NOM1, Prénom NOM2"
+abstract.authors_help:
+  other: "Règle : ajouter le numéro d’affiliation directement après le prénom/nom (ex: Marie DUPONT1).\n      Séparer les auteurs par des virgules."
+abstract.names_example:
+  other: "Ex: Adrien DUBOIS1, Elsa FAURE2, Maxime LAINE1,2"
+abstract.affiliation_example:
+  other: "Ex: Laboratoire, Université, Ville, Pays"
+abstract.themes:
+  other: "Thématiques (choix multiple)"
+abstract.themes_hint:
+  other: "Conforme au bloc “Thématiques” du template"
+abstract.themes_help:
+  other: "Astuce : maintenez Ctrl (Windows/Linux) ou Cmd (Mac) pour sélectionner plusieurs thématiques."
+abstract.other:
+  other: "Si autre, précisez :"
+abstract.text:
+  other: "Résumé (texte continu)"
+abstract.text_hint:
+  other: "Sans mise en forme, sans listes ; 300 mots max ; si ajout de référence mettre entre \"[]\" le n° de l'incice et précisez la référence dans la section suivante. "
+abstract.text_placeholder:
+  other: "Collez ici le résumé au format “Résumé” du template."
+abstract.reference_help:
+  other: "Mise en forme selon le type de référence :"
+abstract.articles:
+  other: "• Articles : [n°] :"
+abstract.chapters:
+  other: "• Chapitres : [n°] :"
+abstract.books:
+  other: "• Livres : [n°] :"
+abstract.theses:
+  other: "• Thèses : [n°] :"
+abstract.email:
+  other: "Email du correspondant (obligatoire)"
+abstract.consent:
+  other: "Je certifie que ces informations respectent le format demandé et j’accepte le traitement de la soumission."
+abstract.submit:
+  other: "Soumettre"
+abstract.example:
+  other: "Ex: "
+abstract.affiliation_1:
+  other: "Affiliation 1 (obligatoire)"
+abstract.affiliation_2:
+  other: "Affiliation 2 (optionnelle)"
+abstract.affiliation_3:
+  other: "Affiliation 3 (optionnelle)"
+abstract.affiliation_4:
+  other: "Affiliation 4 (optionnelle)"
+abstract.affiliation_5:
+  other: "Affiliation 5 (optionnelle)"
+abstract.reference_1:
+  other: "Référence [1] (optionnelle)"
+abstract.reference_2:
+  other: "Référence [2] (optionnelle)"
+abstract.reference_3:
+  other: "Référence [3] (optionnelle)"
+abstract.reference_4:
+  other: "Référence [4] (optionnelle)"
+abstract.reference_5:
+  other: "Référence [5] (optionnelle)"
+abstract.reference_6:
+  other: "Référence [6] (optionnelle)"
+abstract.topic_0:
+  other: "Chimie Inorganique"
+abstract.topic_1:
+  other: "Chimie Organique"
+abstract.topic_2:
+  other: "Chimie-Physique"
+abstract.topic_3:
+  other: "Développement méthodologique"
+abstract.topic_4:
+  other: "Élucidation Structurale"
+abstract.topic_5:
+  other: "Imagerie"
+abstract.topic_6:
+  other: "Instrumentation"
+abstract.topic_7:
+  other: "Lipidomique"
+abstract.topic_8:
+  other: "Métabolomique"
+abstract.topic_9:
+  other: "Mobilité Ionique"
+abstract.topic_10:
+  other: "Pétroléomique"
+abstract.topic_11:
+  other: "Polymères"
+abstract.topic_12:
+  other: "Protéomique"
+abstract.topic_13:
+  other: "Quantification"
+abstract.topic_14:
+  other: "Autre"
+thesis.defence:
+  other: "Soutenance"
+sponsor.academic:
+  other: "Académique"
+sponsor.classic:
+  other: "Classique"
+sponsor.basic:
+  other: "Basique"
+sponsor.logo:
+  other: "Logo de"
+sponsor.missing_image:
+  other: "Image non trouvée pour :"
+sponsor.missing_data:
+  other: "Erreur : fichier de sponsors introuvable ou vide."

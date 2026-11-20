@@ -1,37 +1,35 @@
 ---
-title: Notre équipe
+title: Our team
 ---
 {{< brick_team >}}
 
 {{< breadcrumbs >}}
 
 {{< brick_intro >}}
-# Le conseil d'administration du CJSM
+# The CJSM board
 
-Le conseil d'administration (CA) du CJSM dispose de 9 membres dont chacun, dispose d'une fonction et des missions associées. Les membres du CA sont élus par la communauté du CJSM et leur mandat est d'une durée de 3 ans. A l'issuee des trois année du mandant, un candidat peut se représenter.
+The CJSM board has nine members, each with a role and associated responsibilities. Board members are elected by the CJSM community for a three-year term. At the end of their term, they may stand for election again.
 
+# Our role
 
-# Notre rôle
-
-Notre rôle consiste à organiser plusieurs évènements tout le long de l'année et durant tout le mandat.  A chaque renouvèlement du bureau, c'est-à-dire tous les ans, chaque membre du CA a la possibilité de changer de fonction, afin de découvrir les autres facettes de l'association. 
+We organise events throughout the year and throughout our term. Each year, when board roles are renewed, every board member can change roles to discover other aspects of the association.
 {{< /brick_intro >}}
 
 {{< /brick_team >}}
 
-
-
 {{< brick_wide >}}
-## Vous souhaitez nous rejoindre ?
+## Would you like to join us?
 
-Comme chaque année, certains membres du bureau arrivent au terme de leur mandat. 
+Each year, some board members reach the end of their term.
 
-📬 Comment candidater ?
-Les personnes intéressées sont invitées à envoyer:\ 
-* une lettre de motivation pour le poste visé,
+📬 How to apply:
+Applicants are invited to send:
 
-* un classement des postes souhaités.\
-👉 par email à : clubjeunesm@gmail.com
+* a cover letter for their preferred role,
+* a ranking of the roles they are interested in.
 
-📊 Les votes se dérouleront ensuite via la plateforme Balotilo.
+👉 Email your application to: clubjeunesm@gmail.com
+
+📊 Voting will then take place through the Balotilo platform.
 
 {{< /brick_wide >}}

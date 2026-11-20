@@ -2,7 +2,7 @@
 {{ $logos := (index site.Data site.Language.Lang).sponsors }}
 
 {{ if not $logos }}
-  <p><strong>Erreur : fichier <code>data/{{ site.Language.Lang }}/sponsors.yaml</code> introuvable ou vide.</strong></p>
+  <p><strong>{{ i18n "sponsor.missing_data" }}</strong></p>
 {{ else }}
   {{ $groupes := slice "Prestige" "Premium" "Standard" "Académique"}}
 
@@ -10,7 +10,7 @@
     {{ $filtrés := where $logos "niveau" $groupe }}
     {{ if gt (len $filtrés) 0 }}
       <div class="sponsor-section sponsor-{{ $groupe }}">
-        <h3 class="sponsor-title">{{ title $groupe }}</h3>
+        <h3 class="sponsor-title">{{ if eq $groupe "Académique" }}{{ i18n "sponsor.academic" }}{{ else }}{{ title $groupe }}{{ end }}</h3>
         <div class="sponsors-gallery">
           {{ range $filtrés }}
             {{- $name := .name -}}
@@ -30,11 +30,11 @@
               {{ $imageurl := printf "%s/%s" $dir $fichier }}
               <div class="sponsor-logo sponsor-logo-{{ $niveau }}">
                 <a href="{{ $url }}" target="_blank" rel="noopener">
-                  <img src="{{ $imageurl | relURL }}" alt="Logo de {{ $name }}" />
+                  <img src="{{ $imageurl | relURL }}" alt="{{ i18n "sponsor.logo" }} {{ $name }}" />
                 </a>
               </div>
             {{ else }}
-              <p>Image non trouvée pour : {{ $name }}</p>
+              <p>{{ i18n "sponsor.missing_image" }} {{ $name }}</p>
             {{ end }}
           {{ end }}
         </div>

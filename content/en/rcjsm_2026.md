@@ -5,34 +5,32 @@ title: RCJSM 2026
 {{< brick_wide >}}
 {{< breadcrumbs >}}
 
+# About the event
 
-# Présentation de l'évènement
+Every year, the SFSM Young Scientists' Club organises its annual meeting. The event includes four days of courses taught by experts on topics related to mass spectrometry. Find all the event information [**here**](/uploads/pdf/CJSM_RCJSM_Flyer_2026Annonce.pdf).
 
-Chaque année le Club Jeune de la SFSM organise les rencontres annuelles. A cet évènement, nous organisons 4 jours où les participants pourront assiter à des cours donnés par des experts de thématiques touchant à  la spectrométrie de masse. Vouc trouverez [**ICI**](/uploads/pdf/CJSM_RCJSM_Flyer_2026Annonce.pdf) toutes les informations relatives à l'évènement.
+## Venue
 
-## Lieu d'accueil 
-
-Cette année, l'évènement a lieu à l'Île de Loisirs des Boucles de Seine à Moisson, situé à l'Ouest de la région Parisienne. Ce lieu emblématique offre un cadre offrant la pratique des activités à la fois terrestres et nautiques. 
+This year's event takes place at the Île de Loisirs des Boucles de Seine in Moisson, west of Paris. This distinctive venue offers a setting for both land-based and water activities.
 
 ![](/uploads/actualite/Lieu_Accueil_RCJSM2026.png)
 
-## Les cours dispensés par les enseignants
- 
-A chaque retour des RCJSM et grâce à [nos sondages](https://cj-sfsm.github.io/ClubJeune-SFSM/blog/recensement-et-sondage-des-membres-du-cjsm/), nous élaborons un programme qui répond aux attentes de nos membres. Cette année nous vous proposons les thématiques suivantes : 
+## Courses taught by experts
+
+Using feedback from each RCJSM meeting and [our surveys](/blog/recensement-et-sondage-des-membres-du-cjsm/), we develop a programme that meets our members' expectations. This year, we offer the following topics:
 
 ![](/uploads/actualite/Cours_RCJSM26.png)
 
-## Possibilité de présenter vos travaux selon deux types de format
+## Two formats to present your work
 
-Lors de ces 5 jours, vous avez la possibilité de présenter vos travaux sous la forme d'une communication orale de 12 minutes, qui se suivront de 3 minutes de discussion ou d'une communication rapide de 3 minutes, suivie de 2 minutes de questions. Pour cela, nous vous proposons de compléter le formulaire disponible à [cette adresse](https://cj-sfsm.github.io/ClubJeune-SFSM/abstract_rcjsm/). 
+During these five days, you can present your work as a 12-minute oral presentation followed by three minutes of discussion, or a three-minute flash presentation followed by two minutes of questions. Please complete the form available [here](/abstract_rcjsm/).
 
+## Interested? Register for the 2026 meeting!
 
-## Interessé ? Inscrivez-vous aux rencontres 2026 !
+To attend the event, register using this [Google Form](https://forms.gle/2GJ8SVuriNKn17jQ6). Registration is open until <s>Monday 2 March at 12:00</s> **Monday 9 March 2026**.
 
-Si vous souhaitez participer à l'évènement, veuillez vous inscrire à partir de ce formulaire accessible *via* le [Google Form](https://forms.gle/2GJ8SVuriNKn17jQ6). Les inscriptions seront ouvertes jusqu’au <s>lundi 02 Mars à 12h00</s> **lundi 09 mars 2026**.
+To confirm your registration, please make sure your SFSM membership is valid for 2026. You can renew it using this [link](https://www.helloasso.com/associations/societe-francaise-de-spectrometrie-de-masse/adhesions/adhesion-sfsm-2025).
 
-Pour assurer votre inscription, veillez à ce que vous soyez adhérents à la SFSM pour l'année 2026. Vous pouvez renouveler votre adhésion à partir de ce [lien](https://www.helloasso.com/associations/societe-francaise-de-spectrometrie-de-masse/adhesions/adhesion-sfsm-2025). 
-
-**Vous trouverez plus d'informations en cliquant dans le flyer en cliquant** [**ici**](/uploads/pdf/CJSM_RCJSM_Flyer_2026Annonce.pdf).
+**For more information, read the flyer** [**here**](/uploads/pdf/CJSM_RCJSM_Flyer_2026Annonce.pdf).
 
 {{< /brick_wide >}}

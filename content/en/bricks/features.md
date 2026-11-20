@@ -1,34 +1,34 @@
 ---
-title: features
+title: Features
 ---
-## Pourquoi rejoindre le CJSM ?
+## Why join the CJSM?
 
-Un club pour les jeunes scientifiques, pensé par eux, avec eux.
-
----
-
-![](/img/icons/teamwork.svg)
-### Une communauté dynamique
-
-Rejoignez un réseau de jeunes impliqué·es dans la valorisation des approches analytiques et omiques.
+A club for young scientists, designed by and with them.
 
 ---
 
-![](/img/icons/step-up.svg)
-### Mentorat & accompagnement
+![](/uploads/icons/teamwork.svg)
+### A vibrant community
 
-Un programme de mentorat pour s’inspirer, partager, et se développer scientifiquement et humainement.
-
----
-
-![](/img/icons/idea.svg)
-### Valorisation de vos projets
-
-Le CJSM met en lumière vos thèses, publications, conférences et idées.
+Join a network of young scientists committed to promoting analytical and omics approaches.
 
 ---
 
-![](/img/icons/development.svg)
-### Développement professionnel
+![](/uploads/icons/step-up.svg)
+### Mentoring & support
 
-Partage d’offres d’emploi, formations, et occasions de visibilité pour jeunes chercheurs.
+A mentoring programme to find inspiration, share experiences and grow both scientifically and personally.
+
+---
+
+![](/uploads/icons/idea.svg)
+### Showcasing your projects
+
+The CJSM highlights your theses, publications, conference presentations and ideas.
+
+---
+
+![](/uploads/icons/development.svg)
+### Professional development
+
+Sharing job openings, training and opportunities for young researchers to raise their profile.

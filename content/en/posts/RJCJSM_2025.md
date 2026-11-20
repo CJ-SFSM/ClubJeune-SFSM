@@ -1,26 +1,25 @@
 ---
-title: Club Jeune 2025
+title: Young Scientists' Club 2025
 image: /uploads/actualite/Logo_RJSM_2025.jpg
 date: 2025-05-31
-tags: 
-  - Evenement
+tags:
+  - Event
   - RCJSM
+slug: club-jeune-2025
 ---
 
 ## RCJSM 2025
 
+The CJSM 2025 meeting took place from 31 March to 3 April in the Toulouse area, known for its “Pink City”, at the Moulin de Moissac. This historic venue hosted the latest edition of an event that means a great deal to our community.
 
-Les Rencontres CJSM 2025 se sont tenues du 31 mars au 3 avril, à Toulouse, la ville Rose, plus précisément au Moulin de Moissac. Ce site historique a accueilli cette nouvelle édition, évènement qui compte beaucoup pour notre communauté.
+The event brought together 36 CJSM members from across France, giving them the opportunity to present their research. Members gave 15-minute oral presentations and three-minute flash presentations, showcasing their scientific projects and starting constructive discussions.
 
-L’évènement a rassemblé 36 membres de la CJSM venus de toute la France, qui ont eu l’opportunité de présenter leurs travaux de recherche. Lors de cette rencontre, plusieurs membres du CJSM ont eu l'occasion de présenter des communications orales de 15 minutes, ainsi que des présentations flash de 3 minutes, permettant de valoriser efficacement leurs projets scientifiques et d’initier des échanges constructifs. 
+RCJSM 2025 also featured recognised mass spectrometry experts, who shared their knowledge through thematic lectures and training sessions. Participants benefited from valuable insights while discovering the latest technological and methodological advances in the field.
 
-En plus de ces présentations, les RCJSM 2025 ont également été marquées par des interventions d’experts reconnus dans le domaine de la spectrométrie de masse, qui ont partagé leurs connaissances à travers des conférences thématiques et des sessions de formation enrichissantes. Ces temps forts ont permis aux participants de bénéficier de retours d'expérience précieux, tout en découvrant les dernières avancées technologiques et méthodologiques du domaine.
+The booklet for this 29th edition in 2025 is available [here](/uploads/pdf/Fasicules_rencontres/RCJSM2025_Fascicule.pdf).
 
-Vous trouverez [ici](/pdf/RCJSM2025_Fascicule.pdf) le catalogue de cette XXIXème édition 2025.
+## Acknowledgements
 
-## Remerciements
+We thank the sponsors who made this event possible. Their financial support was essential to the organisation and quality of this edition. Thanks to their commitment, RCJSM 2025 offered young researchers a setting for scientific discussion, training and building professional networks.
 
-Nous tenons à exprimer notre reconnaissance envers les sponsors qui ont rendu cet évènement possible. Leur soutien financier a été déterminant pour l’organisation et la qualité de cette édition. Grâce à leur engagement, les RCJSM 2025 ont pu offrir aux jeunes chercheurs un cadre propice à l’échange scientifique, à la formation, et à la construction de réseaux professionnels.
-
-
-Cette édition a une nouvelle fois démontré le dynamisme et la richesse de la communauté des jeunes chercheurs en spectrométrie de masse. Rendez-vous en 2026 pour une nouvelle rencontre, toujours placée sous le signe de la science, du partage et du dynamisme !
+This edition once again demonstrated the energy and diversity of the young mass spectrometry research community. See you in 2026 for another meeting dedicated to science, sharing and enthusiasm!

@@ -1,32 +1,32 @@
 ---
-title: Réglement du CJSM
+title: CJSM rules
 ---
 {{< brick_title >}}
 
-## Statuts de la Société Française de Spectrométrie de Masse (SFSM)
+## Statutes of the French Society for Mass Spectrometry (SFSM)
 
-Le CJSM est une dépendance de la Société Française de Spectrométrie de Masse, ainsi les statuts sont appliqués aussi à notre club.
+The CJSM is part of the French Society for Mass Spectrometry, so these statutes also apply to our club.
 
 {{< /brick_title >}}
 {{< brick_wide >}}
 
 ## Article 1
 
-Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901 ayant pour titre SOCIÉTÉ FRANÇAISE DE SPECTROMÉTRIE DE MASSE
+An association governed by the French Law of 1 July 1901 and the Decree of 16 August 1901 is established between those who subscribe to these statutes, under the name SOCIÉTÉ FRANÇAISE DE SPECTROMÉTRIE DE MASSE.
 
-## Article 2 - Objet
+## Article 2 – Purpose
 
-L’Association a pour buts de :
+The Association aims to:
 
-– promouvoir la spectrométrie de masse et les techniques associées et participer à leur enseignement;
+– promote mass spectrometry and related techniques and contribute to their teaching;
 
-– rassembler toutes les personnes physiques et morales intéressées par la spectrométrie de masse;
+– bring together all individuals and legal entities interested in mass spectrometry;
 
-– assurer les échanges d’informations avec les organisations scientifiques françaises et étrangères.
+– exchange information with French and international scientific organisations.
 
-## Article 3 - Siège social
+## Article 3 – Registered office
 
-Le siège social est à :
+The registered office is located at:
 
 Ecole de Physique et de Chimie Industrielle de la Ville de Paris (ESPCI Paris Tech)
 
@@ -34,69 +34,69 @@ Ecole de Physique et de Chimie Industrielle de la Ville de Paris (ESPCI Paris Te
 
 75231 PARSIS CEDEX 05
 
-En cas de refus de renouvellement d’hébergement du siège social de l’association, l’association s’engage à effectuer le changement de localisation de son siège social. Ce transfert pourra être fait en tout autre lieu sur simple décision du Conseil d’Administration.
+If the hosting arrangement for the Association's registered office is not renewed, the Association undertakes to relocate its registered office. It may be transferred to any other location by a simple decision of the Board of Directors.
 
-## Article 4 - Durée
+## Article 4 – Duration
 
-La durée de l’association est illimitée.
+The Association is established for an unlimited duration.
 
-## Article 5 – Composition de l’association
+## Article 5 – Membership categories
 
-L’association comporte des membres actifs et des membres d’honneur.
+The Association comprises active members and honorary members.
 
-Peuvent être admises à faire partie de la Société Française de Spectrométrie de Masse en qualité de membre d’honneur, les personnes qui auront rendu des services à la Société Française de Spectrométrie de Masse ou se seront distinguées dans le domaine de la spectrométrie de masse. Les membres d’honneur sont nommés par le Conseil d’Administration.
+Individuals who have rendered services to the French Society for Mass Spectrometry or distinguished themselves in the field of mass spectrometry may be admitted as honorary members. Honorary members are appointed by the Board of Directors.
 
-## Article 6 - Admissions
+## Article 6 – Admission
 
-Peut devenir membre toute personne physique ou morale désirant faire partie de l’Association qui adresse une demande d’admission au Président de l’Association et qui acquitte sa cotisation annuelle.
+Any individual or legal entity wishing to join the Association may become a member by submitting an application to the President of the Association and paying the annual membership fee.
 
-La demande d’admission doit être parrainée par un membre de l’Association.
+Applications must be sponsored by a member of the Association.
 
-## Article 7 – démission et radiation
+## Article 7 – Resignation and removal
 
-La qualité de membre de l’Association se perd, soit par démission, soit par radiation. La radiation peut intervenir pour non paiement des cotisations ou pour un motif grave de nature à porter préjudice à l’Association.
+Membership ends through resignation or removal. Removal may occur for non-payment of membership fees or for serious reasons likely to harm the Association.
 
-La radiation est prononcée par le Conseil d’Administration après vote en assemblée générale, l’intéressé ayant été préalablement invité à exposer son point de vue.
+Removal is pronounced by the Board of Directors following a vote at a General Meeting, after the person concerned has been invited to present their views.
 
-## Article 8 – Ressources
+## Article 8 – Resources
 
-Les ressources de l’Association se composent :
+The Association's resources comprise:
 
-a) des cotisations et souscriptions de ses membres;
+a) membership fees and subscriptions;
 
-b) des subventions qui pourront lui être accordées;
+b) grants awarded to it;
 
-c) des recettes provenant des activités qu’elle peut organiser (telles que conférences, congrès,…)
+c) income from activities it may organise, such as lectures and conferences;
 
-d) du revenu éventuel de ses biens et valeurs de toute nature;
+d) any income from its property and assets of any kind;
 
-e) de toute autre ressource autorisée par les textes législatifs et réglementaires.
+e) any other resources permitted by legislation and regulations.
 
-Le montant de la cotisation est fixé annuellement par l’Assemblée Générale.
+The membership fee is set annually by the General Meeting.
 
-Seul le patrimoine de l’Association pourra servir de garantie pour les engagements pris en son nom ; aucun de ses membres ne pourra être rendu responsable de ses engagements.
+Only the Association's assets may serve as security for commitments entered into in its name; none of its members may be held liable for those commitments.
 
-## Article 9 – Conseil d’Administration
+## Article 9 – Board of Directors
 
-L’association est administrée par un conseil composé d’au moins 6 et au plus 8 membres qui sont élus par l’ensemble des membres actifs.
+The Association is managed by a Board comprising at least six and at most eight members elected by all active members.
 
-De plus, par souci de continuité, le Conseil s’adjoint le Président du précédent mandat. Ce dernier n’a pas le droit de vote lors des décisions du Conseil.
+For continuity, the President from the previous term also joins the Board, without voting rights in Board decisions.
 
-Pour l’élection des membres du Conseil, les votes émis au scrutin secret sont acquis à la majorité relative des votants au scrutin nominal à un tour. Pour ce scrutin dont les modalités seront fixées par le règlement intérieur, le vote par correspondance est admis.
+Board members are elected by secret ballot, by a relative majority of votes cast in a single-round vote for individual candidates. Postal voting is permitted, under procedures laid down in the internal rules.
 
-La durée du mandat des membres du Conseil est fixée à trois ans. Aucun membre ne peut assurer deux mandats consécutifs. Le Conseil sera renouvelé chaque année par tiers, le nom des membres sortants aux deux premiers renouvellements sera tiré au sort.
+Board members serve a three-year term. No member may serve two consecutive terms. One third of the Board is renewed each year; the outgoing members for the first two renewals are chosen by drawing lots.
 
-En cas de vacance, le Conseil pourvoit provisoirement au remplacement de ses membres. Leur remplacement définitif intervient à la plus prochaine élection. Les pouvoirs des membres ainsi élus prennent fin à l’époque où devrait normalement expirer le mandat du membre remplacé.
+In the event of a vacancy, the Board appoints a temporary replacement. A permanent replacement is elected at the next election. The term of a member elected in this way ends when the replaced member's term would normally have expired.
 
-Toutefois, jusqu’à la première élection qui élira un nouveau Conseil d’administration, conformément aux statuts au plus tard trois mois après la publication légale, le premier Conseil d’Administration est composé de :
+Until the first election of a new Board of Directors under these statutes, to be held no later than three months after legal publication, the first Board of Directors comprises:
 
-J-P. THÉNOT Président – Conseil
+J-P. THÉNOT, Advisory President
 
-J-L. AUBAGNAC Président
+J-L. AUBAGNAC, President
 
-G. BOUCHOUX Secrétaire
+G. BOUCHOUX, Secretary
 
-G. DEVANT Trésorier
+G. DEVANT, Treasurer
 
 A-M. ANDRÉANI
 
@@ -106,130 +106,130 @@ Y. LE BEYEC
 
 C. JULIEN-LAROSE
 
-## Article 10 - Bureau
+## Article 10 – Executive Committee
 
-Le Conseil choisit parmi ses membres au scrutin secret un Bureau composé d’un président, d’un secrétaire et d’un trésorier.
+The Board elects an Executive Committee from among its members by secret ballot, comprising a President, a Secretary and a Treasurer.
 
-Les membres du Bureau sont rééligibles. Le Président doit avoir occupé précédemment au sein du Conseil le poste de secrétaire ou de trésorier.
+Executive Committee members may be re-elected. The President must previously have served on the Board as Secretary or Treasurer.
 
-## Article 11 – Réunions du Conseil
+## Article 11 – Board meetings
 
-Le Conseil se réunit au moins trois fois par an et chaque fois qu’il est convoqué par son Président ou sur demande de la moitié de ses membres. Il ne peut délibérer valablement que si la moitié au moins de ses membres sont présents.
+The Board meets at least three times a year, and whenever convened by its President or at the request of half its members. It may validly deliberate only if at least half its members are present.
 
-Les décisions sont prises à la majorité des membres présents ; en cas de partage, la voix du Président est prépondérante.
+Decisions are taken by a majority of members present. In the event of a tie, the President has a casting vote.
 
-## Article 12 – Gratuité du mandat
+## Article 12 – Unpaid service
 
-Les membres de l’Association ne peuvent recevoir aucune rétribution à raison des fonctions qui leur sont conférées.
+Members of the Association may not receive remuneration for the duties entrusted to them.
 
-## Article 13 – Pouvoirs du Conseil d’Administration
+## Article 13 – Powers of the Board of Directors
 
-Le Conseil d’Administration est investi des pouvoirs les plus étendus pour autoriser tous les actes qui ne sont pas expressément réservés à l’Assemblée Générale.
+The Board of Directors has the broadest powers to authorise all actions not expressly reserved for the General Meeting.
 
-Il dirige et supervise les activités de l’Association.
+It directs and supervises the Association's activities.
 
-Il surveille la gestion des membres du Bureau et a le droit de faire rendre compte de leurs actes.
+It oversees the management of Executive Committee members and may require them to account for their actions.
 
-Il décide de l’admission des membres et de leur radiation et s’acquitte de toutes les autres missions qui lui sont attribuées par les présents statuts ou par l’Assemblée.
+It decides on the admission and removal of members and carries out all other duties assigned to it by these statutes or by the General Meeting.
 
-Il a pour charge de trouver au moins deux candidats par poste au Conseil à renouveler.
+It is responsible for finding at least two candidates for each Board position due for renewal.
 
-Il autorise tout achat, aliénation ou location, emprunt et prêt nécessaire au fonctionnement de l’Association.
+It authorises any purchase, disposal, rental, borrowing or lending necessary for the Association's operations.
 
-Cette énumération n’est pas limitative.
+This list is not exhaustive.
 
-Il peut faire toute délégation de pouvoirs pour une question déterminée et un temps limité. Tout membre du Conseil qui, sans excuse, n’aura pas assisté à trois réunions consécutives, pourra être considéré comme démissionnaire.
+It may delegate powers for a specific matter and a limited period. Any Board member who, without an excuse, fails to attend three consecutive meetings may be deemed to have resigned.
 
-## Article 14 – Rôle des membres du Bureau
-Président : Le Président convoque les assemblées générales et les réunions du Conseil d’Administration.
+## Article 14 – Duties of Executive Committee members
 
-Il représente l’Association dans tous les actes de la vie civile et est investi de tout pouvoir à cet effet.
+President: The President convenes General Meetings and meetings of the Board of Directors.
 
-Il a notamment qualité pour ester en justice au nom de l’Association tant en demande qu’en défense
+The President represents the Association in all civil matters and has full authority for this purpose.
 
-En cas d’absence ou de maladie, il est remplacé par tout autre membre spécialement délégué par le Conseil.
+In particular, the President may bring and defend legal proceedings on behalf of the Association.
 
-Secrétaire : Le Secrétaire est chargé de tout ce qui concerne la correspondance et les archives. Il tient le registre spécial, prévu par la loi, et assure l’exécution des formalités prescrites.
+In the event of absence or illness, the President is replaced by another member specifically appointed by the Board.
 
-Trésorier : Le trésorier est chargé de tout ce qui concerne la gestion du patrimoine de l’Association
+Secretary: The Secretary is responsible for correspondence and archives, maintains the special register required by law, and ensures that prescribed formalities are completed.
 
-Il effectue tout paiement et perçoit toute recette sous la surveillance du Président.
+Treasurer: The Treasurer is responsible for managing the Association's assets.
 
-Les achats et ventes de valeurs immobilières pouvant constituer un fond de réserve sont effectués avec l’autorisation du Conseil d’Administration.
+The Treasurer makes all payments and collects all income under the President's supervision.
 
-Il tient une comptabilité régulière de toutes les opérations et rend compte à l’assemblée annuelle qui statue sur la gestion.
+Purchases and sales of real estate assets that may constitute a reserve fund require authorisation from the Board of Directors.
 
-Toutefois, les dépenses supérieures à une somme fixée par le règlement intérieur doivent être ordonnancées par le Président ou, à défaut, en cas d’empêchement par tout autre membre du Bureau.
+The Treasurer keeps regular accounts of all transactions and reports to the annual General Meeting, which decides on their management.
 
-En cas d’empêchement du Trésorier, le Président peut remplir directement toute fonction dévolue à celui-ci ou les confier au Secrétaire.
+However, expenditure exceeding an amount set by the internal rules must be authorised by the President or, if the President is unavailable, by another Executive Committee member.
 
-## Article 15 - Règlement intérieur
+If the Treasurer is unavailable, the President may directly perform any of the Treasurer's duties or assign them to the Secretary.
 
-Un règlement intérieur élaboré par le Conseil d’Administration déterminera les conditions d’application et complétera les présents statuts. Il sera soumis à la ratification de l’Assemblée Générale et ne pourra être modifié qu’avec son approbation.
+## Article 15 – Internal rules
 
-L’adhésion aux statuts comportera de plein droit d’adhésion au règlement intérieur.
+Internal rules drawn up by the Board of Directors will determine how these statutes are applied and supplement them. They will be submitted to the General Meeting for ratification and may be amended only with its approval.
 
-## Article 16 – Assemblée Générale
+Acceptance of the statutes automatically entails acceptance of the internal rules.
 
-L’Assemblée Générale de l’Association se compose de tous les membres.
+## Article 16 – General Meeting
 
-Elle se réunit à tout endroit fixé par le Conseil d’Administration et au moins une fois par an, à la date fixée par le Conseil et chaque fois que celui-ci le juge utile. Elle se réunit également à la demande du quart au moins des membres ; dans ce dernier cas, la réunion doit avoir lieu dans les deux mois qui suivent la demande adressée au Conseil.
+The General Meeting of the Association comprises all members.
 
-Dans tous les cas, les convocations sont faites au moins 10 jours à l’avance par lettre individuelle indiquant sommairement l’objet de la réunion.
+It meets at a location chosen by the Board of Directors at least once a year, on a date set by the Board, and whenever the Board considers it useful. It also meets at the request of at least one quarter of the members; in this case, the meeting must take place within two months of the request being sent to the Board.
 
-L’ordre du jour est arrêté par le Conseil d’Administration, lequel doit y inclure toute question présentée par un membre de l’Association.
+In all cases, notice is given at least ten days in advance by an individual letter briefly stating the purpose of the meeting.
 
-L’assemblée Générale est présidée par le Président du Conseil d’Administration. Son Bureau est celui du Conseil.
+The agenda is set by the Board of Directors, which must include any matter submitted by a member of the Association.
 
-Les décisions sont prises à la majorité des membres présents ou représentés. Ne sont admis au vote que les membres ayant rempli leurs obligations vis-à-vis de l’Association. En cas de partage, la voix du Président est prépondérante.
+The General Meeting is chaired by the President of the Board of Directors. Its Executive Committee is that of the Board.
 
-Le Bureau soumet chaque année à l’Assemblée Générale un rapport sur la situation morale et financière de l’Association.
+Decisions are taken by a majority of members present or represented. Only members who have fulfilled their obligations to the Association may vote. In the event of a tie, the President has a casting vote.
 
-L’Assemblée Générale approuve les comptes de l’exercice clos, fixe le montant de la cotisation pour l’exercice suivant, ainsi que le budget de cet exercice suivant, pourvoit au renouvellement des membres du Conseil d’Administration et délibère sur toutes questions qui sont portées à son ordre du jour par le Conseil d’Administration.
+Each year, the Executive Committee submits a report on the Association's activities and financial position to the General Meeting.
 
-Il est tenu procès-verbal des délibérations et des votes de l’Assemblée Générale.
+The General Meeting approves the accounts for the financial year just ended, sets the membership fee and budget for the following financial year, elects members to renew the Board of Directors, and deliberates on all matters placed on its agenda by the Board.
 
-Lorsqu’il s’agira de modifier les statuts de l’Association, de prononcer sa dissolution, sa fusion ou son union avec d’autres associations ou de modifier les dispositions du règlement intérieur définies expressément comme assujetties aux stipulations du présent alinéa, une Assemblée Générale Extraordinaire devra être convoquée. Au moins un tiers des membres adhérents devront être présents ou représentés pour la validité des délibérations de cette Assemblée Générale Extraordinaire.
+Minutes are kept of the General Meeting's deliberations and votes.
 
-Si, sur une première convocation, l’Assemblée n’a pu réunir ce nombre de membres, il pourra être convoqué, à quinze jours au moins d’intervalle, une deuxième Assemblée Générale Extraordinaire, laquelle délibérera valablement quel que soit le nombre des membres présents ou représentés. Dans tous les cas, les statuts ne peuvent être modifiés qu’à la majorité des deux tiers des membres présents ou représentés. Le règlement intérieur fixe les conditions de représentations.
+An Extraordinary General Meeting must be convened to amend the Association's statutes, dissolve it, merge or unite it with other associations, or amend provisions of the internal rules expressly subject to this paragraph. At least one third of subscribing members must be present or represented for the Extraordinary General Meeting to deliberate validly.
 
-## Article 17 - Dissolution du conseil
+If the first meeting does not reach this quorum, a second Extraordinary General Meeting may be convened at least fifteen days later and may validly deliberate regardless of the number of members present or represented. In all cases, statutes may be amended only by a two-thirds majority of members present or represented. The internal rules determine the conditions for representation.
 
-Si, l’Assemblée est en désaccord avec la gestion du Conseil, celui-ci est dissous. Le président précédent celui du Conseil dissous s’adjoint deux membres pour assurer l’intérim et organiser l’élection d’un nouveau bureau dans un délai de deux mois à dater de la dissolution du Conseil.
+## Article 17 – Dissolution of the Board
 
-## Article 18 - Procès-verbaux
+If the General Meeting disagrees with the Board's management, the Board is dissolved. The President who preceded the dissolved Board's President appoints two members to assist with interim management and organise the election of a new Executive Committee within two months of the Board's dissolution.
 
-Les procès-verbaux des délibérations des Assemblées sont transcrits par le Secrétaire sur un registre et signés du Président et d’un membre du Bureau présent à la délibération. Le Secrétaire peut délivrer toutes copies certifiées conformes qui font foi vis-à-vis des tiers.
+## Article 18 – Minutes
 
-## Article 19 - Dissolution de l'Association
+Minutes of General Meetings are entered in a register by the Secretary and signed by the President and an Executive Committee member present at the deliberations. The Secretary may issue certified copies, which serve as evidence for third parties.
 
-La dissolution de l’Association ne peut être prononcée que par l’Assemblée Générale Extraordinaire convoquée spécialement à cet effet.
+## Article 19 – Dissolution of the Association
 
-L’Assemblée Générale Extraordinaire désigne un ou plusieurs commissaires chargés de la liquidation des biens de l’association dont elle déterminera les pouvoirs.
+The Association may be dissolved only by an Extraordinary General Meeting convened specifically for that purpose.
 
-Elle attribue l’effectif net à toute association déclarée ayant un objet similaire ou à tout établissement public ou association reconnue d’utilité publique, de son choix, sous réserve des dispositions prévues à l’article 15 du décret du 16 août 1901.
+The Extraordinary General Meeting appoints one or more commissioners to liquidate the Association's assets and determines their powers.
 
-## Article 20 - Formalités
+It allocates the net assets to a registered association with a similar purpose, a public institution or an association recognised as serving the public interest, of its choice, subject to Article 15 of the Decree of 16 August 1901.
 
-Le Président, au nom du Conseil d’Administration, est chargé de remplir toutes les formalités de déclaration et de publication prescrites par la législation en vigueur. Tout pouvoir est donné au porteur des présentes à l’effet d’effectuer ces formalités.
+## Article 20 – Formalities
+
+On behalf of the Board of Directors, the President is responsible for completing all declaration and publication formalities required by current legislation. Full authority is granted to the bearer of these statutes to carry out those formalities.
 
 ## Article 21
 
-Si les dispositions législatives actuelles réglementant les associations viennent à être modifiées, le bénéfice des lois modificatrices sera acquis de plein droit à la présente association.
+If the current legislation governing associations is amended, the benefits of the amending laws will automatically apply to this Association.
 
-Fait à Palaiseau le 12 novembre 1998,
+Drawn up in Palaiseau on 12 November 1998,
 
-Yannik Hoppilliard, Présidente
+Yannik Hoppilliard, President
 
-Jeanine Tortajada, Trésorière
+Jeanine Tortajada, Treasurer
 
-Modifié en AG extraordinaire le 19 septembre 2012
+Amended at the Extraordinary General Meeting of 19 September 2012
 
-Guillaume van der Rest, Président
+Guillaume van der Rest, President
 
-Joëlle Vinh, Trésorière
+Joëlle Vinh, Treasurer
 
-
-Dernière mise à jour le 29 Janvier 2015.
+Last updated on 29 January 2015.
 
 {{< /brick_wide >}}

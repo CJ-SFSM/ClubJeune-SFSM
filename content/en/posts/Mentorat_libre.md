@@ -1,26 +1,23 @@
 ---
-title: Mentorat libre pour l'année 2025/2026
+title: Open mentoring for 2025/2026
 image: /uploads/actualite/Mentorat_libre.png
 date: 2025-12-17
-tags: 
-  - Mentorat
---- 
+tags:
+  - Mentoring
+slug: mentorat-libre-pour-lannée-2025/2026
+---
 
 ![](/uploads/actualite/Mentorat_libre.png)
 
-## Mentorat en binôme 2025/2026
+## Open mentoring 2025/2026
 
-Nous avons le plaisir de vous présenter le **Mentorat Libre**. C'est une alternative au Mentorat en binôme que nous vous avons présenté le mois dernier. Vous pouvez vous rendre [ici](/mentorat/) pour découvrir ou redécouvrir le mentorat en binôme.
+We are pleased to introduce **Open Mentoring**, an alternative to the paired mentoring programme presented last month. You can learn more about paired mentoring [here](/mentorat/).
 
-Le Mentorat Libre fonctionne de la manière suivante, les Sénior.e.s de la SFSM souhaitant y participer peuvent nous envoyer leur CV sur notre email :  clubjeunesm@gmail.com 
-Ensuite, le CJSM se charge de la rendre accessible à la jeune communauté. Les jeunes membres, auront la possibilité de les lire pour choisir avec qui ils où elles souhaitent communiquer par email.
+SFSM senior members who would like to take part in Open Mentoring can send their CV to clubjeunesm@gmail.com.
+The CJSM will then make it available to the young scientists' community. Young members can read the CVs and choose whom they would like to contact by email.
 
-Le contact est ponctuel et le ou la Sénior.e peut indiquer un nombre limité de message par mois (par exemple 1, 2, 3, 10... 50). Chaque mois le conteur est remis à zéro. 
+Contact is occasional. Senior members can specify a maximum number of messages per month (for example, 1, 2, 3, 10… or 50). The counter resets each month.
 
-Vous pouvez consulter la marche à suivre à partir de ce [pdf](/uploads/pdf/Presentation_Mentorat_Libre_Recto-VersoFR.pdf) pour comprendre comment la plateforme [Eventbrite](https://www.eventbrite.com/e/mentorat-libre-du-cjsm-tickets-1397162122519?aff=oddtdtcreator) nous permet de gérer le système de mise en relation entre Sénior.e.s et Junior.e.s. 
+Read the instructions in this [English PDF](/uploads/pdf/Free_Mentorship_introduction_EN.pdf) to find out how we use [Eventbrite](https://www.eventbrite.com/e/mentorat-libre-du-cjsm-tickets-1397162122519?aff=oddtdtcreator) to connect senior and junior members.
 
-Nous vous ferons une démonstration du fonctionnement du système **le Lundi 5 Janvier à 12h15**, lors de notre Webinaire.
-
-
-
-
+We will demonstrate the system during our webinar on **Monday 5 January at 12:15**.

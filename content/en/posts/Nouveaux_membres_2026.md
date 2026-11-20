@@ -1,24 +1,22 @@
 ---
-title: Election des nouveaux membres du CA CJSM 2026
+title: Election of new CJSM board members for 2026
 image: /uploads/actualite/new_member_2026.png
 date: 2026-07-11
-tags: 
---- 
+tags:
+slug: election-des-nouveaux-membres-du-ca-cjsm-2026
+---
 
 ![](/uploads/actualite/new_member_2026.png)
 
-## Election CJSM
+## CJSM election
 
-Nous avons le plaisir de vous dévoiler nos deux nouveaux membres du CA du CJSM pour l'année 2026-2027.
+We are pleased to introduce two new members of the CJSM board for 2026–2027.
 
-Vous avez été nombreuses et nombreux à participer aux votes. Nous vous remercions pour votre contribution et faire vivre le CJSM.</p>
+Many of you took part in the vote. Thank you for contributing and keeping the CJSM active.
 
+## New board members
 
-## Nouveaux membres du CA
+The Balotilo vote produced the following results:
 
-Les urnes de Batolito nous montre les résultats suivants : 
-- Aya Fakih est représentée pour le rôle de secrétaire. 
-- Valentin Hottlet est représenté le Pôle Numérique. 
-
-
-
+- Aya Fakih was elected Secretary.
+- Valentin Hottlet was elected to the Digital team.

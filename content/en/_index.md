@@ -1,96 +1,92 @@
 ---
-title: Accueil
+title: Home
 ---
 {{< brick_intro >}}
 
-# Bienvenue sur le site du Club Jeune de la Société Française de Spectrométrie de Masse
+# Welcome to the Young Scientists' Club of the French Society for Mass Spectrometry
 {{< /brick_intro >}}
 
 {{< brick_intro >}}
-Le **CJSM** est un collectif de jeunes chercheur·es qui promeut les échanges, le mentorat et la visibilité des travaux en spectrométrie de masse.
+The **CJSM** is a community of young researchers promoting discussion, mentoring and the visibility of research in mass spectrometry.
 
-{{< button "Découvrir le bureau" "/team/" >}}
+{{< button "Meet the board" "/team/" >}}
 
 ![](/uploads/illustrations/Logo_CJSM_HD_black.svg)
-
 
 {{< /brick_intro >}}
 
 {{< brick_title >}}
 ---
-## Nos sponsors & Partenaires en 2025
+## Our sponsors & partners in 2025
 ---
 {{< /brick_title >}}
 
 {{< brick_intro >}}
-Nous remercions les sponsors d'apporter un soutien financier à nos journées annuelles du club jeune qui ont eu lieu l’Île de Loisirs des Boucles de Seine à Moisson en mars 2026.
-Vous pouvez nous sponsoriser pour d'autres activités (Webinaires) ou pour les années à venir. Pour cela, rendez-vous au formulaire disponible [ici](/sponsoring/). 
+We thank our sponsors for their financial support for our annual Young Scientists' Club meeting, held at the Île de Loisirs des Boucles de Seine in Moisson in March 2026.
+You can sponsor our other activities, such as webinars, or support us in future years. Please use the form available [here](/sponsoring/).
 {{< /brick_intro >}}
 
 {{< gallery_sponsors2026 dir="/uploads/sponsors2026/" >}}
 
 {{< brick_image2 >}}
 
-## Nos objectifs
+## Our goals
 
 ![](/uploads/illustrations/goal.svg)
 
-Notre mission est simple et ambitieuse : créer du lien, soutenir les jeunes professionnel·les de la discipline, et encourager des démarches collectives et ouvertes.
+Our mission is simple and ambitious: to build connections, support young professionals in the field, and encourage open, collaborative initiatives.
 
-- Création d’un réseau de jeunes scientifiques
-- Organisation de webinaires et événements
-- Mise en place de mentorat intergénérationnel
-- Partage d’opportunités de carrière
-- Promotion d’une science collaborative
+- Build a network of young scientists
+- Organise webinars and events
+- Develop mentoring across generations
+- Share career opportunities
+- Promote collaborative science
 
 {{< /brick_image2 >}}
 
 {{< brick_image >}}
 
-## Ce que nous construisons ensemble
+## What we build together
 
 ![](/uploads/illustrations/team.svg)
 
+The CJSM brings together initiatives led by the young mass spectrometry community. We grow through our members' energy and creativity: join us!
 
-Le CJSM est un lieu d’initiatives porté par la jeune communauté en spectrométrie de masse. Nous évoluons avec l'énergie et la créativité de nos membres : rejoignez-nous !
-
-[Contactez-nous](/contact/)
+[Contact us](/contact/)
 {{< /brick_image >}}
-
 
 {{< brick_features >}}
 
-## Pourquoi rejoindre le CJSM ?
+## Why join the CJSM?
 {{< brick_intro >}}
-Un club pour les jeunes scientifiques, pensé par eux, avec eux. Chaque année, nous organisons des évènements. Ces évènements sont à un rythme mensuels, tels que les webinaires, le programme est disponible [ici](/blog/nos-webinaire-le-retour-en-2025-et-2026/) ainsi que les Journées Scientifiques du Club Jeune qui ont lieu chaque année. Vous trouverez la perspective des Journées Scientifiques [ici](/chiffres/) 
+A club for young scientists, designed by and with them. We organise events throughout the year, including monthly webinars, with the programme available [here](/blog/nos-webinaires-le-retour-en-2025-et-2026/), and the annual Young Scientists' Club Scientific Meeting. Explore the history of our annual meetings [here](/chiffres/).
 {{< /brick_intro >}}
 ---
 
 ![](/uploads/icons/teamwork.svg)
-### Une communauté dynamique
+### A vibrant community
 
-Rejoignez un réseau de jeunes impliqué·es dans la valorisation des approches analytiques et omiques.
+Join a network of young scientists committed to promoting analytical and omics approaches.
 
 ---
 
 ![](/uploads/icons/step-up.svg)
-### Mentorat & accompagnement
+### Mentoring & support
 
-Un programme de mentorat pour s’inspirer, partager, et se développer scientifiquement et humainement.
+A mentoring programme to find inspiration, share experiences and grow both scientifically and personally.
 
 ---
 
 ![](/uploads/icons/idea.svg)
-### Valorisation de vos projets
+### Showcasing your projects
 
-Le CJSM met en lumière vos thèses, publications, conférences et idées.
+The CJSM highlights your theses, publications, conference presentations and ideas.
 
 ---
 
 ![](/uploads/icons/development.svg)
-### Développement professionnel
+### Professional development
 
-Partage d’offres d’emploi, formations, et occasions de visibilité pour les jeunes chercheurs.
+Sharing job openings, training and opportunities for young researchers to raise their profile.
 
 {{< /brick_features >}}
-

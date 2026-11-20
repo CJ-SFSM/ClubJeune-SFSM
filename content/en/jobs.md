@@ -1,11 +1,11 @@
 ---
-title: "Offres d’emploi"
+title: Job opportunities
 ---
 {{< brick_wide >}}
 {{< breadcrumbs >}}
 
-# Offre d'emploi
+# Job opportunities
 
-Nous informons nos membres des offres d'emploi qui nous sont communiquées. La liste disponible est couramment mise à jour.
+We share job opportunities sent to us with our members. The list is updated regularly.
 {{< jobs-table >}}
 {{< /brick_wide >}}

@@ -1,78 +1,78 @@
 - name: Nathan TRAULLÉ
-  function: Président
+  function: President
   image: /uploads/trombi/Nathan_2026.png
   description: LCP-A2MC (Metz)
   email: nathan.traulle@univ-lorraine.fr
   phone:
-  linkedin: 
+  linkedin:
   website:
 - name: Gauthier ROSÉ
-  function: Président-Conseil
+  function: Advisory President
   image: /uploads/trombi/Gauthier.jpg
-  description:  Hermès (Pantin)             
+  description:  Hermès (Pantin)
   email: gauthier.rose@mnhn.fr
   phone:
-  linkedin: 
+  linkedin:
   website:
   variant: council
 - name: Carla ORLANDI
-  function: Vice-Présidente
+  function: Vice-President
   image: /uploads/trombi/Carla.png
   description: INRAE TOXALIM, MTH-Metatoul-AXIOM
   email: carla.orlandi@inrae.fr
   phone:
-  linkedin: 
+  linkedin:
   website:
 - name: Sarah ALILAT
-  function: Trésorière
+  function: Treasurer
   image: /uploads/trombi/CJ-2026-2027/Tresorier.png
-  description: 
-  email: 
+  description:
+  email:
   phone:
-  linkedin: 
+  linkedin:
   website:
 - name: Aya FAKIH
-  function: Secrétaire
+  function: Secretary
   image: /uploads/trombi/CJ-2026-2027/Aya.jpg
-  description: 
-  email: 
+  description:
+  email:
   phone:
-  linkedin: 
+  linkedin:
   website:
 - name: Rania BENAZZA
-  function: Responsable Diffusion et Réseaux
+  function: Communications and Networking Officer
   image: /uploads/trombi/Rania.jpg
   description: INRAE, Nantes
   email: rania.benazza@inrae.fr
   phone:
-  linkedin: 
+  linkedin:
   website:
 - name: Alix MUNOZ
-  function: Responsable Relations Industrielles et Académiques 
+  function: Industry and Academic Relations Officer
   image: /uploads/trombi/Alix.jpg
   description: Laboratoire Central de la Préfecture de Police (LCPP), Spectrométrie de Masse Biologique et Protéomique (SMBP, ESPCI)
   email: alix.munoz@espci.fr
   phone:
   linkedin:
-  website: 
+  website:
 - name: Isabelle FABRIZI
-  function: Adjointe Relations Industrielles et Académiques
+  function: Deputy Industry and Academic Relations Officer
   image: /uploads/trombi/Isabelle.png
   description: Miniaturisation pour la Synthèse, l’Analyse et la Protéomique (MSAP), UAR CNRS 3290, Université de Lille
   email: isabelle.fabrizi.etu@univ-lille.fr
   phone:
   linkedin:
-  website: 
+  website:
 - name: Marie VALMORI
-  function: Responsable Numérique
+  function: Digital Officer
   image: /uploads/trombi/VALMORIMarie.jpg
   description: CEA Saclay, service SPI, Laboratoire LI-MS, Université Paris-Saclay
   email: marie.valmori@cea.fr
   phone:
   linkedin:
-  website: 
+  website:
 - name: Valentin HOTTLET
-  function: Adjoint Numérique
+  function: Deputy Digital Officer
   image: /uploads/trombi/CJ-2026-2027/Valentin.jpg
   description: Université de Lille
   email: valentin.hottlet@univ-lille.fr

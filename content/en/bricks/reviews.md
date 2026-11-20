@@ -1,9 +1,8 @@
 ---
-title: Thèses soutenues
+title: Completed PhD theses
 ---
 
-## Les thèses soutenues
+## Completed PhD theses
 
-Si vous souhaitez apparaître dans cette liste, n’hésitez pas à indiquer au Club Jeune les informations concernant votre thèse !
-Il nous faut votre Prénom, Nom, Affiliation et date de soutenance. Vous pouvez nous l'envoyer directement par mail à l'adresse **clubjeunesm@gmail.com**.
-
+If you would like to appear in this list, please send the Young Scientists' Club your thesis details!
+We need your first name, surname, affiliation and defence date. Email them directly to **clubjeunesm@gmail.com**.

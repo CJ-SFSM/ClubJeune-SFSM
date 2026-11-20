@@ -1,17 +1,14 @@
 ---
-title: Contactez-nous
+title: Contact us
 ---
 
 {{< brick_wide >}}
 {{< breadcrumbs >}}
 
-# Contactez-nous
+# Contact us
 
-Vous avez la possibilité de nous contacter à l'adresse clubjeunesm@gmail.com. 
+You can contact us at clubjeunesm@gmail.com.
 
-Si vous êtes interessés par le **dispositif d'écoute et de soutien**, vous pouvez nous contacter à l'adresse  cocon.dispositifecoute.sfsm@gmail.com
-
-
-
+If you are interested in the **listening and support programme**, please contact cocon.dispositifecoute.sfsm@gmail.com.
 
 {{< /brick_wide>}}

@@ -1,12 +1,12 @@
 ---
-title: Actualités
+title: News
 ---
 {{< brick_posts >}}
 
 {{< breadcrumbs >}}
 
-# L'actualité du CJSM
+# CJSM news
 
-Nous mettons à jour notre site internet afin que vous ayez une actualité en continu de nos activités proposées.
+We keep our website updated so you can follow our latest activities.
 
 {{< /brick_posts >}}

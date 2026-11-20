@@ -1,50 +1,48 @@
 ---
-title: Mentorat
+title: Mentoring
 ---
 
 {{< brick_wide >}}
 {{< breadcrumbs >}}
 
+# Mentoring offered by the CJSM
 
-# Le mentorat que le CJSM propose
+## About paired mentoring
 
-## Présentation du mentorat en binôme
- 
-Ce programme a pour objectif de réunir les membres CJSM et SFSM ensemble, afin de permettre aux jeunes chercheurs d’être guidés et conseillés dans leur début de carrière. 
+This programme brings CJSM and SFSM members together to provide young researchers with guidance and advice at the start of their careers.
 
-Dans ce cadre, les mentors et mentorés participants seront liés par binômes, et supervisés par un référent au sein du CJSM qui les guidera tout au long du programme. 
+Participating mentors and mentees are paired and supported by a CJSM coordinator who guides them throughout the programme.
 
-**Qu’est-ce qu’un mentor :**
+**What is a mentor?**
 
-<u>Un mentor possède un rôle de conseiller pour le mentoré</u> : il restitue son expérience au jeune chercheur afin de lui permettre de prendre des décisions relatives à sa carrière et ses recherches, dans un cadre informel et privilégié. Que vous interveniez dans un contexte académique et/ou privé, votre point de vue est précieux !  S’il constate des problèmes dans le travail de recherche du mentoré ou ses relations professionnelles, il peut signaler la situation et conseiller, ou en discuter avec le référent CJSM qui prendra des mesures si nécessaire. Le contexte du mentorat n’implique jamais une ingérence personnelle dans le travail du mentoré. 
+<u>A mentor acts as an adviser to the mentee</u>: they share their experience with a young researcher to help them make decisions about their career and research in an informal, supportive setting. Whether you work in academia or industry, your perspective is valuable! If a mentor notices problems in the mentee's research or professional relationships, they can raise the issue and offer advice, or discuss it with the CJSM coordinator, who will take action if needed. Mentoring never involves personally intervening in the mentee's work.
 
-<u>Un mentor n’a pas le rôle du CSI pour un doctorant</u> : il doit assister le mentoré dans sa démarche à long terme et la construction de son projet de recherche. Les contacts avec le mentor sont également plus fréquents et informels que ce qui est attendu pour un CSI et sont centrés sur les besoins du mentoré plus que son travail.
+<u>A mentor does not replace a PhD student's individual monitoring committee (CSI)</u>: they support the mentee's long-term development and research plans. Contact with a mentor is also more frequent and informal than with a CSI, focusing on the mentee's needs rather than their work.
 
-<u>Un mentor n’a pas le rôle du directeur de recherche</u> : il ne peut pas prendre de décisions pour le mentoré dans son laboratoire, ou ingérer directement dans son travail. Ses conseils restent toujours bienvenus, son expérience étant précieuse pour le mentoré.
+<u>A mentor does not act as a research supervisor</u>: they cannot make decisions on behalf of the mentee within their laboratory or intervene directly in their work. Their advice is always welcome, as their experience is valuable to the mentee.
 
-## Les points clés à retenir
+## Key points
 
-[Consultez la plaquette](/uploads/pdf/Presentation_mentorat_Recto-Verso_FR.pdf) pour connaître toutes les informations relatives au mentorat du CJSM.
+[Read the brochure (in French)](/uploads/pdf/Presentation_mentorat_Recto-Verso_FR.pdf) for full details of CJSM mentoring.
 
-### Les quatre pilliers du mentorat CJSM
+### The four pillars of CJSM mentoring
 
 ![](/uploads/illustrations/logo_mentorat_pilliers.svg)
 
-### Définition des acteurs
+### Who takes part?
 
+- **Mentors** share their experience and knowledge with less experienced people.
+- **Mentees** are CJSM members (under 35 or within five years of completing their PhD) who would like mentoring support.
 
-- **Mentor** : partagent leurs expériences et connaissances avec des personnes moins expérimentées. 
-- **Mentorés** : membres du CJSM (moins de 35 ans ou maximum 5 ans après la thèse) qui souhaitent être parrainés.
-
-La relation est basée sur le volontariat des 2 parties. 
+Both parties take part voluntarily.
 
 ![](/uploads/illustrations/relation.svg)
 
-### Intérêts pour chacune des parties
+### Benefits for both parties
 
 ![](/uploads/illustrations/Interet_mentorat.svg)
 
-### Planning du programme Mentorat CJSM 2025-2026
+### CJSM mentoring programme schedule for 2025–2026
 
 ![](/uploads/illustrations/Planning_mentorat_2025-2026.svg)
 

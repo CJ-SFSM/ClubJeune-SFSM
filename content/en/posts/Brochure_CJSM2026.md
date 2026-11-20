@@ -1,22 +1,24 @@
 ---
-title: Brochure commune inter Clubs Jeune
+title: Joint brochure from the Young Scientists' Clubs
 image: /uploads/actualite/Clubs_Brochures_20226.png
 date: 2026-10-19
-tags: 
---- 
+tags:
+slug: brochure-commune-inter-clubs-jeune
+---
 
-## Communication de la brochure commune 
+## Introducing our joint brochure
 
-Certain·es d'entre vous l'auront peut-être vu à l'IMSC 2026 à Lyon ou encore à l'ISC à Prague entre fin août et début septembre. Nous vous présentons notre première Brochure Commune Inter-CJ ! 
+Some of you may have seen it at IMSC 2026 in Lyon or ISC in Prague between late August and early September. Here is our first joint brochure from the Young Scientists' Clubs!
 
-Avec nos homologues du CJ-ccCTA en Suisse, du CJ-AFSEP, du RFMF Junior et du CJ-FPS, nous avons créé une brochure dans laquelle vous trouverez toutes les informations liées aux différents domaines abordés par nos associations tels que :
-- L'objectif ainsi que les thématiques abordées
-- Les activités de chaque association
-- Les modalités d'inscription
-- Les canaux de diffusion
+Together with our counterparts at CJ-ccCTA in Switzerland, CJ-AFSEP, RFMF Junior and CJ-FPS, we have created a brochure containing information about the different fields covered by our associations, including:
 
-## Accès à la brochure 
+- Our aims and topics
+- Each association's activities
+- How to join
+- Our communication channels
 
-Vous trouverez une version en anglais, [ici](/uploads/pdf/Brochure_2026/CJSM_BrochureInterCJ_ENnum.pdf), et en français, [ici](/uploads/pdf/Brochure_2026/CJSM_BrochureInterCJ_FRNum.pdf).
+## Read the brochure
 
-Nous mettons à disposition un [lien](https://forms.gle/gmDYXzFpsaRWP7MCA) vous permettant de nous faire part de vos différentes remarques pour l'améliorer.
+You can find the [English version here](/uploads/pdf/Brochure_2026/CJSM_BrochureInterCJ_ENnum.pdf) and the [French version here](/uploads/pdf/Brochure_2026/CJSM_BrochureInterCJ_FRNum.pdf).
+
+Please use this [feedback form](https://forms.gle/gmDYXzFpsaRWP7MCA) to share your suggestions for improving it.

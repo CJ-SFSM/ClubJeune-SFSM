@@ -1,15 +1,14 @@
 ---
-title: "Formulaire partenariat Club Jeune SFSM"
+title: SFSM Young Scientists' Club partnership form
 ---
 {{< brick_wide >}}
 {{< breadcrumbs >}}
 
-# Nous sponsoriser
+# Sponsor us
 
+We organise events throughout the year for the community of young mass spectrometrists. We rely on your financial support to offer a week of scientific meetings, webinars, mentoring and more. The form below details our flexible sponsorship options.
 
-Nous organisons tout au long de l'année plusieurs évènements pour animer des évènements dédiés à la communauté de jeunes massistes. Pour pouvoir organiser une semaine de rencontres scientifiques, des webinaires, du mentorat et autres nous comptons sur votre soutien financier. Nous proposons une formule de sponsoring à la carte détaillée dans ce formulaire.
-
-Lorsque vous aurez choisi votre formule, veuillez-nous envoyer le récapitulatif de vos choix à l'adresse sponsors.cjsm@gmail.com. Nous vous recontacterons très rapidement.
+Once you have chosen your options, please send a summary to sponsors.cjsm@gmail.com. We will get back to you promptly.
 {{< /brick_wide >}}
 
 {{< brick_sponsoring >}}

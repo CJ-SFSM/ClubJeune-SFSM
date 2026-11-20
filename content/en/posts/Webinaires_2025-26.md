@@ -1,30 +1,32 @@
 ---
-title: Nos webinaires, le retour en 2025 et 2026
+title: Our webinars return in 2025 and 2026
 image: /uploads/actualite/webinaire.png
 date: 2025-09-28
-tags: 
-  - Evenement
+tags:
+  - Event
+slug: nos-webinaires-le-retour-en-2025-et-2026
 ---
 
 ![](/uploads/actualite/webinaire.png)
 
-## Nos webinaires 2025/2026
+## Our 2025/2026 webinars
 
-Nous sommes heureux de vous annoncer le lancement de notre nouvelle saison de webinaires.
-Le premier rendez-vous aura lieu le lundi 6 octobre 2025 entre 12h15 et 13h45 pour la session: **HRMS logiciels & stratégies** avec: 
+We are pleased to announce the launch of our new webinar season.
+The first session takes place on Monday 6 October 2025, from 12:15 to 13:45, on **HRMS software & strategies**, with:
 
-- Théo Voellinger qui présentera Punc'data, un outil polyvalent pour l'attribution de formules moléculaires, la visualisation interactive et la comparaison de données issues de la spectrométrie de masse haute résolution de mélanges complexes.
-- Thomas Flahou qui parlera de la caractérisation de la matière organique dissoute par HRMS et Autovectis.
+- Théo Voellinger presenting Punc'data, a versatile tool for molecular formula assignment, interactive visualisation and comparison of high-resolution mass spectrometry data from complex mixtures.
+- Thomas Flahou discussing the characterisation of dissolved organic matter using HRMS and Autovectis.
 
-Grande nouveauté cette année: En plus de nos formats habituels, nous proposerons des sessions spéciales animées par des intervenants externes, pour enrichir les discussions avec des perspectives inédites.
+New this year: alongside our usual formats, we will offer special sessions led by external speakers, bringing fresh perspectives to the discussion.
 
-Ces webinaires sont l'occasion idéale pour:
-- Découvrir des expertises variées
-- Poser vos questions en direct,
-- Partager vos expériences et élargir votre réseau.
+These webinars are an ideal opportunity to:
 
-N'hésitez pas à contacter le CJSM à l'adresse clubjeunesm@gmail.com si vous souhaitez intervenir lors d'un prochain webinaire ! 
+- Discover a range of expertise.
+- Ask questions live.
+- Share your experience and expand your network.
 
-Nous vous invitions à consulter le programme ci-dessous:
+Contact the CJSM at clubjeunesm@gmail.com if you would like to speak at a future webinar!
+
+Explore the programme below:
 
 ![](/uploads/actualite/webinaires_2026.png)

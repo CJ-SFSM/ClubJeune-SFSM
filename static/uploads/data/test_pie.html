@@ -1,3 +1,4 @@
+<script src="../../js/embedded-language.js"></script>
 <script>
 
 document.addEventListener("DOMContentLoaded", function () {
@@ -65,7 +66,7 @@ document.addEventListener("DOMContentLoaded", function () {
         type: "pie",
       },
       title: {
-        text: title,
+        text: window.translateEmbeddedLabel(title),
       },
       tooltip: {
         pointFormat: '<b>{point.name}</b>: {point.y} ({point.percentage:.1f}%)',
@@ -84,7 +85,7 @@ document.addEventListener("DOMContentLoaded", function () {
       series: [
         {
           colorByPoint: true,
-          data: data,
+          data: data.map(point => ({ ...point, name: window.translateEmbeddedLabel(point.name) })),
         },
       ],
     });
@@ -124,4 +125,3 @@ document.addEventListener("DOMContentLoaded", function () {
 <div id="chart-domains" style="width: 600px; height: 400px; margin: 20px auto;"></div>
 
 </html>
-  

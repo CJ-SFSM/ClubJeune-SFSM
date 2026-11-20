@@ -1,61 +1,61 @@
 logo_image:
-logo_subtitle: Club Jeune de la SFSM
+logo_subtitle: SFSM Young Scientists' Club
 dark_header: true
 mobile_view_width: 1100
 menuitems:
-  - title: Accueil
+  - title: Home
     link: /#top
-  - title: Actualités
+  - title: News
     link: /blog/
-  - title: Bureau
+  - title: Board
     link: /team/
-    items: 
-      - title: Bureau actuel
+    items:
+      - title: Current board
         link: /team/
-      - title: Anciens bureaux
+      - title: Former boards
         link: /old_bureau/
-  - title: "Le CJSM"
+  - title: "About the CJSM"
     link: "/chiffres/"
     items:
-      - title: "Le CJSM en chiffres"
+      - title: "The CJSM in numbers"
         link: "/chiffres/"
-      - title: "Thèses soutenues"
+      - title: "Completed PhD theses"
         link: "/theses_soutenues/"
-      - title: "Adhésion"
+      - title: "Membership"
         link: "/adhesion/"
-  - title: "Nos actions"
+  - title: "Our activities"
     link: "/our-services/"
     items:
-      - title: "Webinaires"
+      - title: "Webinars"
         link: "/webinaires/"
-      - title: "Mentorat"
+      - title: "Mentoring"
         link: "/mentorat/"
-      - title: "Ateliers & Rencontres"
+      - title: "Workshops & meetings"
         link: "/ateliers/"
-      - title: "Dispositif Cocon"
+      - title: "Cocon support programme"
         link: "/dispositif_cocon/"
   - title: "RCJSM 2026"
     link: "/rcjsm_2026/"
     items:
-      - title: "Présentation des Rencontres 2026"
+      - title: "About the 2026 meeting"
         link: "/rcjsm_2026/"
-      - title: "Nos sponsors & Partenaires"
+      - title: "Our sponsors & partners"
         link: "/rcjsm_sponsors_2026/"
-      - title: "Déposer votre résumé (RCJSM 2026)"
+      - title: "Submit your abstract (RCJSM 2026)"
         link: "/abstract_rcjsm/"
-  - title: "Emploi"
+  - title: "Jobs"
     link: "/jobs/"
-  - title: Nous sponsoriser
+  - title: Sponsor us
     link: "/sponsoring/"
 socials:
-  - title: LinkeDin
+  - title: LinkedIn
     link: https://www.linkedin.com/company/cjsmsfsm/posts/
-    logo_image: /img/linkedin.svg      
+    logo_image: /img/linkedin.svg
   - title: email
     link: mailto:clubjeunesm@gmail.com
-    logo_image: /img/email.svg    
+    logo_image: /img/email.svg
 cta:
   active: false
   title: Get started
   link: /get-started/
-preheader: 
+preheader:

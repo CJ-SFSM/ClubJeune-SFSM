@@ -1,54 +1,50 @@
 ---
-title: Nos actions
+title: Our activities
 ---
 
 {{< brick_wide >}}
 {{< breadcrumbs >}}
 
-# Nos actions
-
+# Our activities
 
 {{< brick_blocks >}}
 
-
-Nous mettons en place des actions pour nos membres du CJSM. En tant que membres, vous pouvez participez à ces actions !
-N'attendez-plus, [rejoignez-nous !](/adhesion/)
+We organise activities for CJSM members. As a member, you can take part!
+[Join us today!](/adhesion/)
 
 ---
 ![](/uploads/actions/webinaire.png)
-### Webinaires
+### Webinars
 
-Des webinaires tous les mois.
+Webinars every month.
 
 [](/webinaires/)
 
 ---
 
-
 ![](/uploads/actions/mentorat.png)
-### Mentorat
+### Mentoring
 
-Nous proposons deux formules de mentorat pour répondre à vos besoins.
+We offer two mentoring formats to suit your needs.
 
 [](/mentorat/)
 
 ---
 
 ![](/uploads/actions/workshop.png)
-### Ateliers
+### Workshops
 
-Des ateliers sont organisés pour réunir les membres du Club Jeune. 
+Workshops bring Young Scientists' Club members together.
 
 [](/ateliers/)
 ---
 
 ![](/uploads/actions/BienEtre_Travail.png)
-### Dispositif cocon
+### Cocon support programme
 
-Des difficultés ? Un dispositif d'écoute et de soutien est disponible.
+Facing difficulties? Our listening and support programme is here for you.
 
 [](/dispositif_cocon/)
-
 
 {{< /brick_blocks >}}
 {{< /brick_wide >}}

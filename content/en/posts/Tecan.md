@@ -1,22 +1,22 @@
 ---
-title: Webinaire Techniques de fragmentations, sponsorisé par Tecan
+title: Fragmentation techniques webinar, sponsored by Tecan
 image: /uploads/actualite/TECAN.jpeg
 date: 2026-02-27
-tags: 
-  - Webinaire
---- 
+tags:
+  - Webinar
+slug: webinaire-techniques-de-fragmentations-sponsorisé-par-tecan
+---
 
 ![](/uploads/actualite/TECAN.jpeg)
 
-## Webinaire du Lundi 2 mars 2026
+## Webinar on Monday 2 March 2026
 
-Rendez-vous Lundi 2 Mars entre 12h15 et 13h15 pour le septième webinaire portant sur les techniques de fragmentations et sponsorisé par **Tecan**.
+Join us on Monday 2 March, from 12:15 to 13:15, for our seventh webinar, on fragmentation techniques, sponsored by **Tecan**.
 
-Notre orateur pour cette session sera : 
+Our speaker for this session is:
 
-- **Corentin Beaumal**, NIBRT : Benefits of using various fragmentation techniques for biopharmaceutical characterisation.
+- **Corentin Beaumal**, NIBRT: Benefits of using various fragmentation techniques for biopharmaceutical characterisation.
 
-Ce webinaire est sponsorisé par **Tecan**, et nous aurons également le plaisir d’accueillir **Caroline Delmotte**, experte en chromatographie et SPE chez Tecan, qui nous parlera des solutions Tecan dédiées à la préparation d’échantillons et de leur intégration dans les workflows analytiques.
+This webinar is sponsored by **Tecan**. We will also welcome **Caroline Delmotte**, a chromatography and SPE expert at Tecan, who will discuss Tecan's sample preparation solutions and their integration into analytical workflows.
 
 ![](/uploads/actualite/webinaires_2026.png)
-

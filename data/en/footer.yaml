@@ -1,16 +1,16 @@
 logo_image:
 menuitems:
-  - title: À propos
+  - title: About us
     link:  /team/
-  - title: Accueil
+  - title: Home
     link:  /#top
-  - title: Réglement du CJSM
+  - title: CJSM rules
     link:  /privacy-policy/
 socials:
-  - title: LinkeDin
+  - title: LinkedIn
     link: https://www.linkedin.com/company/cjsmsfsm/posts/
-    logo_image: /img/linkedin.svg      
+    logo_image: /img/linkedin.svg
   - title: email
     link: mailto:clubjeunesm@gmail.com
-    logo_image: /img/email.svg      
-footer_text: Ce thème est libre d'accès. Plus d'informations sur [Github](https://github.com/jhvanderschee/hugobricks)!
+    logo_image: /img/email.svg
+footer_text: This theme is freely available. Find out more on [Github](https://github.com/jhvanderschee/hugobricks)!

@@ -1,24 +1,24 @@
 ---
-title: Election des nouveaux membres du CA CJSM
+title: Election of new CJSM board members
 image: /uploads/actualite/new_member.jpg
 date: 2025-05-31
 
 
+slug: election-des-nouveaux-membres-du-ca-cjsm
 ---
 
-## Election CJSM
+## CJSM election
 
-Nous avons le plaisir de vous dévoiler nos trois nouvelles membres du CA du CJSM.
+We are pleased to introduce three new members of the CJSM board.
 
-Vous avez été nombreuses et nombreux à participer aux votes. Nous vous remercions pour votre contribution et faire vivre le CJSM.</p>
+Many of you took part in the vote. Thank you for contributing and keeping the CJSM active.
 
+## New board members
 
-## Nouveaux membres du CA
+The Balotilo vote produced the following results:
 
-Les urnes de Batolito nous montre les résultats suivants : 
-- Carla Orlandi est représentée pour le rôle de Vice-Présidente. Elle assistera Nathan Trollé. (Lettre de motivation)
-- Rania Benazza représente le Pôle Diffusion et Réseaux. (Lettre de motivation)
-- Isabelle Fabrizi est associée au Pôle Numérique. (Lettre de motivation)
+- Carla Orlandi was elected Vice-President. She will assist Nathan Trollé. (Cover letter)
+- Rania Benazza will join the Communications and Networking team. (Cover letter)
+- Isabelle Fabrizi will join the Digital team. (Cover letter)
 
-Nous reviendrons vers vous pour officialiser l'entrée de nos trois nouvelles recrues.
-
+We will be in touch to officially welcome our three new recruits.
