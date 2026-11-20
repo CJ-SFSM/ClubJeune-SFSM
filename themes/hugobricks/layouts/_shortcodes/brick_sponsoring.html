@@ -2,7 +2,7 @@
 {{- $logo := "/uploads/branding/logo-sponsoring.jpg" | relURL -}}
 <link rel="stylesheet" href="{{ "css/sponsoring.css" | relURL }}">
 <script src="{{ "js/sponsoring.js" | relURL }}" defer></script>
-<section class="wide sponsoring-section">
+<section class="wide sponsoring-section" data-language="{{ .Page.Language.Lang }}">
   <div class="container">
     {{- replace $form "../branding/logo-sponsoring.jpg" $logo | safeHTML -}}
   </div>

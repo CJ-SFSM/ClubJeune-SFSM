@@ -1,40 +1,14 @@
 (() => {
 const sponsorRoot = document.getElementById("sponsoring-form");
     const checkboxes = sponsorRoot.querySelectorAll('.item');
-    const totalSpan = sponsorRoot.querySelector('#total');
-    const exportBox = sponsorRoot.querySelector('#exportBox');
 
     // Add event listeners to don libre inputs to update total on change
     sponsorRoot.querySelectorAll('.don-libre').forEach(input => {
         input.addEventListener('input', updateTotal);
     });
 
- /* Choix de la langue */
 const frDiv = sponsorRoot.querySelector('#fr');
 const enDiv = sponsorRoot.querySelector('#en');
-const langBtn = sponsorRoot.querySelector('#langBtn');
-
-langBtn.addEventListener('click', () => {
-    // lire le style réel de l’élément
-    const frVisible = window.getComputedStyle(frDiv).display !== "none";
-    if (frVisible) {
-        frDiv.style.display = "none";
-        enDiv.style.display = "block";
-        langBtn.textContent = "Français";  
-    } else {        
-        frDiv.style.display = "block";        
-        enDiv.style.display = "none";
-        langBtn.textContent = "English";
-    }
-    // Clear all checked checkboxes in both sections
-    sponsorRoot.querySelectorAll('input[type="checkbox"]').forEach(cb => cb.checked = false);
-    // Clear all don-libre values in both sections
-    sponsorRoot.querySelectorAll('.don-libre').forEach(input => input.value = "");
-    // Remise à zéro du total et du message
-    updateTotal();
-    // Remise à zéro de la zone d'export
-    exportBox.value = "";
-});
 
 /* Fonction Calcul du montant total choisi*/
 function updateTotal() {
@@ -103,13 +77,13 @@ function exportSelection() {
     // Tester la langue active (fr ou en)
     const frVisible = window.getComputedStyle(sponsorRoot.querySelector('#fr')).display !== "none";
     const isEnglish = !frVisible;
-    
+
     // On choisit la bonne section (FR ou EN) en fonction du résultat du test
     const section = isEnglish ? sponsorRoot.querySelector('#en') : sponsorRoot.querySelector('#fr');
     const checkboxes = section.querySelectorAll('.item');
     const donLibreInput = section.querySelector('.don-libre');
     const exportBox = section.querySelector('#exportBox');
-    
+
     let lines = [];
     let total = 0;
 
@@ -145,11 +119,11 @@ function exportSelection() {
         lines.push("\n" + messageDiv.textContent);
         }
     }
-    
+
     exportBox.value = lines.join("\n");
 }
     checkboxes.forEach(cb => cb.addEventListener('change', updateTotal));
-   
-  
+
+
 sponsorRoot.querySelectorAll('[data-export-selection]').forEach(button => button.addEventListener('click', exportSelection));
 })();

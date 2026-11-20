@@ -7,13 +7,11 @@
 #sponsoring-form button { margin-top: 20px; padding: 10px 20px; font-size: 1em; cursor: pointer; }
 #sponsoring-form textarea { width: 100%; height: 120px; margin-top: 10px; }
 #sponsoring-form .packs-container { display: flex; justify-content: space-between; gap: 15px; margin-top: 15px;}
-#sponsoring-form .lang {} /* Classe pour les blocs de langue */
 #sponsoring-form #fr {display: block;} /* français visible par défaut */
 #sponsoring-form #en {display: none;} /* anglais caché par défaut */
-/* Bouton de changement de langue */
-#sponsoring-form #langBtn {padding: 10px 20px;background-color: #c9342b;color: white;border: none;
-        border-radius: 5px;cursor: pointer;font-weight: bold;margin-bottom: 20px;}
-#sponsoring-form #langBtn:hover {background-color: #c9342b;}
+/* Le formulaire suit la langue de la page dès son affichage. */
+.sponsoring-section[data-language="en"] #sponsoring-form #fr {display: none;}
+.sponsoring-section[data-language="en"] #sponsoring-form #en {display: block;}
 /* Styles pour chaque boite autour des pack */
 #sponsoring-form .packclassique { flex: 1; border: 2px solid #665895; border-radius: 10px; padding: 15px;
   text-align: center; transition: all 0.2s ease-in-out; cursor: pointer; background-color: #66589538}
@@ -65,7 +63,7 @@
 }
 
 .filename_sponsoring section.wide.sponsoring-section {
-  padding-top: 0;
+  padding-top: 1.5rem;
 }
 
 .filename_sponsoring #sponsoring-form {
