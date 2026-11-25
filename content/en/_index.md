@@ -7,7 +7,7 @@ title: Home
 {{< /brick_intro >}}
 
 {{< brick_intro >}}
-The **CJSM** is a community of young researchers promoting discussion, mentoring and the visibility of research in mass spectrometry.
+The **Club Jeune de Spectrométrie de Masse (CJSM)** is the young scientists' club of the **French Society for Mass Spectrometry (SFSM)**. Our community of young researchers promotes discussion, mentoring and the visibility of research in mass spectrometry.
 
 {{< button "Meet the board" "/team/" >}}
 
