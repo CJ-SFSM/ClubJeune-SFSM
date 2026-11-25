@@ -82,7 +82,7 @@
           <div class="navnav languages">
             <ul>
               <li class="haschildren">
-                <a href="{{ .RelPermalink }}">{{ .Site.Language.Lang | upper }}</a>
+                <a href="{{ .RelPermalink }}" onclick="event.preventDefault();">{{ .Site.Language.Lang | upper }}</a>
                 <ul>
 					{{ range .Translations }}
                     <li><a href="{{ .RelPermalink }}" lang="{{ .Language.Lang }}">{{ .Language.LanguageName }}</a></li>

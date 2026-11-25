@@ -1,5 +1,7 @@
 - name: Nathan TRAULLÉ
-  function: President
+  function:
+    fr: Président
+    en: President
   image: /uploads/trombi/Nathan_2026.png
   description: LCP-A2MC (Metz)
   email: nathan.traulle@univ-lorraine.fr
@@ -7,7 +9,9 @@
   linkedin:
   website:
 - name: Gauthier ROSÉ
-  function: Advisory President
+  function:
+    fr: Président-Conseil
+    en: Advisory President
   image: /uploads/trombi/Gauthier.jpg
   description:  Hermès (Pantin)
   email: gauthier.rose@mnhn.fr
@@ -16,7 +20,9 @@
   website:
   variant: council
 - name: Carla ORLANDI
-  function: Vice-President
+  function:
+    fr: Vice-Présidente
+    en: Vice-President
   image: /uploads/trombi/Carla.png
   description: INRAE TOXALIM, MTH-Metatoul-AXIOM
   email: carla.orlandi@inrae.fr
@@ -24,7 +30,9 @@
   linkedin:
   website:
 - name: Sarah ALILAT
-  function: Treasurer
+  function:
+    fr: Trésorière
+    en: Treasurer
   image: /uploads/trombi/CJ-2026-2027/Tresorier.png
   description:
   email:
@@ -32,7 +40,9 @@
   linkedin:
   website:
 - name: Aya FAKIH
-  function: Secretary
+  function:
+    fr: Secrétaire
+    en: Secretary
   image: /uploads/trombi/CJ-2026-2027/Aya.jpg
   description:
   email:
@@ -40,7 +50,9 @@
   linkedin:
   website:
 - name: Rania BENAZZA
-  function: Communications and Networking Officer
+  function:
+    fr: Responsable Diffusion et Réseaux
+    en: Communications and Networking Officer
   image: /uploads/trombi/Rania.jpg
   description: INRAE, Nantes
   email: rania.benazza@inrae.fr
@@ -48,7 +60,9 @@
   linkedin:
   website:
 - name: Alix MUNOZ
-  function: Industry and Academic Relations Officer
+  function:
+    fr: Responsable Relations Industrielles et Académiques
+    en: Industry and Academic Relations Officer
   image: /uploads/trombi/Alix.jpg
   description: Laboratoire Central de la Préfecture de Police (LCPP), Spectrométrie de Masse Biologique et Protéomique (SMBP, ESPCI)
   email: alix.munoz@espci.fr
@@ -56,7 +70,9 @@
   linkedin:
   website:
 - name: Isabelle FABRIZI
-  function: Deputy Industry and Academic Relations Officer
+  function:
+    fr: Adjointe Relations Industrielles et Académiques
+    en: Deputy Industry and Academic Relations Officer
   image: /uploads/trombi/Isabelle.png
   description: Miniaturisation pour la Synthèse, l’Analyse et la Protéomique (MSAP), UAR CNRS 3290, Université de Lille
   email: isabelle.fabrizi.etu@univ-lille.fr
@@ -64,7 +80,9 @@
   linkedin:
   website:
 - name: Marie VALMORI
-  function: Digital Officer
+  function:
+    fr: Responsable Numérique
+    en: Digital Officer
   image: /uploads/trombi/VALMORIMarie.jpg
   description: CEA Saclay, service SPI, Laboratoire LI-MS, Université Paris-Saclay
   email: marie.valmori@cea.fr
@@ -72,9 +90,11 @@
   linkedin:
   website:
 - name: Valentin HOTTLET
-  function: Deputy Digital Officer
+  function:
+    fr: Adjoint Numérique
+    en: Deputy Digital Officer
   image: /uploads/trombi/CJ-2026-2027/Valentin.jpg
-  description: Université de Lille
+  description: CRIStAL (UMR 9189), Université de Lille
   email: valentin.hottlet@univ-lille.fr
   phone:
   linkedin:

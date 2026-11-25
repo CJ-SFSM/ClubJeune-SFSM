@@ -1,5 +1,5 @@
 {{ $dir := string (.Get "dir") }}
-{{ $logos := (index site.Data site.Language.Lang).sponsors2026 }}
+{{ $logos := site.Data.sponsors2026 }}
 
 {{ if not $logos }}
   <p><strong>{{ i18n "sponsor.missing_data" }}</strong></p>

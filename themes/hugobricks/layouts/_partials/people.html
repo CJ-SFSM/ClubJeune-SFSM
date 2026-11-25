@@ -1,10 +1,10 @@
 <ul class="grid people">
-    {{- range (index page.Site.Data page.Site.Language.Lang).people -}}
+    {{- range page.Site.Data.people -}}
         <li>
             <div class="box">
             <img src="{{ .image }}" alt="{{ .name }}" class="avatar colorize_image" />
             <h3>{{- .name -}}</h3>
-            <div class="function">{{- .function | safeHTML -}}</div>
+            <div class="function">{{- index .function page.Site.Language.Lang | safeHTML -}}</div>
             <p>{{- .description | safeHTML -}}</p>
             <ul class="buttons">
                 {{- if .phone -}}
