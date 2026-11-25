@@ -11,6 +11,11 @@ disableKinds:
 relativeURLs: true
 canonifyURLs: true
 
+params:
+  abstractSubmission:
+    endpoint: "https://script.google.com/macros/s/AKfycbxJqSK__F8Yl0lx9nxD0EuVZbmToeaqZTKfBFP7rSwPhQlavHyZh86SgnrqNQHEBuJUoQ/exec"
+    turnstileSiteKey: ""
+
 markup:
   goldmark:
     renderer:

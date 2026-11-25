@@ -106,6 +106,28 @@ abstract.consent:
   other: "I confirm that this information follows the required format and consent to the processing of this submission."
 abstract.submit:
   other: "Submit"
+abstract.sending:
+  other: "Saving your abstract… Keep this page open."
+abstract.retrying:
+  other: "The confirmation is taking longer than expected. Retrying… Keep this page open."
+abstract.success:
+  other: "Your abstract has been saved. Keep your reference:"
+abstract.email_sent:
+  other: "A confirmation email has been sent to the address you provided. Please check your spam folder."
+abstract.email_failed:
+  other: "The confirmation email could not be sent. Your abstract has been saved: keep your reference and do not submit it again."
+abstract.email_unknown:
+  other: "We could not confirm that the confirmation email was sent. Your abstract has been saved: keep your reference and do not submit it again."
+abstract.error:
+  other: "We could not confirm that your abstract was saved. Your text is still on this page. Retry without changing the fields to avoid duplicates. If the problem persists, contact clubjeunesm@gmail.com."
+abstract.invalid:
+  other: "Check the required fields, topics, abstract (maximum 300 words and 2,500 characters) and consent, then retry. If you select Other, please specify the topic."
+abstract.word_limit:
+  other: "The abstract must contain no more than 300 words."
+abstract.captcha:
+  other: "Antispam verification is required. Retry the verification, or copy your text before reloading this page."
+abstract.javascript_required:
+  other: "Enable JavaScript to submit your abstract and receive confirmation that it was saved."
 abstract.example:
   other: "E.g. "
 abstract.affiliation_1:

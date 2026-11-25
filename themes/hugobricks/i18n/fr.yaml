@@ -51,6 +51,28 @@ abstract.consent:
   other: "Je certifie que ces informations respectent le format demandé et j’accepte le traitement de la soumission."
 abstract.submit:
   other: "Soumettre"
+abstract.sending:
+  other: "Enregistrement du résumé en cours… Gardez cette page ouverte."
+abstract.retrying:
+  other: "La confirmation tarde à arriver. Nouvelle tentative en cours… Gardez cette page ouverte."
+abstract.success:
+  other: "Votre résumé a bien été enregistré. Conservez votre référence :"
+abstract.email_sent:
+  other: "Un email de confirmation a été envoyé à l’adresse renseignée. Pensez à vérifier vos courriers indésirables."
+abstract.email_failed:
+  other: "L’email de confirmation n’a pas pu être envoyé. Votre résumé est bien enregistré : conservez votre référence et ne le soumettez pas à nouveau."
+abstract.email_unknown:
+  other: "L’envoi de l’email de confirmation n’a pas pu être confirmé. Votre résumé est bien enregistré : conservez votre référence et ne le soumettez pas à nouveau."
+abstract.error:
+  other: "L’enregistrement n’a pas pu être confirmé. Votre texte est conservé sur cette page. Réessayez sans modifier les champs pour éviter un doublon. Si le problème persiste, contactez clubjeunesm@gmail.com."
+abstract.invalid:
+  other: "Vérifiez les champs obligatoires, les thématiques, le résumé (300 mots et 2 500 caractères maximum) et le consentement, puis réessayez. Si vous choisissez « Autre », précisez la thématique."
+abstract.word_limit:
+  other: "Le résumé doit contenir au maximum 300 mots."
+abstract.captcha:
+  other: "La vérification antispam est nécessaire. Réessayez la vérification ou rechargez la page après avoir copié votre texte."
+abstract.javascript_required:
+  other: "Activez JavaScript pour envoyer votre résumé et recevoir la confirmation d’enregistrement."
 abstract.example:
   other: "Ex: "
 abstract.affiliation_1:

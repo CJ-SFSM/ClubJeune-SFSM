@@ -1,6 +1,23 @@
-<form action="https://getform.io/f/akkeeeea" method="POST" accept-charset="UTF-8">
-  <!-- Anti-spam Getform -->
-  <input type="hidden" name="_gotcha" style="display:none !important">
+{{ $endpoint := site.Params.abstractSubmission.endpoint | default "" }}
+{{ $turnstileKey := site.Params.abstractSubmission.turnstileSiteKey | default "" }}
+{{ if and $endpoint (not (findRE `^https://script\.google\.com/macros/s/[A-Za-z0-9_-]+/exec$` $endpoint)) }}
+  {{ errorf "abstractSubmission.endpoint doit être une URL de déploiement Apps Script https://script.google.com/macros/s/.../exec" }}
+{{ end }}
+<form class="abstract-form" action="{{ $endpoint | default "https://getform.io/f/akkeeeea" }}" method="POST" accept-charset="UTF-8"
+  {{ if $endpoint }}data-abstract-form data-language="{{ site.Language.Lang }}" data-turnstile-key="{{ $turnstileKey }}"
+  data-msg-sending="{{ i18n "abstract.sending" }}"
+  data-msg-retrying="{{ i18n "abstract.retrying" }}"
+  data-msg-success="{{ i18n "abstract.success" }}"
+  data-msg-email-sent="{{ i18n "abstract.email_sent" }}"
+  data-msg-email-failed="{{ i18n "abstract.email_failed" }}"
+  data-msg-email-unknown="{{ i18n "abstract.email_unknown" }}"
+  data-msg-error="{{ i18n "abstract.error" }}"
+  data-msg-invalid="{{ i18n "abstract.invalid" }}"
+  data-msg-word-limit="{{ i18n "abstract.word_limit" }}"
+  data-msg-captcha="{{ i18n "abstract.captcha" }}"{{ end }}>
+  <div class="abs-trap" aria-hidden="true" inert>
+    <label>Website <input type="text" name="_gotcha" tabindex="-1" autocomplete="off"></label>
+  </div>
 
   <fieldset class="abs-fieldset">
     <legend class="abs-legend">{{ i18n "abstract.legend" }}</legend>
@@ -54,6 +71,7 @@
       id="affiliation_1"
       name="affiliation_1"
       type="text"
+      required
       maxlength="220"
       placeholder="{{ i18n "abstract.affiliation_example" }}"
     />
@@ -187,16 +205,27 @@
     <input class="abs-input" id="email" name="email" type="email" required maxlength="254" />
 
     <label class="abs-check">
-      <input type="checkbox" name="consent" required />
+      <input type="checkbox" name="consent" value="yes" required />
       {{ i18n "abstract.consent" }}
     </label>
 
-    <button class="abs-btn" type="submit">{{ i18n "abstract.submit" }}</button>
+    {{ if $endpoint }}
+    <div data-abstract-captcha></div>
+    <p class="abs-status" data-abstract-status role="status" aria-live="polite" tabindex="-1"></p>
+    <noscript><p>{{ i18n "abstract.javascript_required" }}</p></noscript>
+    {{ end }}
+    <button class="abs-btn" type="submit" {{ if $endpoint }}disabled{{ end }}>{{ i18n "abstract.submit" }}</button>
   </fieldset>
 </form>
 
+{{ if $endpoint }}
+{{ $script := resources.Get "js/abstract-submission.js" | minify }}
+<script src="{{ $script.Permalink }}" defer></script>
+{{ end }}
+
 <style>
-  form{display:block;margin:0 auto;max-width:820px}
+  .abstract-form{display:block;margin:0 auto;max-width:820px}
+  .abs-trap{position:absolute;left:-10000px;width:1px;height:1px;overflow:hidden}
   .abs-fieldset{width:100%;border:1px solid #ddd;border-radius:14px;padding:16px}
   .abs-legend{font-weight:700;padding:0 6px}
   .abs-label{display:block;margin-top:12px;font-weight:600}
@@ -207,4 +236,10 @@
   .abs-btn{margin-top:16px;padding:10px 16px;border-radius:12px;border:0;cursor:pointer}
   .abs-radio{display:block;margin-top:10px}
   .abs-radio input{margin-right:8px}
+  .abs-btn:disabled{opacity:.6;cursor:wait}
+  .abs-status:empty{display:none}
+  .abs-status{margin-top:16px;padding:12px;border:1px solid currentColor;border-radius:8px;white-space:pre-line}
+  .abs-status[data-state="error"]{color:#a51d24}
+  .abs-status[data-state="success"]{color:#176536}
+  .abs-status[data-state="warning"]{color:#795000}
 </style>
